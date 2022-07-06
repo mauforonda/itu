@@ -1,0 +1,24 @@
+year,country,iso,value,note,source
+2018,Bahrain,BHR,0.128751,,Telecommunications Regulatory Authority (TRA)
+2019,Côte d'Ivoire,CIV,0.0151218,,ARTCI
+2017,Egypt,EGY,0.227232,,Central Agency For Public Mobilization And Statistics (CAPMAS)
+2018,Egypt,EGY,0.216074,,Ministry of Communications and Information Technology
+2019,Egypt,EGY,0.0353184,,Ministry of Communications and Information Technology
+2020,Israel,ISR,0.643675,,CENTRAL BUREAU OF STATISTICS
+2017,Japan,JPN,3.31633,,Ministry of Internal Affairs and Communications
+2018,Kuwait,KWT,5.14992,,comminucations and information technology regulatory authority
+2020,Kuwait,KWT,2.25035,,Communication and Information Technology Regulatory Authority
+2017,Mexico,MEX,0.193666,,Instituto Nacional de Estadística y Geografía (INEGI)
+2018,Mexico,MEX,0.180095,,Instituto Nacional de Estadística y Geografía (INEGI)
+2019,Mexico,MEX,0.134949,,Instituto Nacional de Estadística y Geografía (INEGI)
+2020,Mexico,MEX,0.869863,,Instituto Nacional de Estadística y Geografía (INEGI)
+2020,Norway,NOR,34.4751,,Statistics Norway
+2017,Russian Federation,RUS,0.374114,,Federal State Statistics Service (ROSSTAT)
+2018,Russian Federation,RUS,0.344484,,Federal State Statistics Service (Rosstat) 
+2019,Russian Federation,RUS,0.393468,,Federal State Statistics Service (Rosstat) 
+2019,Switzerland,CHE,30.0779,,Office fédéral de la statistique
+2020,United Arab Emirates,ARE,0.343247,,Telecommunications & Digital Gevernment Regulatory Authority
+2020,Zimbabwe,ZWE,0.0131678,,Zimbabwe National Statistics Agency (ZIMSTAT)
+2018,Kazakhstan,KAZ,5.4466,,Ministry of National Economy of the Republic of Kazakhstan Committee on Statistics
+2019,Kazakhstan,KAZ,5.77293,,Ministry of National Economy of the Republic of Kazakhstan Committee on Statistics
+2020,Kazakhstan,KAZ,7.50227,,Agency for Strategic planning and reforms of the Republic of Kazakhstan Bureau of National statistics

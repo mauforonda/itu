@@ -1,0 +1,2095 @@
+year,country,iso,value,note,source
+2014,Aruba,ABW,0,ITU estimate,ITU estimate
+2015,Aruba,ABW,80,,ITU estimate
+2016,Aruba,ABW,95,,ITU estimate.
+2019,Aruba,ABW,95,,ITU estimate.
+2020,Aruba,ABW,95,,ITU estimate.
+2013,Afghanistan,AFG,28,,"Afghanistan Telecommunication Regulatory Authority , Ministry of Communications & Information Technology"
+2014,Afghanistan,AFG,35,,"Afghanistan Telecommunication Regulatory Authority , Ministry of Communications & Information Technology"
+2015,Afghanistan,AFG,32,,Afghanistan Telecommunication Regulatory Authority Ministry of Communications & Information Technology (MCIT)
+2016,Afghanistan,AFG,24,,Afghanistan Telecom Regulatory Authority
+2017,Afghanistan,AFG,46,,Afghanistan Telecom Regulatory Authority
+2018,Afghanistan,AFG,55,,Afghanistan Telecommunication Regulatory Authority.
+2019,Afghanistan,AFG,57,Figure for 2019 was 57.,Afghanistan Telecommunication Regulatory Authority.
+2020,Afghanistan,AFG,57,,Afghanistan Telecommunication Regulatory Authority.
+2012,South Africa,ZAF,84.25,,ITU estimate.
+2013,South Africa,ZAF,90.4,,ITU estimate.
+2014,South Africa,ZAF,95,,Independent Communications Authority of South Africa
+2015,South Africa,ZAF,98,,Independent Communications Authority of South Africa
+2016,South Africa,ZAF,98,,Independent Communication Authority of South Africa
+2017,South Africa,ZAF,98.61,,Independent Communication Authority of South Africa
+2018,South Africa,ZAF,99.51,,Independent Communications Authority of South Africa
+2019,South Africa,ZAF,99.66,,Independent Communications Authority of South Africa
+2020,South Africa,ZAF,99.8,,Independent Communications Authority of South Africa
+2011,Angola,AGO,40,,ANGOLAN COMMUNICATIONS REGULATORY AUTHORITY
+2012,Angola,AGO,47,,ANGOLAN COMMUNICATIONS REGULATORY AUTHORITY
+2013,Angola,AGO,53,,ANGOLAN COMMUNICATIONS REGULATORY AUTHORITY
+2014,Angola,AGO,46,,Angolan Institute of Communications
+2015,Angola,AGO,60.67,,ITU estimate.
+2016,Angola,AGO,62,,Angolan Institute of Communications
+2017,Angola,AGO,85,,Angolan Institute of Communications
+2018,Angola,AGO,85,,INACOM
+2019,Angola,AGO,85,,INACOM
+2020,Angola,AGO,87.2,,INACOM
+2012,Anguilla,AIA,22.36,,ITU estimate.
+2013,Anguilla,AIA,36,,ITU estimate.
+2014,Anguilla,AIA,78,,ITU estimate.
+2015,Anguilla,AIA,99,,ITU estimate
+2016,Anguilla,AIA,99,,ITU estimate.
+2019,Anguilla,AIA,99,,ITU estimate.
+2020,Anguilla,AIA,99,,ITU estimate.
+2011,Albania,ALB,85.6,,Minister for Innovation and ICT
+2012,Albania,ALB,99,,National Agency on Information Society
+2013,Albania,ALB,99,,National Agency on Information Society
+2014,Albania,ALB,99,,Minister of State for the Innovation and Public Administration
+2015,Albania,ALB,99,,Minister of State for the Innovation and Public Administration
+2016,Albania,ALB,99,,AKEP
+2017,Albania,ALB,99.2,,Ministry of Infrastructure and Energy
+2018,Albania,ALB,99.2,,Ministry of Infrastructure and Energy
+2019,Albania,ALB,99.2,,Ministry of Infrastructure and Energy
+2020,Albania,ALB,99.2,,Ministry of Infrastructure and Energy
+2013,Algeria,DZA,6,Source: ARPT,Ministère de la Poste et des Technologies de l'Information et de la Communication
+2014,Algeria,DZA,23.23,Source: ARPT,Ministère de la Poste et des Technologies de l'Information et de la Communication
+2015,Algeria,DZA,46,"NOV-2015  (il s'agit d'une moyenne, pour 28 wilayas de la première année contrôlée)",Ministère de la  Poste et des Technologies de l'Information et de la Communication
+2016,Algeria,DZA,83.36,Source : ARPT,"Ministère de la Poste, des Télécommunications, des Technologies et du Numérique"
+2017,Algeria,DZA,90,,Ministère de la Poste et des Télécommunications
+2018,Algeria,DZA,97.45,"Taux corrigé après correction par l'Autorité de régulation ""ARPCE"" ",Ministère de la Poste et des Télécommunications
+2019,Algeria,DZA,97.72,,Ministère de la Poste et des Télécommunications
+2020,Algeria,DZA,98.97,,Ministère de la Poste et des Télécommunications
+2009,Andorra,AND,95.3,,Andorra Telecom
+2010,Andorra,AND,95.3,,Servei de Telecomunicacions d'Andorra
+2011,Andorra,AND,95.3,,Servei de Telecomunicacions d'Andorra
+2012,Andorra,AND,95.3,,Servei de Telecomunicacions d'Andorra
+2013,Andorra,AND,95.3,,Servei de Telecomunicacions d'Andorra
+2014,Andorra,AND,95.3,,Andorra Telecom SAU
+2015,Andorra,AND,97,,Andorra Telecom SAU
+2016,Andorra,AND,97,,Andorra Telecom SAU
+2017,Andorra,AND,98,,Andorra Telecom SAU
+2018,Andorra,AND,98,,Andorra Telecom SAU
+2019,Andorra,AND,98,,Andorra Telecom SAU
+2020,Andorra,AND,98,,ITU estimate.
+2012,Argentina,ARG,72.05,,ITU estimate.
+2013,Argentina,ARG,77.68,,ITU estimate.
+2014,Argentina,ARG,80,ITU estimate,ITU estimate
+2015,Argentina,ARG,90,,ITU estimate.
+2016,Argentina,ARG,95,,Ente Nacional de Comunicaciones
+2017,Argentina,ARG,95,,Ente Nacional de Comunicaciones
+2018,Argentina,ARG,95,,Ente Nacional de Comunicaciones
+2019,Argentina,ARG,95,,Ente Nacional de Comunicaciones
+2020,Argentina,ARG,98.5,,Ente Nacional de Comunicaciones
+2009,Armenia,ARM,81.1,"ArmenTel, only",Ministry of Transport and Communications
+2010,Armenia,ARM,93,Orange Armenia,Ministry of Transport and Communications
+2011,Armenia,ARM,95,,Ministry of Transport and Communication of Armenia
+2012,Armenia,ARM,96.3,,Ministry of Transport and Communication of Armenia
+2013,Armenia,ARM,97.68,,Ministry of Transport and Communication of Armenia
+2014,Armenia,ARM,98.8,,Ministry of Transport and Communication of Armenia
+2015,Armenia,ARM,99.9,,Ministry of Transport and Communication of Armenia
+2016,Armenia,ARM,100,,"Ministry of Transport, Communication and Information Technologies of Armenia"
+2017,Armenia,ARM,100,,"Ministry of Transport, Communication and Information Technologies of Armenia"
+2018,Armenia,ARM,100,,Ministry of High-Tech Industry of Armenia
+2019,Armenia,ARM,100,,Ministry of High-Tech Industry of Armenia
+2020,Armenia,ARM,100,,Ministry of High-Tech Industry of Armenia
+2009,Saudi Arabia,SAU,85,,CITC
+2010,Saudi Arabia,SAU,90,,Communication and Information Technology Commission
+2011,Saudi Arabia,SAU,93.8,,Communication and Information Technology Commission
+2012,Saudi Arabia,SAU,95.08,,Communication and Information Technology Commission
+2013,Saudi Arabia,SAU,97,,Communication and Information Technology Commission
+2014,Saudi Arabia,SAU,97,,Communication and Information Technology Commission
+2015,Saudi Arabia,SAU,97,,Communication and Information Technology Commission
+2016,Saudi Arabia,SAU,97.15,,Communications and Information Technology Commission (CITC)
+2017,Saudi Arabia,SAU,98,,Communications and Information Technology Commission (CITC)
+2018,Saudi Arabia,SAU,98.1,,CITC
+2019,Saudi Arabia,SAU,98.86,,CITC
+2020,Saudi Arabia,SAU,99.12,,CITC
+2009,Antigua and Barbuda,ATG,0,,"Ministry of Information, Broadcasting and Telecommunications"
+2010,Antigua and Barbuda,ATG,0,,"Ministry of Information, Broadcasting, Telecommunications, Science & Technology"
+2011,Antigua and Barbuda,ATG,0,,"Telecom Divison/Ministry of Information, Broadcasting, Telecommunications, Science & Technology"
+2012,Antigua and Barbuda,ATG,98,,"Telecom Divison/Ministry of Telecommunications, Science & Technology"
+2013,Antigua and Barbuda,ATG,98,,"Telecoms Divison/Ministry of Information, Broadcasting, Telecommunications, & Information Technology"
+2014,Antigua and Barbuda,ATG,98,,"Ministry of Information, Broadcasting, Telecommunications, and Information Technology"
+2015,Antigua and Barbuda,ATG,98,ITU estimate,ITU estimate
+2016,Antigua and Barbuda,ATG,99,,ITU estimate.
+2017,Antigua and Barbuda,ATG,99,,ITU estimate.
+2019,Antigua and Barbuda,ATG,99,,ITU estimate.
+2020,Antigua and Barbuda,ATG,99,,ITU estimate.
+2008,Australia,AUS,98.8,,ITU estimate.
+2009,Australia,AUS,99,,ACMA.
+2010,Australia,AUS,99,,"Department of Broadband, Communications and the Digital Economy"
+2011,Australia,AUS,99,,ACMA Communications Report 2010-11.
+2012,Australia,AUS,99,,"Department of Broadband, Communications and the Digital Economy"
+2013,Australia,AUS,99,,Department of Communications
+2014,Australia,AUS,99,,Department of Communications
+2015,Australia,AUS,99,Department of Communications and the Arts https://www.communications.gov.au/what-we-do/phone/mobile-services-and-coverage/mobile-phone-towers,Department of Communications and the Arts
+2016,Australia,AUS,99.3,"ACMA communications Report 2017-18, pp.4  As of June  https://www.acma.gov.au/-/media/Research-and-Analysis/Report/pdf/Communications-report-2017-18-pdf.pdf?la=en  ",Department of Communications and the Arts
+2017,Australia,AUS,99.4,"Financial year data.     Source: Telstra (2017), Telstra Annual Report 2017, p.12,   ""We continue to expand our mobile network... covering 99.4 per cent of the population""    https://www.telstra.com.au/content/dam/tcom/about-us/investors/pdf-e/Annual-Report-2017.pdf","Department of Infrastructure, Transport, Regional Development and Communications"
+2018,Australia,AUS,99.4,"Financial year data.     Source: ACMA communications Report 2017-18, pp.4.  ""Improvements to the 4G mobile networks has seen combined 3G and 4G coverage now reaching 99.4 per cent of Australia’s population""""    https://www.acma.gov.au/-/media/Research-and-Analysis/Report/pdf/Communications-report-2017-18-pdf.pdf?la=en    ","Department of Infrastructure, Transport, Regional Development and Communications"
+2019,Australia,AUS,99.5,"Financial year data.    Source: Telstra (2019), Telstra Annual Report 2019, p.5,   ""[mobile] coverage extends to 99.5 per cent of the Australian population.""     https://www.telstra.com.au/content/dam/tcom/about-us/investors/pdf%20F/2019-Annual-Report-singlepages.PDF  ","Department of Infrastructure, Transport, Regional Development and Communications"
+2020,Australia,AUS,99.5,"Financial year data.    Source: Telstra (2020), Bigger Picture Sustainability Report 2020, p.6, """"our world-leading networks reach 99.5 per cent of the Australian population.""""    https://exchange.telstra.com.au/digital-futures-2020/   ","Department of Infrastructure, Transport, Regional Development and Communications"
+2007,Austria,AUT,84,,OECD.
+2009,Austria,AUT,96,3G coverage ,Rundfunk und Telekom Regulierungs-GmbH
+2010,Austria,AUT,96,3G coverage,Rundfunk und Telekom Regulierungs-GmbH
+2011,Austria,AUT,96,3G coverage,Rundfunk und Telekom Regulierungs-GmbH
+2012,Austria,AUT,96,3G coverage,Rundfunk und Telekom Regulierungs-GmbH
+2013,Austria,AUT,96,,Austrian Regulatory Authority for Broadcasting and Telecommunications
+2014,Austria,AUT,97,,ITU estimate.
+2015,Austria,AUT,98,,ITU estimate.
+2016,Austria,AUT,98,,RTR GmbH
+2017,Austria,AUT,98,,RTR GmbH
+2018,Austria,AUT,98,,Austrian Regulatory Authority for Broadcasting and Telecommunications
+2019,Austria,AUT,98,,Austrian Regulatory Authority for Broadcasting and Telecommunications
+2020,Austria,AUT,98,,Austrian Regulatory Authority for Broadcasting and Telecommunications
+2009,Azerbaijan,AZE,32.2,,Ministry of Communications and Information Technologies of the Republic of Azerbaijan
+2010,Azerbaijan,AZE,69.2,,Ministry of Communications and Information Technologies
+2011,Azerbaijan,AZE,89.3,,Ministry of Communications and Information Technologies (MC&IT)
+2012,Azerbaijan,AZE,96.5,,Ministry of Communications and Information Technologies (MC&IT)
+2013,Azerbaijan,AZE,96.9,,Ministry of Communications and High Technologies (MC&HT)
+2014,Azerbaijan,AZE,97.1,,Ministry of Communications and High Technologies (MC&HT)
+2015,Azerbaijan,AZE,95.47,Excluding occupied territories of Azerbaijan,"Ministry of Transport, Communications and High Technologies (MTC&HT) "
+2016,Azerbaijan,AZE,95.5,Excluding occupied territories of Azerbaijan,"Ministry of Transport, Communications and High Technologies"
+2017,Azerbaijan,AZE,96.3,Excluding occupied territories of Azerbaijan,"Ministry of Transport, Communications and High Technologies"
+2018,Azerbaijan,AZE,97.1,Excluding occupied territories of Azerbaijan,"Ministry of Transport, Communications and High Technologies"
+2019,Azerbaijan,AZE,97.6,Excluding occupied territories of Azerbaijan,"Ministry of Transport, Communications and High Technologies"
+2020,Azerbaijan,AZE,97.6,,"Ministry of Transport, Communications and High Technologies"
+2009,Brazil,BRA,55,,National Agency of Telecomunications
+2010,Brazil,BRA,67.05,,Agência Nacional de Telecomunicaçőes
+2011,Brazil,BRA,81.63,,Agência Nacional de Telecomunicaçőes
+2012,Brazil,BRA,85.98,,Agência Nacional de Telecomunicaçőes
+2013,Brazil,BRA,88.66,,Agência Nacional de Telecomunicaçőes
+2014,Brazil,BRA,92.2,Preliminary.,Agência Nacional de Telecomunicaçőes
+2015,Brazil,BRA,93.53,The value was calculated by reference to -102dBm.,Agência Nacional de Telecomunicaçőes
+2016,Brazil,BRA,95.17,The value was calculated by reference to -102dBm.,National Telecommunication Agency - Anatel
+2017,Brazil,BRA,95.52,The value was calculated by reference to -102dBm. (Estimated),National Telecommunication Agency - Anatel
+2018,Brazil,BRA,95.52,The value was calculated by reference to -102dBm. (Estimated),Anatel
+2019,Brazil,BRA,91.13,The value was calculated by reference to -102dBm (Estimated).  There was a change in the coverage prediction methodology.,Anatel
+2020,Brazil,BRA,90.11,There was a change in the coverage prediction methodology. Value derived from the propagation prediction method described in the Recommendation ITU-R P.1812-5 (resolution: 250m).,Anatel
+2012,Bahamas,BHS,34.68,,ITU estimate.
+2013,Bahamas,BHS,46.05,,ITU estimate.
+2014,Bahamas,BHS,98,Obtained from URCA's Licensees,Utilities Regulation and Competition Authority
+2015,Bahamas,BHS,98,,Utilities Regulation and Competition Authority
+2016,Bahamas,BHS,98,Obtained from URCA's Licensees,Utilities Regulation and Competition Authority
+2017,Bahamas,BHS,98,Obtained from URCA's Licensees,Utilities Regulation and Competition Authority
+2018,Bahamas,BHS,98,Obtained from URCA's Licensees,Utilities Regulation and Competition Authority
+2019,Bahamas,BHS,98,Obtained from URCA's Licensees,Utilities Regulation and Competition Authority
+2020,Bahamas,BHS,98,,ITU estimate.
+2009,Burundi,BDI,0,,Agence de Régulation et de Contrôle des Télécommunications (ARCT)
+2014,Burundi,BDI,0,ITU estimate,ITU estimate
+2015,Burundi,BDI,0,ITU estimate,ITU estimate
+2016,Burundi,BDI,11,,AGENCE DE REGULATION ET DE CONTROLE DES TELECOMMUNICATIONS
+2017,Burundi,BDI,39.02,,AGENCE DE REGULATION ET DE CONTROLE DES TELECOMMUNICATIONS
+2018,Burundi,BDI,44.48,,AGENCE DE REGULATION ET DE CONTROLE DES TELECOMMUNICATIONS(ARCT)
+2019,Burundi,BDI,48,AGENCE DE REGULATION ET DE CONTROLE DES TELECOMMUNICATIONS,AGENCE DE REGULATION ET DE CONTROLE DES TELECOMMUNICATIONS(ARCT)
+2020,Burundi,BDI,50.6,,Agence de Régulation et de Contrôle des Télécommunications 
+2007,Belgium,BEL,85,,IBPT
+2008,Belgium,BEL,89.9,,IBPT
+2009,Belgium,BEL,96.7,,IBPT
+2010,Belgium,BEL,97,,Belgian Institute for Postal Services and Telecommunications 
+2011,Belgium,BEL,97,,Belgian Institute for Postal Services and Telecommunications 
+2012,Belgium,BEL,99.5,,Belgian Institute for Postal Services and Telecommunications 
+2013,Belgium,BEL,99.5,,Belgian Institute for Postal Services and Telecommunications 
+2014,Belgium,BEL,99.5,,Belgian Institute for Postal Services and Telecommunications 
+2015,Belgium,BEL,100,,Belgian Institute for Postal Services and Telecommunications 
+2016,Belgium,BEL,100,,Belgian Institute for Postal Services and Telecommunications 
+2017,Belgium,BEL,100,,Belgian Institute for Postal Services and Telecommunications 
+2018,Belgium,BEL,100,,Belgian Institute for Postal Services and Telecommunications 
+2019,Belgium,BEL,100,,Belgian Institute for Postal Services and Telecommunications 
+2020,Belgium,BEL,100,,Belgian Institute for Postal Services and Telecommunications 
+2007,Benin,BEN,0,,Autorité Transitoire de Régulation des Postes et Télécommunications
+2008,Benin,BEN,0,,Autorité Transitoire de Régulation des Postes et Télécommunications
+2009,Benin,BEN,0,,Autorité Transitoire de Régulation des Postes et Télécommunications
+2010,Benin,BEN,0,,Autorité Transitoire de Régulation des Postes et Télécommunications
+2011,Benin,BEN,0,,Autorité transitoire de régulation des postes et télécommunications du Bénin
+2012,Benin,BEN,0,,Autorité transitoire de régulation des postes et télécommunications du Bénin
+2013,Benin,BEN,25,,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin)
+2014,Benin,BEN,30,,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin)
+2015,Benin,BEN,45,,Autorité de Régulation des Communications Electroniques et de la Poste (ARCEP- Bénin)
+2016,Benin,BEN,45,,ARCEP BENIN
+2017,Benin,BEN,65,,ARCEP BENIN
+2018,Benin,BEN,80,,ARCEP BENIN
+2019,Benin,BEN,80,,ARCEP BENIN
+2020,Benin,BEN,80,,ARCEP BENIN
+2012,Bermuda,BMU,98.34,,ITU estimate.
+2013,Bermuda,BMU,99,,ITU estimate.
+2014,Bermuda,BMU,99,,ITU estimate.
+2015,Bermuda,BMU,99,,ITU estimate
+2016,Bermuda,BMU,99.68,,Bermuda Government Dept of Telecommunications
+2017,Bermuda,BMU,99.7,,Bermuda Government Dept of Telecommunications
+2019,Bermuda,BMU,99.7,,ITU estimate.
+2020,Bermuda,BMU,99.7,,ITU estimate.
+2007,Burkina Faso,BFA,0,,Autorité de Régulation des Télécommunications Électroniques (ARCE)
+2008,Burkina Faso,BFA,0,,Autorité de Régulation des Télécommunications Électroniques (ARCE)
+2009,Burkina Faso,BFA,0,,Autorité de Régulation des Télécommunications Électroniques (ARCE)
+2014,Burkina Faso,BFA,0,ITU estimate,ITU estimate
+2015,Burkina Faso,BFA,10,ITU estimate,ITU estimate
+2016,Burkina Faso,BFA,23,,Autorité de régulation des communications
+2017,Burkina Faso,BFA,28.2,,Autorité de régulation des communications
+2018,Burkina Faso,BFA,33,,Autorité de régulation des communications électroniques et des Postes (ARCEP)
+2019,Burkina Faso,BFA,48.4,,Autorité de régulation des communications électroniques et des Postes (ARCEP)
+2020,Burkina Faso,BFA,48.4,,ITU estimate.
+2012,Bangladesh,BGD,1,,Bangladesh Telecommunication Regulatory Commission
+2013,Bangladesh,BGD,21.79,,Bangladesh Telecommunication Regulatory Commission
+2014,Bangladesh,BGD,59.1,,Bangladesh Telecommunication Regulatory Commission
+2015,Bangladesh,BGD,71,,Bangladesh Telecommunication Regulatory Commission
+2016,Bangladesh,BGD,91.4,"June,2017",Bangladesh Telecommunication Regulatory Commission
+2017,Bangladesh,BGD,92.79,"June,2018",Bangladesh Telecommunication Regulatory Commission
+2018,Bangladesh,BGD,95.23,"June,2019",Bangladesh Telecommunication Regulatory Commission
+2019,Bangladesh,BGD,95.4,"December, 2019",Bangladesh Telecommunication Regulatory Commission
+2020,Bangladesh,BGD,97.8,"June, 2021",Bangladesh Telecommunication Regulatory Commission
+2009,Bahrain,BHR,100,,Telecommunications Regulatory Authority (TRA)
+2010,Bahrain,BHR,100,,Telecommunications Regulatory Authority 
+2011,Bahrain,BHR,100,,Telecommunications Regulatory Authority 
+2012,Bahrain,BHR,100,,Telecommunications Regulatory Authority 
+2013,Bahrain,BHR,100,,Telecommunications Regulatory Authority 
+2014,Bahrain,BHR,97.9,as per 2014 Audit,Telecommunications Regulatory Authority 
+2015,Bahrain,BHR,97.9,as per 2014 Audit,Telecommunications Regulatory Authority 
+2016,Bahrain,BHR,100,,Telecommunications Regulatory Authority (TRA Bahrain)
+2017,Bahrain,BHR,100,,TRA Bahrain
+2018,Bahrain,BHR,100,,TRA
+2019,Bahrain,BHR,100,,TRA
+2020,Bahrain,BHR,100,,Telecommunications Regulatory Authority 
+2007,Belarus,BLR,0,,Ministry of Communications and Informatization of the Republic of Belarus
+2009,Belarus,BLR,59.3,,Ministry of Communications and Informatization of the Republic of Belarus
+2010,Belarus,BLR,67,,Ministry of Communications and Informatization
+2011,Belarus,BLR,80,,Ministry of Communications and Informatization
+2012,Belarus,BLR,87.4,,Ministry of Communications and Informatization
+2013,Belarus,BLR,89.1,,Ministry of Communications and Informatization
+2014,Belarus,BLR,95.7,,Ministry of Communications and Informatization
+2015,Belarus,BLR,95.7,,Ministry of Communications and Informatization
+2016,Belarus,BLR,98.7,,Ministry of Informatization and communication of the Republic of Belarus
+2017,Belarus,BLR,99.9,,Ministry of Communications and Informatization of the Republic of Belarus
+2018,Belarus,BLR,99.9,,The Ministry of Communications and Informatization of the Republic of Belarus
+2019,Belarus,BLR,99.9,,The Ministry of Communications and Informatization of the Republic of Belarus
+2020,Belarus,BLR,99.9,,The Ministry of Communications and Informatization of the Republic of Belarus
+2012,Belize,BLZ,65.85,,ITU estimate.
+2013,Belize,BLZ,75.28,,ITU estimate.
+2014,Belize,BLZ,81.81,,ITU estimate.
+2015,Belize,BLZ,88.9,,ITU estimate.
+2017,Belize,BLZ,90,,Belize Telemedia Limited
+2018,Belize,BLZ,93,,Belize Telemedia Limited
+2019,Belize,BLZ,98,,Belize Telemedia Limited
+2020,Belize,BLZ,98,,ITU estimate.
+2011,Bolivia (Plurinational State of),BOL,2,,Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes
+2012,Bolivia (Plurinational State of),BOL,5,,Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes
+2013,Bolivia (Plurinational State of),BOL,12,,Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes
+2014,Bolivia (Plurinational State of),BOL,27,,Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes
+2015,Bolivia (Plurinational State of),BOL,27,,Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes
+2016,Bolivia (Plurinational State of),BOL,74.48,Simulated coverage of base stations.,Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes
+2017,Bolivia (Plurinational State of),BOL,81.82,,ATT - AUtoridad de Regulacion y Fiscalizacion de Telecomunicaciones y Transportes
+2018,Bolivia (Plurinational State of),BOL,82.87,,Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes
+2019,Bolivia (Plurinational State of),BOL,91.48,,Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes
+2020,Bolivia (Plurinational State of),BOL,91.48,,Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes
+2011,Botswana,BWA,40,Botswana Telecommunications Authority estimate,Botswana Telecommunications Authority
+2012,Botswana,BWA,45,Estimate based on the various percentages provided by operators.,Botswana Communications Regulatory Authority (BOCRA)
+2013,Botswana,BWA,68.24,,ITU estimate.
+2014,Botswana,BWA,78,,Botswana Communications Regulatory Authority (BOCRA)
+2015,Botswana,BWA,82,,Botswana Communications Regulatory Authority (BOCRA)
+2016,Botswana,BWA,84,01/12/2016,Botswana Communications Regulatory Authority (BOCRA)
+2017,Botswana,BWA,80,Value for the largest operator,Botswana Communications Regulatory Authority (BOCRA)
+2018,Botswana,BWA,95,Value for the largest operator,Botswana Communications Regulatory Authority
+2019,Botswana,BWA,96,value for the largest operator,Botswana Communications Regulatory Authority
+2020,Botswana,BWA,97,value for the largest operator,Botswana Communications Regulatory Authority
+2011,Barbados,BRB,20,,Division of Energy & Telecommunications
+2012,Barbados,BRB,40.71,,ITU estimate.
+2013,Barbados,BRB,100,,Division of Energy & Telecommunications                
+2014,Barbados,BRB,98,,Division of Energy & Telecommunications                
+2015,Barbados,BRB,98,ITU estimate,ITU estimate
+2016,Barbados,BRB,100,,Ministry Of Innovation Science & Smart Technology
+2017,Barbados,BRB,99.6,,Ministry of Innovation Science & Smart Technology
+2018,Barbados,BRB,99.6,,Division of Energy & Telecommunications                
+2019,Barbados,BRB,99.6,,Division of Energy & Telecommunications                
+2020,Barbados,BRB,99.6,,ITU estimate.
+2012,Myanmar,MMR,9.72,,ITU estimate.
+2013,Myanmar,MMR,13.31,,ITU estimate.
+2014,Myanmar,MMR,50,ITU estimate,ITU estimate
+2015,Myanmar,MMR,79.3,MPT       - 52.37%  Telenor   - 57%  Ooredoo - 79.3%,"Posts and Telecommunications Department, Ministry of communications and Information Technology"
+2016,Myanmar,MMR,90.45,,Ministry of Transport and Communications
+2017,Myanmar,MMR,90.45,,Ministry of Transport and Communications
+2018,Myanmar,MMR,94.15,,Ministry of Transport and Communications
+2019,Myanmar,MMR,96.3,,Ministry of Transport and Communications
+2020,Myanmar,MMR,90.9,,"Posts and Telecommunications Department, Ministry of Transport and Communications "
+2012,Brunei Darussalam,BRN,80.79,,ITU estimate.
+2013,Brunei Darussalam,BRN,87.79,,ITU estimate.
+2014,Brunei Darussalam,BRN,90,,ITU estimate.
+2015,Brunei Darussalam,BRN,91,,Authority for Info-communications Technology Industry of Brunei Darussalam
+2016,Brunei Darussalam,BRN,92.45,,Authority for Info-communications Technology Industry of Brunei Darussalam
+2017,Brunei Darussalam,BRN,92.68,,Authority for Info-communications Technology Industry of Brunei Darussalam
+2018,Brunei Darussalam,BRN,95.94,,Authority for Info-communications Technology Industry of Brunei Darussalam
+2019,Brunei Darussalam,BRN,95.98,,Authority for Info-communications Technology Industry of Brunei Darussalam
+2020,Brunei Darussalam,BRN,96,,Authority for Info-communications Technology Industry of Brunei Darussalam
+2010,Bhutan,BTN,14.98,"3G service is available only in the capital city, THIMPHU.",Ministry of Information & Communications
+2011,Bhutan,BTN,32.5,"3G available in Thimphu, Paro and Chukha.",Ministry of Information & Communications
+2012,Bhutan,BTN,33.6,"3G now avialable in Thimphu, Paro, Chukha and Bajo Town in Wangdue Phodrang District",Ministry of Information & Communications
+2013,Bhutan,BTN,54.7,,Ministry of Information & Communications
+2014,Bhutan,BTN,60,,Ministry of Information & Communications
+2015,Bhutan,BTN,80,80% for Bhutan Telecom and 70% for TashiCell,Ministry of Information & Communications
+2016,Bhutan,BTN,85,by two operators,Ministry of Information and Communications
+2017,Bhutan,BTN,88,For both operators,Ministry of Information and Communications
+2018,Bhutan,BTN,90,,Ministry of Information & Communications
+2019,Bhutan,BTN,95,,Ministry of Information & Communications
+2020,Bhutan,BTN,95,,Ministry of Information & Communications
+2007,Bulgaria,BGR,49.03,Operator with largest population coverage.,Communications Regulation Commission
+2008,Bulgaria,BGR,75.69,Operator with largest population coverage.,Communications Regulation Commission
+2009,Bulgaria,BGR,82.05,Operator with largest population coverage.,Communications Regulation Commission
+2010,Bulgaria,BGR,93.43,Operator with largest population coverage.,Communications Regulation Commission
+2011,Bulgaria,BGR,97.81,Operator with largest population coverage.,Communications Regulation Commission
+2012,Bulgaria,BGR,99.46,Operator with largest population coverage.,Communications Regulation Commission
+2013,Bulgaria,BGR,99.81,Operator with largest population coverage.,Communications Regulation Commission
+2014,Bulgaria,BGR,99.88,Operator with largest population coverage.,Communications Regulation Commission
+2015,Bulgaria,BGR,99.95,Operator with largest population coverage.,Communications Regulation Commission
+2016,Bulgaria,BGR,99.98,Operator with largest population coverage.,Communications Regulation Commission
+2017,Bulgaria,BGR,99.99,Operator with largest population coverage.,Communications Regulation Commission
+2018,Bulgaria,BGR,99.99,Operator with largest population coverage.,Communications Regulation Commission
+2019,Bulgaria,BGR,99.99,Operator with largest population coverage.,Communications Regulation Commission
+2020,Bulgaria,BGR,99.99,Operator with the largest population coverage,Communications Regulation Commission
+2012,Central African Rep.,CAF,0,First 3G network launched beginning of 2013. ,Agence de Régulation des Télécommunications (ART)
+2013,Central African Rep.,CAF,20,,ITU estimate.
+2014,Central African Rep.,CAF,23,,Agence de Régulation des Télécommunications (ART)
+2015,Central African Rep.,CAF,23,,Agence de Régulation des Télécommunications (ART)
+2016,Central African Rep.,CAF,23,Taux de pénétration : 2%,AUTORITE DE REGULATION DES COMMUNICATIONS ELECTRONIQUES ET DE LA POSTE
+2017,Central African Rep.,CAF,30.63,,Autorité de Régulation des Communications Electroniques et de la Poste
+2018,Central African Rep.,CAF,37.46,,Autorité de Régulation des Communications Electroniques et de la Poste
+2019,Central African Rep.,CAF,40.87,,Autorité de Régulation des Communications Electroniques et de la Poste
+2020,Central African Rep.,CAF,40.87,,ITU estimate.
+2007,Canada,CAN,78,,OECD.
+2009,Canada,CAN,96,,Canadian Radio-television Telecommunications Commission
+2010,Canada,CAN,98,,Canadian Radio-television and Telecommunications Commission
+2011,Canada,CAN,99,Virtually all inhabitants,Canadian Radio-television and Telecommunications Commission
+2012,Canada,CAN,99,Virtually all inhabitants,Canadian Radio-television and Telecommunications Commission
+2013,Canada,CAN,99,Virtually all inhabitants,Canadian Radio-television and Telecommunications Commission
+2014,Canada,CAN,99,Virtually all inhabitants  Source: Canadian Radio-television and Telecommunications ,Canadian Radio-television and Telecommunications Commission
+2015,Canada,CAN,99.3,2014 restated to 99.3    Virtually all inhabitants  Source: Canadian Radio-television and Telecommunications ,Canadian Radio-television and Telecommunications Commission
+2016,Canada,CAN,99.4,,Canadian Radio-television and Telecommunications Comission
+2017,Canada,CAN,99.4,,Canadian Radio-television and Telecommunications Comission
+2018,Canada,CAN,99.5,,CRTC
+2019,Canada,CAN,99.7,,CRTC
+2020,Canada,CAN,99.7,Estimate based on 2019 coverage.,CRTC
+2009,Cambodia,KHM,43,,MINISTRY OF POSTS & TELECOMMUNICATIONS OF CAMBODIA (MPTC)
+2014,Cambodia,KHM,60,,Telecommunication Regulator of Cambodia (TRC)
+2015,Cambodia,KHM,70,,Telecommunication Regulator of Cambodia (TRC)
+2016,Cambodia,KHM,80,,Telecommunication Regulator of Cambodia
+2017,Cambodia,KHM,83.9,,Telecommunication Regulator of Cambodia
+2018,Cambodia,KHM,85.1,,Telecommunication Regulator of Cambodia (TRC)
+2019,Cambodia,KHM,85.1,,Telecommunication Regulator of Cambodia (TRC)
+2020,Cambodia,KHM,88.6,,Telecommunication Regulator of Cambodia (TRC)
+2014,Chile,CHL,50,ITU estimate,ITU estimate
+2015,Chile,CHL,90,,ITU estimate
+2016,Chile,CHL,95,,Subsecretaría de Telecomunicaciones
+2017,Chile,CHL,95,,Subsecretaría de Telecomunicaciones
+2018,Chile,CHL,95,,Subsecretaría de Telecomunicaciones
+2019,Chile,CHL,95,,Subsecretaría de Telecomunicaciones
+2020,Chile,CHL,95,,Subsecretaría de Telecomunicaciones
+2014,China,CHN,43.59,,Ministry of Industry and Information Technology
+2015,China,CHN,95,,Ministry of Industry and Information Technology
+2016,China,CHN,98,,MIIT
+2017,China,CHN,98,,MIIT
+2018,China,CHN,99.4,,MIIT
+2019,China,CHN,99.9,,MIIT
+2020,China,CHN,99.9,,MIIT
+2014,Cook Islands,COK,20.24,,ITU estimate.
+2015,Cook Islands,COK,29.74,,ITU estimate.
+2016,Cook Islands,COK,40.08,,ITU estimate.
+2017,Cook Islands,COK,55,,Telecom Cook Islands Ltd.
+2019,Cook Islands,COK,55,,ITU estimate.
+2020,Cook Islands,COK,55,,ITU estimate.
+2012,Colombia,COL,100,Source: Agencia Nacional del Espectro. ANE,Ministerio de Tecnologías de la Información y las Comunicaciones
+2013,Colombia,COL,100,Source: Agencia Nacional del Espectro. ANE.,Ministerio de Tecnologías de la Información y las Comunicaciones
+2014,Colombia,COL,100,Source: Agencia Nacional del Espectro. ANE.,Ministerio de Tecnologías de la Información y las Comunicaciones
+2015,Colombia,COL,100,Source: Sistema de Información Integral - Colombia TIC.,Ministerio de Tecnologías de la Información y las Comunicaciones
+2016,Colombia,COL,100,Source: Colombia TIC.,Ministerio de Tecnologías de la Información y las Comunicaciones
+2017,Colombia,COL,100,"Source: Colombia TIC, Se infiere toda la población de los municipios a las cabeceras municipales de acuerdo a la desagraciacion poblacional provista por la Entidad Estadística Nacional ",Ministerio TIC
+2018,Colombia,COL,100,"Source: Colombia TIC, Se infiere toda la población de los municipios a las cabeceras municipales de acuerdo a la desagraciacion poblacional provista por la Entidad Estadística Nacional ",Ministerio de Tecnologías de la Información y las Comunicaciones
+2019,Colombia,COL,100,"Source: Colombia TIC, Se infiere toda la población de los municipios a las cabeceras municipales de acuerdo a la desagraciacion poblacional provista por la Entidad Estadística Nacional   ",Ministerio de Tecnologías de la Información y las Comunicaciones
+2020,Colombia,COL,100,"Source: Colombia TIC, Se infiere toda la población de los municipios a las cabeceras municipales de acuerdo a la desagraciacion poblacional provista por la Entidad Estadística Nacional   ",Ministerio de Tecnologías de la Información y las Comunicaciones
+2012,Sri Lanka,LKA,72,Dialog Data,Telecommunications Regulatory Commission of Sri Lanka
+2013,Sri Lanka,LKA,72,,Telecommunications Regulatory Commission of Sri Lanka
+2014,Sri Lanka,LKA,72,ITU estimate,ITU estimate
+2015,Sri Lanka,LKA,83,,ITU estimate
+2016,Sri Lanka,LKA,85,,Telecommunications Regulatory Commission of Sri Lanka
+2017,Sri Lanka,LKA,88,Telecommunications Regulatory Commission of Sri Lanka,Telecommunications Regulatory Commission of Sri Lanka
+2018,Sri Lanka,LKA,86,,Telecommunication Regulatory Commission of Sri Lanka
+2019,Sri Lanka,LKA,89,,Telecommunication Regulatory Commission of Sri Lanka
+2020,Sri Lanka,LKA,96,,Telecommunications Regulatory Commission of Sri Lanka
+2019,Cameroon,CMR,19.08,"La donnée 2019 a été actualisé, le calcul avait été mal fait. Ici, fallait tenir compte du nombre d'abonnés au 31 décembre 2018( personne physique comme habitant).la donnée précédente n'avait pas été bien calculé.",AGENCE DE REGULATION DES TELECOMMUNICATIONS
+2020,Cameroon,CMR,18.66,,AGENCE DE REGULATION DES TELECOMMUNICATIONS
+2012,Congo (Rep. of the),COG,21.96,,ITU estimate.
+2013,Congo (Rep. of the),COG,31.72,,ITU estimate.
+2014,Congo (Rep. of the),COG,50,ITU estimate,ITU estimate
+2015,Congo (Rep. of the),COG,50,ITU estimate,ITU estimate
+2016,Congo (Rep. of the),COG,64.5,,ARPCE
+2019,Congo (Rep. of the),COG,64.5,,ITU estimate.
+2020,Congo (Rep. of the),COG,64.5,,ITU estimate.
+2015,Comoros,COM,72.96,,ITU estimate.
+2016,Comoros,COM,76.8,,ANRTIC
+2017,Comoros,COM,89.83,,ANRTIC
+2018,Comoros,COM,89.83,,ANRTIC
+2019,Comoros,COM,79.87,,ANRTIC
+2020,Comoros,COM,84,Comores Telecom ,ANRTIC
+2011,Cabo Verde,CPV,50,estimated,Agencia Nacional das Comunicaçoes
+2012,Cabo Verde,CPV,80,According to the operator with larger coverage,Agencia Nacional das Comunicaçoes
+2014,Cabo Verde,CPV,76.5,,Agencia Nacional das Comunicaçoes
+2015,Cabo Verde,CPV,86.8,,Agencia Nacional das Comunicaçoes
+2016,Cabo Verde,CPV,87.6,,Agência Reguladora Multissetorial da Economia - ARME
+2017,Cabo Verde,CPV,91.07,,Agência Reguladora Multissectorial da Economia
+2018,Cabo Verde,CPV,91.07,,Agência Reguladora Multissetorial da Economia
+2019,Cabo Verde,CPV,93.74,,Agência Reguladora Multissetorial da Economia
+2020,Cabo Verde,CPV,93.74,,Agência de Regulação Multissetorial da Economia - ARME
+2009,Côte d'Ivoire,CIV,0,,Agence des Télécommunications de Côte d'Ivoire (ATCI)
+2010,Côte d'Ivoire,CIV,0,,Agence des Télécommunications de Côte d'Ivoire (ATCI)
+2011,Côte d'Ivoire,CIV,0,,Agence des Télécommunications de Côte d'Ivoire (ATCI)
+2012,Côte d'Ivoire,CIV,35,,ITU estimate.
+2014,Côte d'Ivoire,CIV,43.56,,Autorité de Régulation des Télécommunications/TIC
+2015,Côte d'Ivoire,CIV,45.75,,Autorité de Régulation des Télécommunications/TIC
+2016,Côte d'Ivoire,CIV,56.25,,ARTCI
+2017,Côte d'Ivoire,CIV,67,La valeur affichée est celle de l'opérateur ORANGE qui détient la plus large couverture. ,ARTCI
+2018,Côte d'Ivoire,CIV,72.9,,ARTCI
+2019,Côte d'Ivoire,CIV,94.2,,ARTCI
+2020,Côte d'Ivoire,CIV,94.6,,ARTCI
+2009,Costa Rica,CRI,44.85,,ICE-Telecomunicaciones
+2012,Costa Rica,CRI,43.03,,ITU estimate.
+2013,Costa Rica,CRI,57.14,,ITU estimate.
+2015,Costa Rica,CRI,93.4,Estimated based on districts covered.,Superintendencia de Telecomunicaciones
+2016,Costa Rica,CRI,97.1,Estimated based on districts covered.,Superintendencia de Telecomunicaciones
+2017,Costa Rica,CRI,97.3,Estimated based on districts covered.,Superintendencia de Telecomunicaciones
+2018,Costa Rica,CRI,97.31,Estimated based on districts covered.,Superintendencia de Telecomunicaciones
+2019,Costa Rica,CRI,97.7,Estimated based on districts covered.,Superintendencia de Telecomunicaciones
+2020,Costa Rica,CRI,94,,Superintendencia de Telecomunicaciones
+2013,Cuba,CUB,0,3G not available.,Ministerio de Comunicaciones
+2014,Cuba,CUB,0,,Ministerio de Comunicaciones
+2015,Cuba,CUB,0,,Ministerio de Comunicaciones
+2016,Cuba,CUB,0,,Ministerio de Comunicaciones
+2017,Cuba,CUB,47,,Ministerio de Comunicaciones
+2018,Cuba,CUB,67,,Ministerio de Comunicaciones
+2019,Cuba,CUB,68,,Ministerio de Comunicaciones
+2020,Cuba,CUB,70.52,,Ministerio de Comunicaciones
+2011,Cayman Islands,CYM,100,,Information and Communications Technology Authority 
+2012,Cayman Islands,CYM,100,,Information and Communications Technology Authority 
+2013,Cayman Islands,CYM,100,,Information and Communications Technology Authority 
+2014,Cayman Islands,CYM,100,,Information and Communications Technology Authority 
+2015,Cayman Islands,CYM,100,,Information and Communications Technology Authority 
+2016,Cayman Islands,CYM,100,,Utility Regulation and Competition Office 
+2017,Cayman Islands,CYM,100,,Utility Regulation and Competition Office 
+2019,Cayman Islands,CYM,100,,ITU estimate.
+2020,Cayman Islands,CYM,100,,ITU estimate.
+2009,Cyprus,CYP,85,Based on the the provider with the highest figure of population coverage. Only 3 G networks currently exist in Cyprus,Office of the Commissioner for Electronic Communications and Postal Regulation 
+2010,Cyprus,CYP,85,Based on the the provider with the highest figure of population coverage. Only 3 G networks currently exist in Cyprus,Office of the Commissioner for Electronic Communications and Postal Regulation 
+2011,Cyprus,CYP,85.3,Based on the the provider with the highest figure of population coverage. ,Office of the Commissioner for Electronic Communications and Postal Regulation 
+2012,Cyprus,CYP,85.3,,Office of the Commissioner for Electronic Communications and Postal Regulation 
+2013,Cyprus,CYP,90,,Office of the Commissioner for Electronic Communications and Postal Regulation 
+2014,Cyprus,CYP,90.01,,Office of the Commissioner for Electronic Communications and Postal Regulation 
+2015,Cyprus,CYP,90.01,,Office of the Commissioner for Electronic Communications and Postal Regulation 
+2016,Cyprus,CYP,99.97,,Office of the Commissioner for Electronic Communications and Postal Regulation
+2017,Cyprus,CYP,99.97,,Office of the Commissioner for Electronic Communications and Postal Regulation
+2018,Cyprus,CYP,99.97,,Office of the Commissioner of Electronic Communications and Postal Regulation
+2019,Cyprus,CYP,99.97,,Office of the Commissioner of Electronic Communications and Postal Regulation
+2020,Cyprus,CYP,99.93,,Office of the Commissioner for Electronic Communications and Postal Regulation 
+2008,Germany,DEU,80,,OECD.
+2011,Germany,DEU,89,,Bundesnetzagentur (BNetzA) / Federal Network Agency
+2012,Germany,DEU,90,,Bundesnetzagentur (BNetzA) / Federal Network Agency
+2013,Germany,DEU,92,,Bundesnetzagentur (BNetzA) / Federal Network Agency
+2014,Germany,DEU,92.5,Source: Bundesministeriums für Verkehr und digitale Infrastruktur (BMVI),Bundesministerium für Verkehr und digitale Infrastruktur (BMVI)
+2015,Germany,DEU,95.7,Source: Bundesministeriums für Verkehr und digitale Infrastruktur (BMVI),Bundesnetzagentur (BNetzA) / Federal Network Agency
+2019,Germany,DEU,95.7,,ITU estimate.
+2020,Germany,DEU,95.7,,ITU estimate.
+2009,Djibouti,DJI,0,,"Ministére de la Communication et de la Culture, chargé des Postes et des Télécommunications"
+2010,Djibouti,DJI,0,,Ministère de la Communication et de la Culture chargé des Postes et des Télécommunications
+2011,Djibouti,DJI,0,,Ministère de la Communication et de la Culture chargé des Postes et des Télécommunications
+2014,Djibouti,DJI,0,ITU estimate,ITU estimate
+2015,Djibouti,DJI,0,ITU estimate,ITU estimate
+2016,Djibouti,DJI,57.61,,Ministère de la Communication chargé des Postes et des Télécommunications
+2017,Djibouti,DJI,70,,Ministère de la Communication chargé des Postes et des Télécommunications
+2018,Djibouti,DJI,70,,Ministère de la Communication chargé des Postes et des Télécommunications
+2019,Djibouti,DJI,75,,Ministère de la Communication chargé des Postes et des Télécommunications
+2020,Djibouti,DJI,75,,Ministère de la Communication chargé des Postes et des Télécommunications
+2010,Dominica,DMA,0,,National Telecommunications Regulatory Commission
+2014,Dominica,DMA,0,ITU estimate,ITU estimate
+2015,Dominica,DMA,60,,ITU estimate
+2016,Dominica,DMA,95,,National Telecommunications Regulatory Commission
+2017,Dominica,DMA,95,,
+2018,Dominica,DMA,95,,National Telecommunications Regulatory Commission
+2019,Dominica,DMA,95,,ITU estimate.
+2020,Dominica,DMA,95,,ITU estimate.
+2008,Denmark,DNK,97,,OECD.
+2012,Denmark,DNK,70.1,,Danish Business Authority
+2013,Denmark,DNK,73.6,,Danish Business Authority
+2014,Denmark,DNK,99.5,Incl. LTE.,Danish Energy Agency
+2015,Denmark,DNK,99.99,,Danish Energy Agency
+2016,Denmark,DNK,100,Incl. LTE.,Center for Tele
+2017,Denmark,DNK,100,Incl. LTE.,Danish Energy Agency
+2018,Denmark,DNK,100,,Danish Energy Agency
+2019,Denmark,DNK,100,,Danish Energy Agency
+2020,Denmark,DNK,100,,Danish Energy Agency
+2014,Dominican Rep.,DOM,80,ITU estimate,ITU estimate
+2015,Dominican Rep.,DOM,98.8,Claro.,Instituto Dominicano de las Telecomunicaciones (INDOTEL)
+2016,Dominican Rep.,DOM,98.95,Claro.,INSTITUTO DOMINICANO DE LAS TELECOMUNICACIONES
+2017,Dominican Rep.,DOM,99.15,Claro.,INSTITUTO DOMINICANO DE LAS TELECOMUNICACIONES
+2018,Dominican Rep.,DOM,99.23,Claro.,INSTITUTO DOMINICANO DE LAS TELECOMUNICACIONES (INDOTEL)
+2019,Dominican Rep.,DOM,99.46,Claro,INSTITUTO DOMINICANO DE LAS TELECOMUNICACIONES (INDOTEL)
+2020,Dominican Rep.,DOM,99.5,Claro.,INSTITUTO DOMINICANO DE LAS TELECOMUNICACIONES (INDOTEL)
+2008,Spain,ESP,83,,OECD.
+2009,Spain,ESP,91.4,,Comisión del Mercado de las Telecomunicaciones
+2010,Spain,ESP,95.1,,Comisión del Mercado de las Telecomunicaciones
+2011,Spain,ESP,94.8,,Comisión del Mercado de las Telecomunicaciones
+2012,Spain,ESP,97.9,,Comisión del Mercado de las Telecomunicaciones
+2013,Spain,ESP,97.9,,Comisión Nacional de los Mercados y la Competencia
+2014,Spain,ESP,98.9,,Comisión Nacional de los Mercados y la Competencia
+2015,Spain,ESP,99.4,,Comisión Nacional de los Mercados y la Competencia
+2016,Spain,ESP,99.6,,Comisión Nacional de los Mercados y la Competencia
+2017,Spain,ESP,99.7,,Comisión Nacional de los Mercados y la Competencia
+2018,Spain,ESP,99.7,,CNMC
+2019,Spain,ESP,99.7,,CNMC
+2020,Spain,ESP,99.8,,CNMC
+2009,Egypt,EGY,77,,MCIT
+2010,Egypt,EGY,87,,MCIT
+2011,Egypt,EGY,91,,MCIT
+2012,Egypt,EGY,94,,Ministry of Communications and Information Technology
+2013,Egypt,EGY,95,,Ministry of Communications and Information Technology
+2014,Egypt,EGY,95.4,,Ministry of Communications and Information Technology
+2015,Egypt,EGY,97.8,,Ministry of Communications and Information Technology
+2016,Egypt,EGY,98.71,,Ministry of Communications and Information Technology
+2017,Egypt,EGY,98.71,,Ministry of Communications and Information Technology
+2018,Egypt,EGY,98.71,,Ministry of Communications and Information Technology
+2019,Egypt,EGY,99.12,,Ministry of Communications and Information Technology
+2020,Egypt,EGY,99.2,,Ministry of Communications and Information Technology
+2008,Ecuador,ECU,53.14,,Secretaría Nacional de Telecomunicaciones (SENATEL)
+2009,Ecuador,ECU,62.21,,Secretaría Nacional de Telecomunicaciones (SENATEL)
+2010,Ecuador,ECU,66.29,,Secretaría Nacional de Telecomunicaciones (SENATEL)
+2011,Ecuador,ECU,77.75,,Secretaría Nacional de Telecomunicaciones (SENATEL)
+2012,Ecuador,ECU,87.47,,Secretaría Nacional de Telecomunicaciones (SENATEL)
+2013,Ecuador,ECU,88.86,,Secretaría Nacional de Telecomunicaciones (SENATEL)
+2014,Ecuador,ECU,91.63,,Agencia de Regulación y Control de las Telecomunicaciones
+2015,Ecuador,ECU,91.86,"In order to determine the coverage ARCOTEL analyzes the number of radio bases that exist in each parish, if at least one RB exists there, then the population of that parish is considered to be covered.",Agencia de Regulación y Control de las Telecomunicaciones
+2016,Ecuador,ECU,91.9,,Agencia de Regulación y Control de las Telecomunicaciones
+2017,Ecuador,ECU,92.34,,Agencia de Regulación y Control de las Telecomunicaciones
+2018,Ecuador,ECU,93.04,,Agencia de Regulación y Control de las Telecomunicaciones
+2019,Ecuador,ECU,94.28,,Agencia de Regulación y Control de las Telecomunicaciones
+2020,Ecuador,ECU,94.78,,Agencia de Regulación y Control de las Telecomunicaciones
+2009,Estonia,EST,85,,Estonian Competition Auhtority
+2010,Estonia,EST,95,,Estonian Competition Authority
+2011,Estonia,EST,97,,Estonian Competition Authority
+2012,Estonia,EST,97,,Estonian Competition Authority
+2013,Estonia,EST,100,,Estonian Technical Regulation Authority 
+2014,Estonia,EST,100,,Estonian Technical Regulation Authority 
+2015,Estonia,EST,100,,Estonian Technical Regulatory Authority
+2016,Estonia,EST,99,,Consumer Protection and Technical Regulatory Authority
+2017,Estonia,EST,100,,Consumer Protection and Technical Regulatory Authority
+2018,Estonia,EST,100,,Estonian Technical Regulatory Authority
+2019,Estonia,EST,100,,Estonian Technical Regulatory Authority
+2020,Estonia,EST,100,,Estonian Technical Regulatory Authority
+2011,Ethiopia,ETH,4,,Ministry of Communications and Information Technology
+2012,Ethiopia,ETH,4,,Ministry of Communications and Information Technology
+2013,Ethiopia,ETH,17.54,,ITU estimate.
+2014,Ethiopia,ETH,65,,Ministry of Communications and Information Technology
+2015,Ethiopia,ETH,71,,Ministry of Communications and Information Technology
+2016,Ethiopia,ETH,85,,Ministry of Communications and Information Technology
+2017,Ethiopia,ETH,85,,Ministry of Communications and Information Technology
+2019,Ethiopia,ETH,85,,ITU estimate.
+2020,Ethiopia,ETH,85,,ITU estimate.
+2008,France,FRA,72.5,,OECD.
+2010,France,FRA,91,,Autorité de Régulation des Communications électroniques et des postes
+2011,France,FRA,98,>98%,Autorité de Régulation des Communications électroniques et des postes
+2012,France,FRA,98,>98%,Autorité de Régulation des Communications électroniques et des postes
+2014,France,FRA,98,ITU estimate,ITU estimate
+2015,France,FRA,99,>99%,Autorité de Régulation des Communications électroniques et des postes
+2016,France,FRA,99,>99%,ARCEP
+2017,France,FRA,99,>99%,ARCEP
+2018,France,FRA,99,>99%,Autorité de Régulation des Communications électroniques et des postes
+2019,France,FRA,99,>99%,Autorité de Régulation des Communications électroniques et des postes
+2020,France,FRA,99,>99%,Autorité de Régulation des Communications électroniques et des postes
+2013,Fiji,FJI,30,,
+2014,Fiji,FJI,30,ITU estimate,ITU estimate
+2015,Fiji,FJI,68.35,,Ministry of Communications
+2016,Fiji,FJI,96,,ITU estimate.
+2017,Fiji,FJI,96,,ITU estimate.
+2018,Fiji,FJI,94,,Ministry of Communications
+2019,Fiji,FJI,94.65,,Ministry of Communications
+2020,Fiji,FJI,96,,Ministry of Communications
+2008,Finland,FIN,80,,OECD.
+2011,Finland,FIN,95,July 2011.,ITU research based on FICORA's Q2 2011 report.
+2014,Finland,FIN,95,ITU estimate,ITU estimate
+2015,Finland,FIN,99.9,,
+2016,Finland,FIN,99.9,,Finnish Transport and Communications Agency Traficom
+2017,Finland,FIN,99.9,,Finnish Transport and Communications Agency Traficom
+2018,Finland,FIN,99.9,,"Finnish Transport and Communications Agency, Traficom"
+2019,Finland,FIN,99.9,,"Finnish Transport and Communications Agency, Traficom"
+2020,Finland,FIN,99.9,,"Finnish Transport and Communications Agency, Traficom"
+2014,Micronesia,FSM,0,ITU estimate,ITU estimate
+2015,Micronesia,FSM,15,,"Department of Transportation, Communications and Infrastructure"
+2016,Micronesia,FSM,15,,"Department of Transportation, Communications and Infrastructure"
+2017,Micronesia,FSM,15,,Division of Communications
+2019,Micronesia,FSM,15,,ITU estimate.
+2020,Micronesia,FSM,15,,ITU estimate.
+2008,United Kingdom,GBR,90,,OECD.
+2009,United Kingdom,GBR,93,,Ofcom
+2010,United Kingdom,GBR,95,,Office of Communications
+2011,United Kingdom,GBR,99.1,"Break in comparability: from this year, % UK premises with 3G/3.5G mobile coverage from at least one mobile network operator June 2012. ",Office of Communications
+2012,United Kingdom,GBR,99.1,% UK premises with 3G/3.5G mobile coverage from at least one mobile network operator June 2013. ,Office of Communications
+2013,United Kingdom,GBR,99.2,% UK premises with 3G/3.5G mobile coverage from at least one mobile network operator June 2014. ,Office of Communications
+2014,United Kingdom,GBR,99.3,% UK premises with 3G/3.5G mobile coverage from at least one mobile network operator May 2015.    2013 data has changed to 99.2%. ,Office of Communications
+2015,United Kingdom,GBR,99.6,% UK premises with 3G/3.5G mobile coverage from at least one mobile in May 2016,Office of Communications
+2016,United Kingdom,GBR,99.6,% UK premises with 3G/3.5G mobile coverage from at least one mobile operator in June 2016,Ofcom
+2017,United Kingdom,GBR,99.6,99.8% UK premises with 3G/3.5G mobile coverage from at least one mobile operator in June 2017 (form would not allow 99.8 to be entered in the box).,Ofcom
+2018,United Kingdom,GBR,99.7,99.9% UK premises with 3G/3.5G mobile coverage from at least one mobile operator September 2018 (form would not allow 99.9 to be submitted),Ofcom
+2019,United Kingdom,GBR,99.7,,Ofcom
+2020,United Kingdom,GBR,99.9,,Ofcom
+2014,Gabon,GAB,75,,Gabon Télécom
+2015,Gabon,GAB,97,,Autorité de Régulation des Communications Electroniques et des Postes 
+2016,Gabon,GAB,92,,Autorité de Régulation des Communications Électroniques et des Postes 
+2017,Gabon,GAB,95,,Autorité de Régulation des Communications Électroniques et des Postes 
+2018,Gabon,GAB,97,,Autorité de Régulation des Communications Électroniques et des Postes 
+2019,Gabon,GAB,97,,Autorité de Régulation des Communications Électroniques et des Postes 
+2020,Gabon,GAB,98,,Autorité de Régulation des Communications Électroniques et des Postes 
+2009,Ghana,GHA,35,,National Communications Authority
+2010,Ghana,GHA,36,,National Communications Authority
+2011,Ghana,GHA,38,,National Communications Authority
+2012,Ghana,GHA,40,,National Communications Authority
+2014,Ghana,GHA,70,,National Communications Authority
+2015,Ghana,GHA,80,,National Communications Authority
+2016,Ghana,GHA,80,,National Communications Authority (NCA)
+2017,Ghana,GHA,80,,National Communications Authority
+2018,Ghana,GHA,80,,National Communications Authority (NCA)
+2019,Ghana,GHA,95.82,Coverage Assessment simulation exercise by the Regulator in August 2020,National Communications Authority (NCA)
+2020,Ghana,GHA,95.82,Coverage Assessment simulation exercise by the National Communications Authority in August 2020,National Communications Authority
+2012,Gibraltar,GIB,73.52,,ITU estimate.
+2013,Gibraltar,GIB,79.89,,ITU estimate.
+2014,Gibraltar,GIB,100,,Gibraltar Regulatory Authority
+2015,Gibraltar,GIB,100,,Gibraltar Regulatory Authority
+2016,Gibraltar,GIB,100,3G/4G,Gibraltar Regulatory Authority
+2017,Gibraltar,GIB,100,,Gibraltar Regulatory Authority
+2018,Gibraltar,GIB,100,,Gibraltar Regulatory Authority
+2019,Gibraltar,GIB,100,,Gibraltar Regulatory Authority
+2020,Gibraltar,GIB,100,,Gibraltar Regulatory Authority
+2009,Gambia,GMB,50,ITU estimate,
+2012,Gambia,GMB,35.07,,ITU estimate.
+2013,Gambia,GMB,46.57,,ITU estimate.
+2014,Gambia,GMB,50,ITU estimate,ITU estimate
+2015,Gambia,GMB,86,,ITU estimate.
+2016,Gambia,GMB,86,,Public Utilities Regulatory Authority
+2017,Gambia,GMB,86,,Public Utilities Regulatory Authority
+2018,Gambia,GMB,88,,The Gambia Public Utilities Regulatory Authority
+2019,Gambia,GMB,88,,ITU estimate.
+2020,Gambia,GMB,88,,ITU estimate.
+2015,Guinea-Bissau,GNB,20.368,,ITU estimate.
+2016,Guinea-Bissau,GNB,30,,Autorité de Régulation Nationale des TIC
+2019,Guinea-Bissau,GNB,30,,ITU estimate.
+2020,Guinea-Bissau,GNB,32.64,,Autoridade Reguladora Nacional das TIC
+2015,Equatorial Guinea,GNQ,0,,ITU estimate.
+2016,Equatorial Guinea,GNQ,10.95,,ITU estimate.
+2017,Equatorial Guinea,GNQ,50,,La Société Anonyme de Télécommunications de la République de Guinée Equatoriale
+2018,Equatorial Guinea,GNQ,60,,La Société Anonyme de Télécommunications de la République de Guinée Equatoriale
+2019,Equatorial Guinea,GNQ,60,,ITU estimate.
+2020,Equatorial Guinea,GNQ,60,,ITU estimate.
+2008,Greece,GRC,88,,OECD.
+2009,Greece,GRC,74.5,,Hellenic Telecommunications & Post Commission
+2010,Greece,GRC,96,,Hellenic Telecommunications & Post Commission
+2011,Greece,GRC,98,,Hellenic Telecommunications & Post Commission
+2012,Greece,GRC,98,,Hellenic Telecommunications & Post Commission
+2013,Greece,GRC,98.7,,Hellenic Telecommunications & Post Commission
+2014,Greece,GRC,98.7,,Hellenic Telecommunications & Post Commission
+2015,Greece,GRC,99.3,,Hellenic Telecommunications & Post Commission
+2016,Greece,GRC,99.4,,Hellenic Telecommunications & Post Commission
+2017,Greece,GRC,99.6,,Hellenic Telecommunications & Post Commission
+2018,Greece,GRC,99.7,,HELLENIC TELECOMMUNICATIONS & POST COMMISSION
+2019,Greece,GRC,99.7,,HELLENIC TELECOMMUNICATIONS & POST COMMISSION
+2020,Greece,GRC,99.7,,HELLENIC TELECOMMUNICATIONS & POST COMMISSION
+2014,Grenada,GRD,100,,National Telecommunications Regulatory Commission
+2015,Grenada,GRD,75,ITU estimate,ITU estimate
+2016,Grenada,GRD,81.85,,ITU estimate.
+2017,Grenada,GRD,81.85,,ITU estimate.
+2019,Grenada,GRD,81.85,,ITU estimate.
+2020,Grenada,GRD,81.85,,ITU estimate.
+2007,Greenland,GRL,0,,TELE Greenland
+2008,Greenland,GRL,0,,TELE Greenland
+2009,Greenland,GRL,0,,TELE Greenland
+2010,Greenland,GRL,25,,Tele Greenland A/S
+2011,Greenland,GRL,34,,Tele Greenland A/S
+2012,Greenland,GRL,49,,Tele Greenland A/S
+2014,Greenland,GRL,49,ITU estimate,ITU estimate
+2015,Greenland,GRL,49,ITU estimate,ITU estimate
+2016,Greenland,GRL,99,,Tele Greenland A/S
+2017,Greenland,GRL,88.3,,Tele Greenland A/S
+2018,Greenland,GRL,100,,Tele Greenland A/S
+2019,Greenland,GRL,100,,Tele Greenland A/S
+2020,Greenland,GRL,100,,Tele Greenland A/S
+2012,Guatemala,GTM,53,,Superintendencia de Telecomunicaciones (SIT)
+2013,Guatemala,GTM,86,,Superintendencia de Telecomunicaciones (SIT)
+2014,Guatemala,GTM,92,,Superintendencia de Telecomunicaciones (SIT)
+2015,Guatemala,GTM,92,,Superintendencia de Telecomunicaciones (SIT)
+2016,Guatemala,GTM,95,,Superintendencia de Telecomunicaciones
+2017,Guatemala,GTM,95,,Superintendencia de Telecomunicaciones
+2018,Guatemala,GTM,95,,Superintendencia de Telecomunicaciones
+2019,Guatemala,GTM,95,,Superintendencia de Telecomunicaciones
+2020,Guatemala,GTM,95,,Superintendencia de Telecomunicaciones (SIT)
+2012,French Guiana,GUF,43.03,,ITU estimate.
+2013,French Guiana,GUF,57.14,,ITU estimate.
+2014,French Guiana,GUF,72.22,,ITU estimate.
+2015,French Guiana,GUF,78.48,,ITU estimate.
+2016,French Guiana,GUF,85.28,,ITU estimate.
+2019,French Guiana,GUF,85.28,,ITU estimate.
+2020,French Guiana,GUF,85.28,,ITU estimate.
+2014,Guinea,GIN,0,ITU estimate,ITU estimate
+2015,Guinea,GIN,39.1,,
+2018,Guinea,GIN,31,,"Ministère des Postes , des Télécommunications et de l'Economie Numérique "
+2019,Guinea,GIN,40,,"Ministère des Postes , des Télécommunications et de l'Economie Numérique "
+2020,Guinea,GIN,40,,ITU estimate.
+2007,Guyana,GUY,0,,National Frequency Management Unit
+2008,Guyana,GUY,0,,National Frequency Management Unit
+2009,Guyana,GUY,0,,National Frequency Management Unit
+2010,Guyana,GUY,0,,National Frequency Management Unit
+2011,Guyana,GUY,0,,National Frequency Management Unit
+2014,Guyana,GUY,0,ITU estimate,ITU estimate
+2015,Guyana,GUY,0,ITU estimate,ITU estimate
+2016,Guyana,GUY,93,,National Frequency Management Unit
+2017,Guyana,GUY,93.2,,National Frequency Management Unit
+2019,Guyana,GUY,93.2,,ITU estimate.
+2020,Guyana,GUY,93.2,,ITU estimate.
+2009,"Hong Kong, China",HKG,99,Estimated,Office of the Telecommunications Authority
+2010,"Hong Kong, China",HKG,99,Estimated,Office of the Telecommunications Authority
+2011,"Hong Kong, China",HKG,99,,Office of the Communications Authority
+2012,"Hong Kong, China",HKG,99,,Office of the Communications Authority
+2013,"Hong Kong, China",HKG,99,,Office of the Communications Authority
+2014,"Hong Kong, China",HKG,99,,Office of the Communications Authority
+2015,"Hong Kong, China",HKG,99,,Office of the Communications Authority
+2016,"Hong Kong, China",HKG,99,,Office of the Communications Authority
+2017,"Hong Kong, China",HKG,99,,Office of the Communications Authority
+2018,"Hong Kong, China",HKG,99,,Office of the Communications Authority
+2019,"Hong Kong, China",HKG,99,,Office of the Communications Authority
+2020,"Hong Kong, China",HKG,99,,Office of the Communications Authority
+2012,Honduras,HND,66.76,,ITU estimate.
+2013,Honduras,HND,75.84,,ITU estimate.
+2014,Honduras,HND,79.79,,Comisión Nacional de Telecomunicaciones (CONATEL)
+2015,Honduras,HND,83.12,,Comisión Nacional de Telecomunicaciones (CONATEL)
+2016,Honduras,HND,61.28,Break in series: better estimation based on an urban/rural disaggregation of towns.,Conatel
+2017,Honduras,HND,76.78,Estimated based on coverage maps from operators.,CONATEL
+2018,Honduras,HND,78.36,Estimación en base poblaciones cubiertas según mapas de cobertura ,Comisión Nacional de Telecomunicaciones (CONATEL)
+2019,Honduras,HND,74.78,Estimación realizada en base a las poblaciones cubiertas por la cobertura reportada por los operadores ,Comisión Nacional de Telecomunicaciones (CONATEL)
+2020,Honduras,HND,80.7,Estimación realizada en base a las poblaciones cubiertas según reporte de mapas de operadores,Comisión Nacional de Telecomunicaciones (CONATEL)
+2008,Hungary,HUN,70,Q2 2008,"National Communications Authority, Hungary (NCAH)"
+2009,Hungary,HUN,79,Q2 2009.,"National Communications Authority, Hungary (NCAH)"
+2010,Hungary,HUN,66,,National Media and Infocommunications Authority
+2011,Hungary,HUN,71,,National Media and Infocommunications Authority
+2012,Hungary,HUN,97.4,,National Media and Infocommunications Authority
+2014,Hungary,HUN,98.4,,National Media and Infocommunications Authority
+2015,Hungary,HUN,99,,National Media and Infocommunications Authority
+2016,Hungary,HUN,99,,National Media and Infocommunications Authority
+2017,Hungary,HUN,99,,National Media and Infocommunications Authority
+2018,Hungary,HUN,99.2,,National Media and Infocommunications Authority
+2019,Hungary,HUN,99.2,,National Media and Infocommunications Authority
+2020,Hungary,HUN,99.2,,National Media and Infocommunications Authority
+2007,Netherlands,NLD,90,,OECD.
+2010,Netherlands,NLD,99,,Independent Post and Telecommunication Authority
+2011,Netherlands,NLD,99,,Independent Post and Telecommunication Authority
+2012,Netherlands,NLD,99,,Authority for Consumers and Markets
+2014,Netherlands,NLD,99,,Authority for Consumers and Markets
+2015,Netherlands,NLD,99,,Authority for Consumers and Markets
+2016,Netherlands,NLD,99,,Authority for Consumers and Markets
+2017,Netherlands,NLD,99,,The ACM
+2018,Netherlands,NLD,99,,The Netherlands Authority for Consumers and Markets
+2019,Netherlands,NLD,99,Based on ACM data for Q4 2019,The Netherlands Authority for Consumers and Markets
+2020,Netherlands,NLD,99,,The Netherlands Authority for Consumers and Markets
+2009,Croatia,HRV,75.5,,"Croatian Post and Electronic Communications Agency, HAKOM"
+2010,Croatia,HRV,78.8,,Croatian Post and Electronic Communications Agency (HAKOM)
+2011,Croatia,HRV,81,,Croatian Post and Electronic Communications Agency (HAKOM)
+2012,Croatia,HRV,93.74,,Croatian Post and Electronic Communications Agency (HAKOM)
+2013,Croatia,HRV,98.6,,Croatian Regulatory Authority for Network Industries
+2014,Croatia,HRV,98.95,,Croatian Regulatory Authority for Network Industries
+2015,Croatia,HRV,99.06,,Croatian Regulatory Authority for Network Industries
+2016,Croatia,HRV,99.14,,HAKOM
+2017,Croatia,HRV,99.34,,HAKOM
+2018,Croatia,HRV,99.4,maximal coverage reported by operators,HAKOM
+2019,Croatia,HRV,99.84,maximal coverage reported by operators,HAKOM
+2020,Croatia,HRV,99.85,maximal coverage reported by operators,Croatian Regulatory Authority for Network Industries
+2012,Haiti,HTI,24.71,,ITU estimate.
+2013,Haiti,HTI,34.78,,ITU estimate.
+2014,Haiti,HTI,40,ITU estimate,ITU estimate
+2015,Haiti,HTI,40,,Conseil National des Télécommunications
+2016,Haiti,HTI,40,,CONATEL (Conseil National des Télécommunications)
+2017,Haiti,HTI,40,,CONATEL (Conseil National des Télécommunications)
+2018,Haiti,HTI,60,,CONATEL (Conseil National des Télécommunications)
+2019,Haiti,HTI,60,,ITU estimate.
+2020,Haiti,HTI,60,,ITU estimate.
+2008,Italy,ITA,62,,Ministry of ECONOMIC DEVELOPMENT - dep. of Communications
+2009,Italy,ITA,70,,Ministry of ECONOMIC DEVELOPMENT - dep. of Communications
+2010,Italy,ITA,80,(approx.),Ministry of ECONOMIC DEVELOPMENT - dep. of Communications
+2011,Italy,ITA,98,Agcom estimates.,Ministry of ECONOMIC DEVELOPMENT - dep. of Communications
+2012,Italy,ITA,99,Agcom estimates.,Ministry of ECONOMIC DEVELOPMENT - dep. of Communications
+2013,Italy,ITA,99.7,Agcom estimates.,Ministry of ECONOMIC DEVELOPMENT - dep. of Communications
+2014,Italy,ITA,99,,AGCOM
+2015,Italy,ITA,100,Source: AGCOM,Ministry of Economic Development
+2016,Italy,ITA,100,Source: AGCOM,AGCOM
+2017,Italy,ITA,100,Source: AGCOM,AGCOM
+2018,Italy,ITA,100,Source: AGCOM,AGCOM
+2019,Italy,ITA,100,Source: AGCOM,AGCOM
+2020,Italy,ITA,100,Source: AGCOM,AGCOM
+2007,India,IND,0,,"Department of Telecommunications, Ministry of Communications & IT"
+2008,India,IND,0,,"Department of Telecommunications, Ministry of Communications & IT"
+2009,India,IND,0.08,,"Department of Telecommunications, Ministry of Communications & IT"
+2012,India,IND,36.53,,ITU estimate.
+2013,India,IND,47.26,,ITU estimate.
+2014,India,IND,61,ITU estimate,ITU estimate
+2015,India,IND,74,ITU estimate,ITU estimate
+2016,India,IND,79.67,,Ministry of Communications
+2017,India,IND,88,Dec-17,Ministry of Communications
+2018,India,IND,94,"December 2018, Data from operator having maximum coverage",MINISTRY OF COMMUNICATIONS
+2019,India,IND,98.15,Dec-19,MINISTRY OF COMMUNICATIONS
+2020,India,IND,98.56,Dec-20,MINISTRY OF COMMUNICATIONS
+2014,Indonesia,IDN,60,ITU estimate,ITU estimate
+2015,Indonesia,IDN,60,,ITU estimate
+2016,Indonesia,IDN,74.86,MCIT,Ministry of Communication and Informatics
+2017,Indonesia,IDN,93.78,MCIT,Ministry of Communication and Informatics
+2018,Indonesia,IDN,97.7,Ministry of Communications and Informatics,Ministry of Communications and Informatics
+2019,Indonesia,IDN,97.7,Ministry of Communications and Informatics  ,Ministry of Communications and Informatics
+2020,Indonesia,IDN,96.33,"The decrease in this figure relates to the different method used in measuring coverage, from only residential areas to all areas.",Ministry of Communications and Informatics
+2008,Ireland,IRL,89,,OECD.
+2011,Ireland,IRL,95,HSPA coverage of households .Source: European Commission Study on broadband coverage 2011. ,Commission for Communications Regulation (ComReg)
+2012,Ireland,IRL,95,Estimate.,Commission for Communications Regulation
+2013,Ireland,IRL,95,Estimate.,Commission for Communications Regulation
+2014,Ireland,IRL,95,Estimate.,Commission for Communications Regulation
+2015,Ireland,IRL,95,,Commission for Communications Regulation
+2016,Ireland,IRL,95,,ComReg
+2017,Ireland,IRL,95,,ComReg
+2018,Ireland,IRL,95,Estimate,ComReg
+2019,Ireland,IRL,95,Estimate,ComReg
+2020,Ireland,IRL,95,Estimate,Commission for Communications Regulation
+2010,Iran (Islamic Republic of),IRN,0,,Iran Information Technology Organization
+2011,Iran (Islamic Republic of),IRN,0,,Iran Information Technology Organization
+2012,Iran (Islamic Republic of),IRN,40.83,,Iran Information Technology Organization
+2013,Iran (Islamic Republic of),IRN,48,,Iran Information Technology Organization
+2014,Iran (Islamic Republic of),IRN,52,,Information Technology Organization of Iran (ITO)
+2015,Iran (Islamic Republic of),IRN,59.81,,Information Technology Organization of Iran (ITO)
+2016,Iran (Islamic Republic of),IRN,62.67,,Information Technology Organization of Iran (ITO)
+2017,Iran (Islamic Republic of),IRN,77,,Information Technology Organization of Iran (ITO)
+2018,Iran (Islamic Republic of),IRN,79,,Information Technology Organization of Iran(ITO)
+2019,Iran (Islamic Republic of),IRN,85,,Information Technology Organization of Iran(ITO)
+2020,Iran (Islamic Republic of),IRN,85,,Information Technology Organization of Iran (ITO)
+2012,Iraq,IRQ,25,,ITU estimate.
+2013,Iraq,IRQ,25,,ITU estimate.
+2014,Iraq,IRQ,60,ITU estimate,ITU estimate
+2015,Iraq,IRQ,55,,ITU estimate
+2016,Iraq,IRQ,73,,Communications and Media Commission
+2017,Iraq,IRQ,85.59,,Communications and Media Commission
+2018,Iraq,IRQ,94.57,94.57%,Communications and Media Commission of Iraq
+2019,Iraq,IRQ,96.5,96.50%,Communications and Media Commission of Iraq
+2020,Iraq,IRQ,96.85,96.85%,Communications and Media Commission of Iraq
+2007,Iceland,ISL,63,,OECD.
+2009,Iceland,ISL,87,,Post and Telecom Administration
+2010,Iceland,ISL,92,,Post and Telecom Administration
+2011,Iceland,ISL,96,,Post and Telecom Administration
+2012,Iceland,ISL,96,,Post and Telecom Administration
+2013,Iceland,ISL,96,,Post and Telecom Administration
+2014,Iceland,ISL,98,,Post and Telecom Administration
+2015,Iceland,ISL,99,,Post and Telecom Administration
+2016,Iceland,ISL,99,,PTA in Iceland
+2017,Iceland,ISL,99,,PTA in Iceland
+2018,Iceland,ISL,99,,"ECOI , Electronic Communications Office of Iceland"
+2019,Iceland,ISL,99,,"ECOI , Electronic Communications Office of Iceland"
+2020,Iceland,ISL,99.98,,"ECOI , Electronic Communications Office of Iceland"
+2010,Israel,ISR,99,,Ministry of Communications.
+2011,Israel,ISR,99,,Ministry of Communications.
+2012,Israel,ISR,99,3G service is universal.,Ministry of Communications
+2013,Israel,ISR,99,,Ministry of Communications
+2014,Israel,ISR,99,ITU estimate,ITU estimate
+2015,Israel,ISR,99,,Ministry of Communications
+2016,Israel,ISR,99,,Ministry of Communications
+2017,Israel,ISR,99,,Ministry of Communications
+2018,Israel,ISR,99,,Ministry of Communications
+2019,Israel,ISR,99,,Ministry of Communications
+2020,Israel,ISR,99,,Ministry of Communications
+2012,Japan,JPN,99.9,,Ministry of Internal Affairs and Communications
+2013,Japan,JPN,99.9,,Ministry of Internal Affairs and Communications
+2014,Japan,JPN,99.9,,Ministry of Internal Affairs and Communications
+2015,Japan,JPN,99.9,,Ministry of Internal Affairs and Communications
+2016,Japan,JPN,99.9,,Ministry of Internal Affairs and Communications
+2017,Japan,JPN,99.9,,Ministry of Internal Affairs and Communications
+2018,Japan,JPN,99.9,,Ministry of Internal Affairs and Communications
+2019,Japan,JPN,99.9,,Ministry of Internal Affairs and Communications
+2020,Japan,JPN,99.9,,Ministry of Internal Affairs and Communications
+2014,Jamaica,JAM,60,ITU estimate,ITU estimate
+2015,Jamaica,JAM,90,,Office of Utilities Regulation
+2016,Jamaica,JAM,95,,Office of Utilities Regulation
+2017,Jamaica,JAM,95,,Office of Utilities Regulation
+2018,Jamaica,JAM,98,,Office of Utilities Regulation
+2019,Jamaica,JAM,99,,Office of Utilities Regulation
+2020,Jamaica,JAM,99,,Office of Utilities Regulation
+2010,Jordan,JOR,50,,Telecommunications Regulatory Commission
+2011,Jordan,JOR,70,,Telecommunications Regulatory Commission
+2012,Jordan,JOR,90,,Telecommunications Regulatory Commission
+2013,Jordan,JOR,98,,Telecommunications Regulatory Commission
+2014,Jordan,JOR,99,,Telecommunications Regulatory Commission
+2015,Jordan,JOR,99,,Telecommunications Regulatory Commission
+2016,Jordan,JOR,97.5,,The Telecommunications Regulatory Commission of Jordan
+2017,Jordan,JOR,99.2,,The Telecommunications Regulatory Commission of Jordan
+2018,Jordan,JOR,99.8,,The Telecommunications Regulatory Commission of Jordan
+2019,Jordan,JOR,99.8,,The Telecommunications Regulatory Commission of Jordan
+2020,Jordan,JOR,99.8,"the data is not submitted by the operators,will be provided to the ITU when the data is fully submitted",The Telecommunications Regulatory Commission of Jordan
+2014,Kenya,KEN,50,ITU estimate,ITU estimate
+2015,Kenya,KEN,69,,Communications Authority  of Kenya
+2016,Kenya,KEN,78,,COMMUNICATIONS AUTHORITY OF KENYA
+2017,Kenya,KEN,85,2G Population coverage is 95.4,COMMUNICATIONS AUTHORITY OF KENYA
+2018,Kenya,KEN,86,,Communications Authority  of Kenya
+2019,Kenya,KEN,93.3,,Communications Authority  of Kenya
+2020,Kenya,KEN,94,,Communications Authority  of Kenya
+2013,Kiribati,KIR,15,,ITU estimate.
+2014,Kiribati,KIR,22.36,,
+2015,Kiribati,KIR,19,,ITU estimate.
+2016,Kiribati,KIR,49,,MICTTD
+2017,Kiribati,KIR,66,,Ministry of ICTTD
+2018,Kiribati,KIR,67,,"Ministry of Information, Communication, Transport & Tourism Development"
+2019,Kiribati,KIR,71,,"Ministry of Information, Communication, Transport & Tourism Development"
+2020,Kiribati,KIR,72.1,,"Ministry of Information, Communication, Transport & Tourism Development"
+2007,Korea (Rep. of),KOR,99,,"Korea Communications Commission, Rep of Korea"
+2008,Korea (Rep. of),KOR,99,,"Korea Communications Commission, Rep of Korea"
+2009,Korea (Rep. of),KOR,99,,"Korea Communications Commission, Rep of Korea"
+2010,Korea (Rep. of),KOR,99,,Korea Communications Commission
+2011,Korea (Rep. of),KOR,99,,Korea Communications Commission
+2012,Korea (Rep. of),KOR,99,,"Ministry of Science, ICT and Future Planning"
+2013,Korea (Rep. of),KOR,99,,"Ministry of Science, ICT and Future Planning"
+2014,Korea (Rep. of),KOR,99,,"Ministry of Science, ICT and Future Planning"
+2015,Korea (Rep. of),KOR,99,,"Ministry of Science, ICT and Future Planning"
+2016,Korea (Rep. of),KOR,99.9,,Ministry of Science and ICT
+2017,Korea (Rep. of),KOR,99.9,,Ministry of Science and ICT
+2018,Korea (Rep. of),KOR,99.9,,Ministry of Science and ICT
+2019,Korea (Rep. of),KOR,99.9,,Ministry of Science and ICT
+2020,Korea (Rep. of),KOR,99.9,,Ministry of Science and ICT
+2012,Kuwait,KWT,95,,ITU estimate.
+2015,Kuwait,KWT,97.2,,Communication and Information Technology Regulatory Authority
+2016,Kuwait,KWT,100,,CITRA
+2017,Kuwait,KWT,99.8,,CITRA
+2018,Kuwait,KWT,100,,Communication and information technology regulatory authority Kuwait
+2019,Kuwait,KWT,100,,Communication and information technology regulatory authority Kuwait
+2020,Kuwait,KWT,100,,Communication and information technology regulatory authority Kuwait
+2007,Lao P.D.R.,LAO,0,,National Authority of Post and Telecommunication
+2008,Lao P.D.R.,LAO,0,,National Authority of Post and Telecommunication
+2010,Lao P.D.R.,LAO,17,,Ministry of Posts and Telecommunications 
+2011,Lao P.D.R.,LAO,18,,Ministry of Posts and Telecommunications 
+2012,Lao P.D.R.,LAO,19,,Ministry of Posts and Telecommunications 
+2013,Lao P.D.R.,LAO,40,"Beeline,LTC,ETL,UNITEL  ",Ministry of Posts and Telecommunications 
+2014,Lao P.D.R.,LAO,60,"There are Ref.no from 4 main operators, LTC,BEELINE,UNITEL,ETL",Ministry of Post and Telecommunication
+2015,Lao P.D.R.,LAO,65,"There are Ref.no from 4 main operators, LTC,BEELINE,UNITEL,ETL",Ministry of Post and Telecommunication
+2016,Lao P.D.R.,LAO,69,"There are Ref.no from 4 main operators, LTC,BEELINE,UNITEL,ETL",Ministry of Post and Telecommunication
+2017,Lao P.D.R.,LAO,78,"There are Ref.no from 4 main operators, LTC,BEELINE,UNITEL,ETL",Ministry of Post and Telecommunication
+2018,Lao P.D.R.,LAO,78,,Ministry of Post and Telecommunication
+2019,Lao P.D.R.,LAO,82,,Ministry of Post and Telecommunication
+2020,Lao P.D.R.,LAO,82,,ITU estimate.
+2009,Lebanon,LBN,0,,Ministère des Télécommunications
+2010,Lebanon,LBN,0,SOURCE: OSB/MOT,Telecommunications Regulatory Authority
+2011,Lebanon,LBN,50,SOURCE: OSB/MOT,Telecommunications Regulatory Authority
+2012,Lebanon,LBN,90,SOURCE: OSB/MOT,Telecommunications Regulatory Authority
+2014,Lebanon,LBN,90,ITU estimate,ITU estimate
+2015,Lebanon,LBN,97,,ITU estimate
+2016,Lebanon,LBN,98.18,,Ministère des Télécommunications
+2017,Lebanon,LBN,98.19,,Ministere des Telecommunications
+2018,Lebanon,LBN,98.4,,Ministère des Télécommunications
+2019,Lebanon,LBN,99.61,,Ministère des Télécommunications
+2020,Lebanon,LBN,99.61,,Ministère des Télécommunications
+2012,Liberia,LBR,25,Estimated based on 3G cellular network urban coverage area and population density in urban areas,Liberia Telecommunications Authority 
+2013,Liberia,LBR,50,Estimated based on 3G cellular network urban coverage area and population density in urban areas,Liberia Telecommunications Authority 
+2014,Liberia,LBR,50,ITU estimate,ITU estimate
+2015,Liberia,LBR,50,ITU estimate,ITU estimate
+2016,Liberia,LBR,63,,Liberia Telecommunications Authority 
+2017,Liberia,LBR,63,,ITU estimate.
+2019,Liberia,LBR,63,,ITU estimate.
+2020,Liberia,LBR,63,,ITU estimate.
+2014,Libya,LBY,0,ITU estimate,ITU estimate
+2015,Libya,LBY,50,ITU estimate,ITU estimate
+2016,Libya,LBY,78.08,,ITU estimate.
+2017,Libya,LBY,78.08,,ITU estimate.
+2019,Libya,LBY,78.08,,ITU estimate.
+2020,Libya,LBY,78.08,,ITU estimate.
+2009,Saint Lucia,LCA,0,Currently there are no 3G/4G networks deployed in the country,National Telecommunications Regulatory Commission
+2010,Saint Lucia,LCA,0,,National Telecommunications Regulatory Commission
+2011,Saint Lucia,LCA,0,Currently there are no 3G/4G networks deployed in the country,National Telecommunications Regulatory Commission
+2014,Saint Lucia,LCA,0,ITU estimate,ITU estimate
+2015,Saint Lucia,LCA,37.1,,ITU Estimate2.
+2019,Saint Lucia,LCA,37.1,,ITU estimate.
+2020,Saint Lucia,LCA,37.1,,ITU estimate.
+2012,Liechtenstein,LIE,98,,
+2013,Liechtenstein,LIE,99,,
+2014,Liechtenstein,LIE,99,,
+2015,Liechtenstein,LIE,99,,Office for Communications
+2016,Liechtenstein,LIE,99,,Office for Communications
+2017,Liechtenstein,LIE,99,,Office for Communications
+2018,Liechtenstein,LIE,99,,Office for Communications
+2019,Liechtenstein,LIE,99,,Office for Communications
+2020,Liechtenstein,LIE,99,,Office for Communications
+2012,Lesotho,LSO,32,,Lesotho Telecommunications Authority
+2013,Lesotho,LSO,76.41,,ITU estimate.
+2014,Lesotho,LSO,91.96,,LCA
+2015,Lesotho,LSO,95.6,,Lesotho Communications Authority
+2016,Lesotho,LSO,96,,LESOTHO COMMUNICATIONS AUTHORITY
+2017,Lesotho,LSO,97.84,,Lesotho Communications Authority
+2018,Lesotho,LSO,97.84,,Lesotho Communications Authority
+2019,Lesotho,LSO,98,,Lesotho Communications Authority
+2020,Lesotho,LSO,98,,Lesotho Communications Authority
+2009,Lithuania,LTU,75.5,,Communications Regulatory Authority (RRT)
+2010,Lithuania,LTU,46,,Communications Regulatory Authority of the Republic of Lithuania
+2011,Lithuania,LTU,40,,Communications Regulatory Authority of the Republic of Lithuania
+2012,Lithuania,LTU,54,,Communications Regulatory Authority of the Republic of Lithuania
+2013,Lithuania,LTU,94,,Communications Regulatory Authority of the Republic of Lithuania
+2014,Lithuania,LTU,99,,Communications Regulatory Authority of the Republic of Lithuania
+2015,Lithuania,LTU,99.98,,Communications Regulatory Authority of the Republic of Lithuania
+2016,Lithuania,LTU,99.98,,Communications Regulatory Authority of the Republic of Lithuania
+2017,Lithuania,LTU,99.99,,The Communications Regulatory Authority of the Republic of Lithuania
+2018,Lithuania,LTU,99.99,,Communications Regulatory Authority of the Republic of Lithuania (RRT)
+2019,Lithuania,LTU,99.99,,Communications Regulatory Authority of the Republic of Lithuania (RRT)
+2020,Lithuania,LTU,99.99,,Communications Regulatory Authority of the Republic of Lithuania
+2008,Luxembourg,LUX,90,,OECD.
+2009,Luxembourg,LUX,80,,Estimate from Institut Luxembourgeois de Régulation
+2010,Luxembourg,LUX,90,estimate,Institut Luxembourgeois de Régulation
+2012,Luxembourg,LUX,95,,ITU estimate.
+2014,Luxembourg,LUX,97,,Institut Luxembourgeois de Régulation
+2015,Luxembourg,LUX,99,Mid 2015.,Institut Luxembourgeois de Régulation
+2016,Luxembourg,LUX,99,,ILR
+2017,Luxembourg,LUX,99,,Institut Luxembourgeois de Régulation
+2018,Luxembourg,LUX,99,,Institut luxembourgeois de Régulation
+2019,Luxembourg,LUX,99,,Institut luxembourgeois de Régulation
+2020,Luxembourg,LUX,99,,Institut luxembourgeois de Régulation
+2012,Latvia,LVA,95,,ITU estimate.
+2013,Latvia,LVA,95,,ITU estimate.
+2014,Latvia,LVA,95,ITU estimate,ITU estimate
+2015,Latvia,LVA,95,ITU estimate,ITU estimate
+2016,Latvia,LVA,99,,Ministry of Transport of the Republic of Latvia
+2017,Latvia,LVA,99,,Ministry of Transport of the Republic of Latvia
+2019,Latvia,LVA,99,,ITU estimate.
+2020,Latvia,LVA,99,,ITU estimate.
+2008,"Macao, China",MAC,98.9,,Bureau of Telecommunications Regulation
+2009,"Macao, China",MAC,99.1,,Bureau of Telecommunications Regulation
+2010,"Macao, China",MAC,99.9,,Bureau of Telecommunications Regulation
+2011,"Macao, China",MAC,99.9,,Bureau of Telecommunications Regulation
+2012,"Macao, China",MAC,99.9,,Bureau of Telecommunications Regulation
+2013,"Macao, China",MAC,99.9,,Bureau of Telecommunications Regulation
+2014,"Macao, China",MAC,99.9,,Bureau of Telecommunications Regulation
+2015,"Macao, China",MAC,99.9,,Bureau of Telecommunications Regulation
+2016,"Macao, China",MAC,99.9,,ITU estimate.
+2017,"Macao, China",MAC,99.9,,ITU estimate.
+2019,"Macao, China",MAC,99.9,,ITU estimate.
+2020,"Macao, China",MAC,99.9,,ITU estimate.
+2012,Mauritius,MUS,90,,ITU estimate.
+2013,Mauritius,MUS,90,,ITU estimate.
+2014,Mauritius,MUS,90,ITU estimate,ITU estimate
+2015,Mauritius,MUS,92.8,,Information and Communication Technologies Authority of Mauritius
+2016,Mauritius,MUS,95.4,,Information and Communication Technologies Authority
+2017,Mauritius,MUS,99,Information and Communication Technologies Authority of Mauritius,Information and Communication Technologies Authority
+2018,Mauritius,MUS,99,Information and Communication Technologies Authority of Mauritius,ICTA
+2019,Mauritius,MUS,99,Information and Communication Technologies Authority of Mauritius,ICTA
+2020,Mauritius,MUS,99,Information and Communication Technologies Authority of Mauritius,Information and Communication Technologies Authority of Mauritius
+2010,Monaco,MCO,100,,Direction des Communications Electroniques
+2011,Monaco,MCO,100,,Direction des Communications Electroniques
+2012,Monaco,MCO,100,,Direction des Communications Electroniques
+2013,Monaco,MCO,100,,Direction des Communications Electroniques
+2014,Monaco,MCO,100,,Direction des Communications Electroniques
+2015,Monaco,MCO,100,,Direction des Communications Electroniques
+2016,Monaco,MCO,100,,Direction du Développement des Usages Numériques
+2017,Monaco,MCO,100,,Direction des Plateformes et des Ressources Numériques
+2018,Monaco,MCO,100,,Gouvernement de Monaco
+2019,Monaco,MCO,100,,Gouvernement de Monaco
+2020,Monaco,MCO,100,,Gouvernement de Monaco
+2014,Madagascar,MDG,30,ITU estimate,ITU estimate
+2015,Madagascar,MDG,61,,Autorité de Régulation des Technologies de Communication
+2016,Madagascar,MDG,63.01,,Autorité de Régulation des Technologies de Communication
+2017,Madagascar,MDG,64,,Autorité de Régulation des Technologies de Communication
+2018,Madagascar,MDG,65,,Autorité de Régulation des Technologies de Communication
+2019,Madagascar,MDG,65,,ITU estimate.
+2020,Madagascar,MDG,65,,ITU estimate.
+2012,Mexico,MEX,91.71,,ITU estimate.
+2013,Mexico,MEX,95,,ITU estimate.
+2014,Mexico,MEX,95,ITU estimate,ITU estimate
+2015,Mexico,MEX,89,,ITU estimate
+2016,Mexico,MEX,89,,ITU estimate
+2018,Mexico,MEX,89.64,Information as of December 2018.,Instituto Federal de Telecomunicaciones
+2019,Mexico,MEX,94.83,Information as of December 2019.,Instituto Federal de Telecomunicaciones
+2020,Mexico,MEX,95.58,Information as of December 2020.,Instituto Federal de Telecomunicaciones
+2009,Malaysia,MYS,74,,Malaysian Communications and Multimedia Malaysia
+2010,Malaysia,MYS,81.1,,Malaysian Communications and Multimedia Commission
+2011,Malaysia,MYS,81.6,,Malaysian Communications and Multimedia Commission
+2012,Malaysia,MYS,82.4,,Malaysian Communications and Multimedia Commission
+2013,Malaysia,MYS,83.1,,Malaysian Communications and Multimedia Commission
+2014,Malaysia,MYS,88,,Malaysian Communications and Multimedia Commission
+2015,Malaysia,MYS,92,,Malaysian Communications and Multimedia Commission
+2016,Malaysia,MYS,95.3,Revised from 95.0 reported in ITU Long Questionnaire 2017,Malaysian Communications and Multimedia Malaysia
+2017,Malaysia,MYS,93.6,Revised figure from 96.2 reported in ITU Long Questionnaire 2019,Malaysian Communications and Multimedia Commission
+2018,Malaysia,MYS,94.7,,Malaysian Communications and Multimedia Commission
+2019,Malaysia,MYS,95.5,,Malaysian Communications and Multimedia Commission
+2020,Malaysia,MYS,95.3,,Malaysian Communications and Multimedia Commission
+2009,Maldives,MDV,41.82,Population figures used for calculation based on census 2006 figures.,Communications Authority of Maldives
+2010,Maldives,MDV,57.1,Population figures used for calculation based on census 2006 figures.,Communications Authority of Maldives
+2011,Maldives,MDV,75.2,Population figures used for calculation based on census 2006 figures.,Communications Authority of Maldives
+2012,Maldives,MDV,78,Population figures used for calculation based on census 2006 figures.,Communications Authority of Maldives
+2013,Maldives,MDV,83,,Communications Authority of Maldives
+2014,Maldives,MDV,83,ITU estimate,ITU estimate
+2015,Maldives,MDV,100,,ITU estimate
+2016,Maldives,MDV,100,,Communications Authority of Maldives
+2017,Maldives,MDV,100,,Communications Authority of Maldives
+2018,Maldives,MDV,100,,Communications Authority of Maldives
+2019,Maldives,MDV,100,,Communications Authority of Maldives
+2020,Maldives,MDV,100,,Communications Authority of Maldives
+2014,Mali,MLI,0,ITU estimate,ITU estimate
+2015,Mali,MLI,10,ITU estimate,ITU estimate
+2016,Mali,MLI,23,,Autorité malienne de régulation des télécommunications/TIC et Postes
+2017,Mali,MLI,29.04,,Autorité Malienne de Régulation des Télécommunication/TIC et Postes (AMRTP)
+2018,Mali,MLI,55,La couverture 3G s'est fortement améliorée qui a été élargie à certaines communes urbaines et rurales,Autorité Malienne de Régulation des Télécommunications/TIC et des Postes (AMRTP)
+2019,Mali,MLI,60,,Autorité Malienne de Régulation des Télécommunications/TIC et des Postes (AMRTP)
+2020,Mali,MLI,65,,Autorité Malienne de Régulation des Télécommunications/TIC et des Postes (AMRTP)
+2012,Malta,MLT,88.64,,ITU estimate.
+2013,Malta,MLT,96.32,,ITU estimate.
+2014,Malta,MLT,99,,ITU estimate.
+2015,Malta,MLT,100,,Malta Communications Authority
+2016,Malta,MLT,100,,Malta Communications Authority
+2017,Malta,MLT,100,,Malta Communications Authority
+2018,Malta,MLT,100,,Malta Communications Authority
+2019,Malta,MLT,100,,Malta Communications Authority
+2020,Malta,MLT,100,,Malta Communications Authority
+2008,Mongolia,MNG,39.9,,Communications Regulatory Commission of Mongolia
+2009,Mongolia,MNG,46.9,,Communications Regulatory Commission of Mongolia
+2010,Mongolia,MNG,49.8,,Communications Regulatory Commission of Mongolia
+2011,Mongolia,MNG,49.9,,Communications Regulatory Commission of Mongolia
+2012,Mongolia,MNG,52.8,,Communications Regulatory Commission of Mongolia
+2014,Mongolia,MNG,52.8,ITU estimate,ITU estimate
+2015,Mongolia,MNG,95,,Communications Regulatory Commission of Mongolia 
+2016,Mongolia,MNG,95,,Communications Regulatory Commission of Mongolia
+2017,Mongolia,MNG,95,,Communications Regulatory Commission of Mongolia
+2018,Mongolia,MNG,95,,Communications Regulatory Commision of Mongolia
+2019,Mongolia,MNG,96,,Communications Regulatory Commision of Mongolia
+2020,Mongolia,MNG,100,,Communications Regulatory Commission of Mongolia 
+2012,Mozambique,MOZ,31.73,,ITU estimate.
+2013,Mozambique,MOZ,31.73,,ITU estimate.
+2014,Mozambique,MOZ,40,ITU estimate,ITU estimate
+2015,Mozambique,MOZ,40,This indicator is not accurate due to the mobility of the service...,Instituto Nacional das Comunicaçőes de Moçambique
+2016,Mozambique,MOZ,75,This indicator is not accurate due to the mobility of the service...,ARECOM
+2017,Mozambique,MOZ,80,This indicator is not accurate due to the mobility of the service...,INCM
+2018,Mozambique,MOZ,82,,INCM - Communication Regulator Authority
+2019,Mozambique,MOZ,82,,INCM - Communication Regulator Authority
+2020,Mozambique,MOZ,85,,INCM - Communication Regulator Authority
+2008,Morocco,MAR,68,3G Network,Agence Nationale de Réglementation des Télécommunications
+2009,Morocco,MAR,69,3G Network,Agence Nationale de Réglementation des Télécommunications
+2010,Morocco,MAR,69,3G Network,Agence Nationale de Réglementation des Télécommunications
+2011,Morocco,MAR,75,,Agence Nationale de Réglementation des Télécommunications
+2012,Morocco,MAR,75,,Agence Nationale de Réglementation des Télécommunications
+2013,Morocco,MAR,75,,Agence Nationale de Réglementation des Télécommunications
+2014,Morocco,MAR,80,,Agence Nationale de Réglementation des Télécommunications
+2015,Morocco,MAR,80,,Agence Nationale de Réglementation des Télécommunications
+2016,Morocco,MAR,95,,ANRT
+2017,Morocco,MAR,96,,ANRT
+2018,Morocco,MAR,98,,ANRT
+2019,Morocco,MAR,98.97,,ANRT
+2020,Morocco,MAR,99,,ANRT
+2012,Martinique,MTQ,57.14,,ITU estimate.
+2013,Martinique,MTQ,72.22,,ITU estimate.
+2014,Martinique,MTQ,78.48,,ITU estimate.
+2015,Martinique,MTQ,85.28,,ITU estimate.
+2016,Martinique,MTQ,92.67,,ITU estimate.
+2015,Montserrat,MSR,93,,ITU estimate
+2016,Montserrat,MSR,95,,ITU estimate.
+2019,Montserrat,MSR,95,,ITU estimate.
+2020,Montserrat,MSR,95,,ITU estimate.
+2014,Mauritania,MRT,0,ITU estimate,ITU estimate
+2015,Mauritania,MRT,30,ITU estimate,ITU estimate
+2016,Mauritania,MRT,41,ARE estimate,Autorité de Régulation
+2017,Mauritania,MRT,42.07,ARE estimate,Autorité de Régulation
+2018,Mauritania,MRT,43,ARE estimate,Autorité de Régulation (ARE)
+2019,Mauritania,MRT,43.3,ARE Estimate,Autorité de Régulation (ARE)
+2020,Mauritania,MRT,43.5,ARE Estimate,Autorité de Régulation
+2012,Malawi,MWI,2,,Malawi Communications Regulatory Authority
+2013,Malawi,MWI,5,,Malawi Communications Regulatory Authority
+2014,Malawi,MWI,5,ITU estimate,ITU estimate
+2015,Malawi,MWI,32,,Malawi Communications Regulatory Authority
+2016,Malawi,MWI,42,,Malawi communications regulatory authority
+2017,Malawi,MWI,50,,Malawi communications regulatory authority
+2018,Malawi,MWI,54,,Malawi Communication regulatory authority
+2019,Malawi,MWI,78,,Malawi Communication regulatory authority
+2020,Malawi,MWI,86,,Malawi Communication regulatory authority
+2014,Nicaragua,NIC,0,ITU estimate,ITU estimate
+2015,Nicaragua,NIC,75,,ITU estimate
+2016,Nicaragua,NIC,80,,TELCOR
+2017,Nicaragua,NIC,85,Estimate by TELCOR.,Telcor
+2018,Nicaragua,NIC,85,,Instituto Nicaraguense de Telecomunicaciones y Correos
+2019,Nicaragua,NIC,85,,Instituto Nicaraguense de Telecomunicaciones y Correos
+2020,Nicaragua,NIC,85,,Instituto Nicaraguense de Telecomunicaciones y Correos
+2007,New Caledonia,NCL,0,,Office des Postes et Télécommunications de Nouvelle-Calédonie. 
+2008,New Caledonia,NCL,0,,Office des Postes et Télécommunications de Nouvelle-Calédonie. 
+2009,New Caledonia,NCL,0,,Office des Postes et Télécommunications de Nouvelle-Calédonie. 
+2012,New Caledonia,NCL,37.23,,IUT estimate.
+2013,New Caledonia,NCL,49.44,,ITU estimate.
+2014,New Caledonia,NCL,65.65,,ITU estimate.
+2015,New Caledonia,NCL,97.4,,Office des Postes et Télécommunications
+2019,New Caledonia,NCL,97.4,,ITU estimate.
+2020,New Caledonia,NCL,97.4,,ITU estimate.
+2014,Niger,NER,0,ITU estimate,ITU estimate
+2015,Niger,NER,10,ITU estimate,ITU estimate
+2016,Niger,NER,22,,MPT-EN
+2017,Niger,NER,24,,MPT-EN
+2019,Niger,NER,24,,ITU estimate.
+2020,Niger,NER,24,,ITU estimate.
+2014,Nigeria,NGA,30,ITU estimate,ITU estimate
+2015,Nigeria,NGA,40,,ITU estimate
+2016,Nigeria,NGA,54,,NIGERIAN COMMUNICATIONS COMMISSION
+2017,Nigeria,NGA,54,,NIGERIAN COMMUNICATIONS COMMISSION
+2018,Nigeria,NGA,75.48,,Nigerian Communications Commission
+2019,Nigeria,NGA,74.2,,Nigerian Communications Commission
+2020,Nigeria,NGA,74.49,,Nigerian Communications Commission
+2014,Niue,NIU,0,ITU estimate,ITU estimate
+2015,Niue,NIU,0,ITU estimate,ITU estimate
+2010,Namibia,NAM,13,,Communications Regulatory Authority of Namibia 
+2011,Namibia,NAM,23,,Communications Regulatory Authority of Namibia 
+2012,Namibia,NAM,32,,Communications Regulatory Authority of Namibia 
+2013,Namibia,NAM,37,,Communications Regulatory Authority of Namibia 
+2014,Namibia,NAM,37,,Communications Regulatory Authority of Namibia 
+2015,Namibia,NAM,50,,Communications Regulatory Authority of Namibia 
+2016,Namibia,NAM,53,,CRAN
+2017,Namibia,NAM,53,,CRAN
+2018,Namibia,NAM,53,,CRAN
+2019,Namibia,NAM,69,,CRAN
+2020,Namibia,NAM,89,,CRAN
+2007,Norway,NOR,90,,OECD.
+2012,Norway,NOR,90,Outdoors,Norwegian Post and Telecommunications Authority (NPT)
+2013,Norway,NOR,97,Outdoors,Norwegian Post and Telecommunications Authority (NPT)
+2014,Norway,NOR,98,OuOutdoors,Norwegian Communications Authority
+2015,Norway,NOR,99,Outdoors,Norwegian Communications Authority
+2016,Norway,NOR,99.2,,Norwegian Communication Authority
+2017,Norway,NOR,99.8,,Norwegian Communication Authority
+2018,Norway,NOR,99.9,,Norwegian Communications Authority
+2019,Norway,NOR,99.9,,Norwegian Communications Authority
+2020,Norway,NOR,99.9,,Norwegian Communications Authority
+2009,Nepal (Republic of),NPL,20.35,,Nepal Telecommunications Authority
+2014,Nepal (Republic of),NPL,30,ITU estimate,ITU estimate
+2015,Nepal (Republic of),NPL,50,ITU estimate,ITU estimate
+2016,Nepal (Republic of),NPL,54.1,,ITU estimate.
+2017,Nepal (Republic of),NPL,54.1,From NTA,Nepal Telecommunications Authority
+2019,Nepal (Republic of),NPL,54.1,,ITU estimate.
+2020,Nepal (Republic of),NPL,54.1,,ITU estimate.
+2010,Nauru,NRU,98,,Ministry for Transport and  Telecommunications
+2012,Nauru,NRU,98,,ITU estimate.
+2013,Nauru,NRU,98,,ITU estimate.
+2014,Nauru,NRU,98,ITU estimate,ITU estimate
+2015,Nauru,NRU,98,,ITU estimate
+2016,Nauru,NRU,98,,ITU estimate.
+2017,Nauru,NRU,98,,ITU estimate.
+2019,Nauru,NRU,98,,ITU estimate.
+2020,Nauru,NRU,98,,ITU estimate.
+2008,New Zealand,NZL,97,,OECD.
+2009,New Zealand,NZL,97,,Ministry of Economic Development
+2010,New Zealand,NZL,97,,Ministry of Economic Development
+2011,New Zealand,NZL,97,,"Ministry of Business, Innovation and Employment"
+2012,New Zealand,NZL,97,,"Ministry of Business, Innovation and Employment"
+2014,New Zealand,NZL,97,,"Ministry of Business, Innovation and Employment"
+2015,New Zealand,NZL,98,,"Ministry of Business, Innovation and Employment"
+2016,New Zealand,NZL,98,,"Ministry of Business, Innovation and Employment"
+2017,New Zealand,NZL,98,,"Ministry of Business, Innovation and Employment"
+2018,New Zealand,NZL,98,As reported by operators,"Ministry of Business, Innovation and Employment"
+2019,New Zealand,NZL,98,,ITU estimate.
+2020,New Zealand,NZL,98.5,,New Zealand Commerce Commission
+2008,French Polynesia,PYF,15,,
+2009,French Polynesia,PYF,30,,Service des Postes et Télécommunications
+2010,French Polynesia,PYF,45,,Service des Postes et Télécommunications
+2011,French Polynesia,PYF,68,,
+2012,French Polynesia,PYF,78,,Service des Postes et Télécommunications
+2013,French Polynesia,PYF,80,,Service des Postes et Télécommunications
+2014,French Polynesia,PYF,80,,Service des Postes et Télécommunications
+2015,French Polynesia,PYF,85,,Direction générale de l'économie numérique (DGEN)
+2016,French Polynesia,PYF,85,,Direction Générale de l'Economie Numérique
+2017,French Polynesia,PYF,85,,Direction Générale de l'Economie Numérique
+2018,French Polynesia,PYF,88.5,,Direction Générale de l'Economie Numérique
+2019,French Polynesia,PYF,88.5,,ITU estimate.
+2020,French Polynesia,PYF,88.5,,ITU estimate.
+2007,Oman,OMN,0,,
+2008,Oman,OMN,32,,Telecommunication Regulatory Authority
+2009,Oman,OMN,48,,Telecommunication Regulatory Authority
+2010,Oman,OMN,49.05,,Telecommunication Regulatory Authority
+2011,Oman,OMN,65,,Telecommunication Regulatory Authority
+2012,Oman,OMN,85.7,,Telecommunication Regulatory Authority
+2013,Oman,OMN,87.1,,Telecommunication Regulatory Authority
+2014,Oman,OMN,93,,Telecommunication Regulatory Authority
+2015,Oman,OMN,95,,Telecommunication Regulatory Authority
+2016,Oman,OMN,96.01,,Telecommunication Regulatory Authority
+2017,Oman,OMN,99,,Telecommunication Regulatory Authority
+2018,Oman,OMN,99.2,,Telecommunication Regulatory Authority
+2019,Oman,OMN,99.3,,Telecommunication Regulatory Authority
+2020,Oman,OMN,99.38,,Telecommunication Regulatory Authority
+2012,Pakistan,PAK,0,,
+2013,Pakistan,PAK,0,,
+2014,Pakistan,PAK,33,"Figures are as on 31st December, 2014 based on data received from cellular mobile Operators. 3G/4G launched in 2014.",
+2015,Pakistan,PAK,46,"Figures are as on 31st December, 2015 based on data received from cellular mobile Operators",Pakistan Telecommunication Authority
+2016,Pakistan,PAK,87,Figure reports the highest coverage as on 31st December 2016,Pakistan Telecommunication Authority
+2017,Pakistan,PAK,72,Figure reports the highest coverage as on 31st December 2017,Pakistan Telecommunication Authority
+2018,Pakistan,PAK,73,Figure reports the highest coverage as on 31st December 2018,Pakistan Telecommunication Authoriity
+2019,Pakistan,PAK,76.6,Figure reports the highest coverage as on 31st December 2019,Pakistan Telecommunication Authoriity
+2020,Pakistan,PAK,76.7,Figure reports the highest coverage as on 31st December 2020,Pakistan Telecommunication Authority
+2009,Philippines,PHL,69,,NATIONAL TELECOMMUNICATIONS COMMISSION
+2010,Philippines,PHL,69,,NATIONAL TELECOMMUNICATIONS COMMISSION
+2011,Philippines,PHL,70,ITU ESTIMATE,
+2012,Philippines,PHL,73,,Information and Communications Technology Office
+2013,Philippines,PHL,75,,
+2014,Philippines,PHL,78,,"Department of Science and Technology, Information and Communications Technology Office"
+2015,Philippines,PHL,78,ITU estimate,ITU estimate
+2016,Philippines,PHL,93,,Department of Information and Communications Technology
+2017,Philippines,PHL,93,,Department of Information and Communications Technology
+2018,Philippines,PHL,96,,ITU estimate.
+2019,Philippines,PHL,93,,ITU estimate.
+2020,Philippines,PHL,96,,ITU estimate.
+2015,Palau,PLW,88,3G mobile service launched Jan 2015 as prepaid only; both prepaid and postpaid customers can use prepaid 3G,Palau National Communications Corporation (PNCC)
+2016,Palau,PLW,88,,ITU estimates.
+2019,Palau,PLW,88,,ITU estimate.
+2020,Palau,PLW,88,,ITU estimate.
+2014,Papua New Guinea,PNG,60,ITU estimate,ITU estimate
+2015,Papua New Guinea,PNG,60,ITU estimate,ITU estimate
+2016,Papua New Guinea,PNG,60.9,,ITU estimate.
+2017,Papua New Guinea,PNG,64.35,,ITU estimate.
+2019,Papua New Guinea,PNG,64.35,,ITU estimate.
+2020,Papua New Guinea,PNG,64.35,,ITU estimate.
+2014,Panama,PAN,50,ITU estimate,ITU estimate
+2015,Panama,PAN,79,,ITU estimate
+2016,Panama,PAN,92.67,,Autoridad Nacional de los Servicios Públicos
+2017,Panama,PAN,95,,Autoridad Nacional de los Servicios Públicos
+2018,Panama,PAN,95,,Autoridad Nacional de los Servicios Publicos
+2019,Panama,PAN,95,,Autoridad Nacional de los Servicios Publicos
+2020,Panama,PAN,95,,Autoridad Nacional de los Servicios Publicos
+2007,Poland,POL,25.5,,OECD.
+2009,Poland,POL,56.63,,Office of Electronic Communications
+2010,Poland,POL,61.16,,Office of Electronic Communications
+2011,Poland,POL,82.34,,Office of Electronic Communications
+2012,Poland,POL,80.52,,Office of Electronic Communications
+2013,Poland,POL,93.6,,Office of Electronic Communications
+2014,Poland,POL,99.9,The percentage of the population covered by at least 3G mobile network of the largest operator.,Office of Electronic Communications
+2015,Poland,POL,100,The percentage of the population covered by at least 3G mobile network of the largest operator.,Office of Electronic Communications
+2016,Poland,POL,100,The percentage of the population covered by at least 3G mobile network of the largest operator.,Office of Electronic Communications
+2017,Poland,POL,100,The percentage of the population covered by at least 3G mobile network of the largest operator.,Office of Electronic Communications
+2018,Poland,POL,100,The percentage of the population covered by at least 3G mobile network of the largest operator.,Office of Electronic Communications
+2019,Poland,POL,100,The percentage of the population covered by at least 3G mobile network of the largest operator.,Office of Electronic Communications
+2020,Poland,POL,100,The percentage of the population covered by at least 3G mobile network of the largest operator.,Office of Electronic Communications
+2009,Portugal,PRT,79,Percentage of the population covered by at least 384 Kbps.,Autoridade Nacional de Comunicaçőes
+2010,Portugal,PRT,84,Percentage of the population covered by at least 384 Kbps.,Autoridade Nacional de Comunicaçőes
+2011,Portugal,PRT,85,Percentage of the population covered by at least 384 Kbps.,Autoridade Nacional de Comunicaçőes
+2012,Portugal,PRT,87.5,Percentage of the population covered by at least 384 Kbps.,Autoridade Nacional de Comunicaçőes
+2013,Portugal,PRT,96.2,Percentage of the population covered by at least 384 Kbps.,Autoridade Nacional de Comunicaçőes
+2014,Portugal,PRT,99.1,Percentage of the population covered by at least 384 Kbps.,Autoridade Nacional de Comunicaçőes
+2015,Portugal,PRT,99.1,Coverage for largest network.  Percentage of the population covered by at least 384 Kbps.,Autoridade Nacional de Comunicaçőes
+2016,Portugal,PRT,99.3,Coverage for largest network.  Percentage of the population covered by at least 384 Kbps.,ANACOM
+2017,Portugal,PRT,99.5,Coverage for largest network.  Percentage of the population covered by at least 384 Kbps.,ANACOM
+2018,Portugal,PRT,99.2,"Source: IHS, ""Broadband Coverage in the EU"", 2019",ANACOM
+2019,Portugal,PRT,99.7,"Source: ""Broadband Coverage in the EU"", 2020  Revised.",ANACOM
+2020,Portugal,PRT,99.9,"Source: ""Broadband Coverage in the EU"", 2020 (preliminary results)",ANACOM
+2014,Paraguay,PRY,50,ITU estimate,ITU estimate
+2015,Paraguay,PRY,66,,ITU estimate
+2016,Paraguay,PRY,95.4,,Comisión Nacional de Telecomunicaciones
+2017,Paraguay,PRY,95.97,,Comisión Nacional de Telecomunicaciones - CONATEL
+2018,Paraguay,PRY,97.7,Estimate,Comisión Nacional de Telecomunicaciones - CONATEL
+2019,Paraguay,PRY,98.11,,Comisión Nacional de Telecomunicaciones - CONATEL
+2020,Paraguay,PRY,95.13,,Comisión Nacional de Telecomunicaciones - CONATEL
+2010,Peru,PER,55.02,Estimate.,Ministerio de Transportes y Comunicaciones
+2011,Peru,PER,62.51,Estimate.,Ministerio de Transportes y Comunicaciones
+2012,Peru,PER,79.4,Estimate.,Ministerio de Transportes y Comunicaciones
+2014,Peru,PER,88.95,Q2 2015. The population in districts with at least one populated center covered by 3G are considered as covered.,Ministerio de Transportes y Comunicaciones
+2015,Peru,PER,70.8,,ITU Estimate2.
+2016,Peru,PER,70.8,"From 2016, the Osiptel coverage regulation is followed: a district has coverage of the service when the capital of the district and at least 45% of the other populated centers located inside of the district are covered.",Ministerio de Transportes y Comunicaciones
+2017,Peru,PER,73.94,"From 2017, the Osiptel coverage regulation is followed: a district has coverage of the service when the capital of the district and at least 60% of the other populated centers located inside of the district are covered.",Ministerio de Transportes y Comunicaciones
+2019,Peru,PER,73.94,,ITU estimate.
+2020,Peru,PER,73.94,,ITU estimate.
+2012,Puerto Rico,PRI,92.67,,ITU estimate.
+2013,Puerto Rico,PRI,95,,ITU estimate.
+2014,Puerto Rico,PRI,99.9,Source: FCC. Cellular Geographic Service Areas (CGSAs),Puerto Rico Institute of Statistics
+2015,Puerto Rico,PRI,99,,Puerto Rico Institute of Statistics
+2016,Puerto Rico,PRI,95,,Puerto Rico Institute of Statistics
+2017,Puerto Rico,PRI,99,,Puerto Rico Institute of Statistics
+2018,Puerto Rico,PRI,100,,Puerto Rico Institute of Statistics
+2019,Puerto Rico,PRI,100,,Puerto Rico Institute of Statistics
+2020,Puerto Rico,PRI,100,,Puerto Rico Institute of Statistics
+2007,Qatar,QAT,70,,ictQATAR
+2008,Qatar,QAT,86,,ictQATAR
+2009,Qatar,QAT,80,,ictQATAR
+2010,Qatar,QAT,98,,ictQATAR
+2011,Qatar,QAT,98,,ictQATAR
+2012,Qatar,QAT,98,,ictQATAR
+2013,Qatar,QAT,98,,ictQATAR
+2014,Qatar,QAT,98,,ictQATAR
+2015,Qatar,QAT,98,,Ministry of Transport and Communications
+2016,Qatar,QAT,99.64,,Ministry of Transport and Commuications
+2017,Qatar,QAT,99.7,,Ministry of Transport and Commuications
+2018,Qatar,QAT,100,,Ministry of Transport and Communications
+2019,Qatar,QAT,100,,Ministry of Transport and Communications
+2020,Qatar,QAT,100,,Ministry of Transport and Communications
+2012,Réunion,REU,49.99,,ITU estimate.
+2013,Réunion,REU,66.39,,ITU estimate.
+2014,Réunion,REU,75.91,,ITU estimate.
+2015,Réunion,REU,82.49,,ITU estimate.
+2016,Réunion,REU,89.64,,ITU estimate.
+2007,Romania,ROU,45,estimation for 3G coverage,ANCOM
+2008,Romania,ROU,60,estimation for 3G coverage,ANCOM
+2009,Romania,ROU,90,estimation for 3G coverage,ANCOM
+2010,Romania,ROU,91,Estimate.,National Authority for Management and Regulation in Communications of Romania
+2011,Romania,ROU,95,Estimate.,National Authority for Management and Regulation in Communications of Romania
+2012,Romania,ROU,99.8,Estimate.,National Authority for Management and Regulation in Communications of Romania
+2013,Romania,ROU,99.8,Estimate.,National Authority for Management and Regulation in Communications of Romania
+2014,Romania,ROU,99.8,Estimate.,National Authority for Management and Regulation in Communications of Romania
+2015,Romania,ROU,99.9,Estimate.,National Authority for Management and Regulation in Communications of Romania
+2016,Romania,ROU,99.96,Estimate.,National Authority for Management and Regulation in Communications
+2017,Romania,ROU,99.96,estimation,ANCOM
+2018,Romania,ROU,99.96,estimation,ANCOM
+2019,Romania,ROU,99.96,estimation,ANCOM
+2020,Romania,ROU,99.98,estimation,ANCOM
+2012,Rwanda,RWA,18.31,,ITU estimate.
+2013,Rwanda,RWA,88,,Rwanda Utilities Regulatory Authority (RURA)
+2014,Rwanda,RWA,88,,RURA
+2015,Rwanda,RWA,88.01,,Rwanda Utilities Regulatory Authority (RURA)
+2016,Rwanda,RWA,92.08,,Rwanda Utilities Regulatory Authority
+2017,Rwanda,RWA,93.37,,Rwanda Utilities Regulatory Authority (RURA)
+2018,Rwanda,RWA,96.6,,Rwanda Utilities Regulatory Authority (RURA)
+2019,Rwanda,RWA,98.9,,Rwanda Utilities Regulatory Authority (RURA)
+2020,Rwanda,RWA,98.07,This decrease is due to the use of different tools for doing the prediction of network coverage.,Rwanda Utilities Regulatory Authority (RURA)
+2015,Russian Federation,RUS,73,,Ministry of Telecom and Mass Communications of the Russian Federation
+2016,Russian Federation,RUS,75,,"Ministry of Digital Development, Communications and Mass Media of the Russian Federation"
+2017,Russian Federation,RUS,77,,"Ministry of Digital Development, Communictions and Mass Media of the Russian Federation"
+2018,Russian Federation,RUS,78,,"Ministry of Digital Development, Communictions and Mass Media of the Russian Federation Russian Federation"
+2019,Russian Federation,RUS,87.7,,"Ministry of Digital Development, Communictions and Mass Media of the Russian Federation Russian Federation"
+2020,Russian Federation,RUS,88.6,,"Ministry of Digital Development, Communictions and Mass Media of the Russian Federation Russian Federation"
+2007,Sweden,SWE,99,,Swedish Post and Telecom Agency (PTS).
+2008,Sweden,SWE,99,,Swedish Post and Telecom Agency (PTS).
+2009,Sweden,SWE,99,,Swedish Post and Telecom Agency (PTS).
+2010,Sweden,SWE,99.98,,Swedish Post and Telecom Authority
+2011,Sweden,SWE,99.98,,Swedish Post and Telecom Authority
+2012,Sweden,SWE,99.99,,Swedish Post and Telecom Authority
+2014,Sweden,SWE,99.99,,Swedish Post and Telecom Authority
+2015,Sweden,SWE,99.99,,Swedish Post and Telecom Authority
+2016,Sweden,SWE,100,,Swedish Post and Telecom Authority
+2017,Sweden,SWE,100,,Swedish Post and Telecom Authority (PTS)
+2018,Sweden,SWE,100,,Swedish Post and Telecom Authority (PTS)
+2019,Sweden,SWE,100,,Swedish Post and Telecom Authority (PTS)
+2020,Sweden,SWE,100,,Swedish Post and Telecom Authority (PTS)
+2012,Saint Kitts and Nevis,KNA,15,,ITU estimate.
+2013,Saint Kitts and Nevis,KNA,33.75,,ITU estimate.
+2014,Saint Kitts and Nevis,KNA,100,,National Telecommunications Regulatory Commission
+2015,Saint Kitts and Nevis,KNA,100,ITU estimate,ITU estimate
+2016,Saint Kitts and Nevis,KNA,100,,
+2017,Saint Kitts and Nevis,KNA,100,,ITU estimate.
+2019,Saint Kitts and Nevis,KNA,100,,ITU estimate.
+2020,Saint Kitts and Nevis,KNA,100,,ITU estimate.
+2009,Sudan,SDN,15,,NTC
+2011,Sudan,SDN,42,,National Telecommunication Corporation (NTC)
+2012,Sudan,SDN,45,,National Telecommunication Corporation (NTC)
+2013,Sudan,SDN,45.2,,National Telecommunication Corporation (NTC)
+2014,Sudan,SDN,45.7,,National Telecommunication Corporation (NTC)
+2015,Sudan,SDN,45.73,,National Telecommunication Corporation (NTC)
+2016,Sudan,SDN,45.9,,Telecommunication and Post Regulatory Authority
+2017,Sudan,SDN,45.99,,Telecommunication and Post Regulatory Authority
+2018,Sudan,SDN,46.6,,Telecommunication and Post Regulatory Authority
+2019,Sudan,SDN,55.5,,Telecommunication and Post Regulatory Authority
+2020,Sudan,SDN,64.6,,Telecommunication and Post Regulatory Authority
+2014,Senegal,SEN,25,ITU estimate,ITU estimate
+2015,Senegal,SEN,40,ITU estimate,ITU estimate
+2016,Senegal,SEN,50,,ARTP
+2017,Senegal,SEN,66.29,,ARTP
+2018,Senegal,SEN,92.2,,ARTP
+2019,Senegal,SEN,92.1,septembre 2019,ARTP
+2020,Senegal,SEN,99,,ARTP
+2011,Seychelles,SYC,90,,Department of Information Communications Technology at Vice President's Office
+2012,Seychelles,SYC,90,,"Office of the President, Department of Information Communications Technology "
+2013,Seychelles,SYC,90,,"Office of the President, Department of Information Communications Technology "
+2014,Seychelles,SYC,90,,"Office of the President, Department of Information Communications Technology "
+2015,Seychelles,SYC,90,,"Office of the President, Department of Information Communications Technology "
+2016,Seychelles,SYC,90,,"Office of  the Vice President, Department of Information Communication Technology"
+2017,Seychelles,SYC,90,,"Office of  the Vice President, Department of Information Communication Technology"
+2018,Seychelles,SYC,98.5,,"Office of the Vice-President, Department of Information Communications Technology "
+2019,Seychelles,SYC,99,,"Office of the Vice-President, Department of Information Communications Technology "
+2020,Seychelles,SYC,99,,"Office of the Vice-President, Department of Information Communications Technology "
+2015,St. Helena,SHN,95,,Sure South Atlantic Ltd.
+2016,St. Helena,SHN,97,,Sure South Atlantic Ltd.
+2017,St. Helena,SHN,97,,ITU estimate.
+2019,St. Helena,SHN,97,,ITU estimate.
+2020,St. Helena,SHN,97,,ITU estimate.
+2012,Solomon Islands,SLB,27.14,,ITU estimate.
+2013,Solomon Islands,SLB,37.63,,ITU estimate.
+2014,Solomon Islands,SLB,49.99,,ITU estimate.
+2015,Solomon Islands,SLB,19,,ITU Estimate2.
+2016,Solomon Islands,SLB,19,,ITU Estimate2.
+2017,Solomon Islands,SLB,25,,Telecommunications Commission Solomon Islands
+2018,Solomon Islands,SLB,45,,Telecommunications Commission Solomon Islands
+2019,Solomon Islands,SLB,45,,ITU estimate.
+2020,Solomon Islands,SLB,45,,ITU estimate.
+2014,El Salvador,SLV,55.43,,Superintendencia General de Electricidad y Telecomunicaciones
+2015,El Salvador,SLV,61.25,,ITU Estimate2.
+2016,El Salvador,SLV,61.25,,Superintendencia General de Electricidad y Telecomunicaciones
+2017,El Salvador,SLV,86,,Superintendencia General de Electricidad y Telecomunicaciones
+2018,El Salvador,SLV,86,Preliminar,Superintendencia General de Electricidad y Telecomunicaciones
+2019,El Salvador,SLV,87,,Superintendencia General de Electricidad y Telecomunicaciones
+2020,El Salvador,SLV,87,,Superintendencia General de Electricidad y Telecomunicaciones
+2016,American Samoa,ASM,92.67,,ITU estimate.
+2019,American Samoa,ASM,92.67,,ITU estimate.
+2020,American Samoa,ASM,92.67,,ITU estimate.
+2012,Samoa,WSM,31.38,,ITU estimate.
+2013,Samoa,WSM,53.23,,ITU estimate.
+2014,Samoa,WSM,75.08,,ITU estimate.
+2015,Samoa,WSM,86,,Office of the Regulator
+2016,Samoa,WSM,84.5,Digicel and Bluesky figures,Office of the Regulator
+2017,Samoa,WSM,91,,Office of the Regulator
+2019,Samoa,WSM,91,,ITU estimate.
+2020,Samoa,WSM,91,,ITU estimate.
+2015,San Marino,SMR,86,,TELECOMMUNICATION SECTOR- Department of Economy
+2016,San Marino,SMR,93,,TELECOMMUNICATION SECTOR
+2017,San Marino,SMR,98,,TELECOMMUNICATION SECTOR
+2018,San Marino,SMR,98,,TELECOMMUNICATION SECTOR
+2019,San Marino,SMR,99,,TELECOMMUNICATION SECTOR
+2020,San Marino,SMR,99,,TELECOMMUNICATION SECTOR
+2007,Singapore,SGP,99.83,Dec.,Infocomm Development Authority of Singapore
+2008,Singapore,SGP,99.42,Dec.,Infocomm Development Authority of Singapore
+2009,Singapore,SGP,100,Dec.,Infocomm Development Authority of Singapore
+2010,Singapore,SGP,100,,Infocomm Development Authority of Singapore
+2011,Singapore,SGP,99,,Infocomm Development Authority of Singapore
+2012,Singapore,SGP,99,,Infocomm Development Authority of Singapore
+2013,Singapore,SGP,99,,Infocomm Development Authority of Singapore
+2014,Singapore,SGP,100,,Infocomm Development Authority of Singapore
+2015,Singapore,SGP,100,,Infocomm Development Authority of Singapore
+2016,Singapore,SGP,100,,Infocomm Media Development Authority
+2017,Singapore,SGP,100,,Infocomm Media Development Authority
+2018,Singapore,SGP,100,,IMDA
+2019,Singapore,SGP,100,,IMDA
+2020,Singapore,SGP,100,,IMDA
+2010,Somalia,SOM,0,,"Ministry of Information, Posts and Telecommunications"
+2011,Somalia,SOM,10,,"Ministry of Information, Posts and Telecommunications"
+2012,Somalia,SOM,30,,"Ministry of Information, Posts and Telecommunications"
+2014,Somalia,SOM,33.12,,ITU estimate.
+2015,Somalia,SOM,38.7,,ITU estimate.
+2016,Somalia,SOM,38.7,,National Communication Authority (NCA)
+2017,Somalia,SOM,65.52,,National Communications Authority
+2019,Somalia,SOM,70,,ITU estimate.
+2020,Somalia,SOM,70,,National Communications Authority (NCA)
+2014,Sierra Leone,SLE,20,ITU estimate,ITU estimate
+2015,Sierra Leone,SLE,20,ITU estimate,ITU estimate
+2016,Sierra Leone,SLE,40.02,,ITU estimate.
+2017,Sierra Leone,SLE,40.02,,National Telecommunications Commission 
+2018,Sierra Leone,SLE,50,,National Telecommunications Commission 
+2019,Sierra Leone,SLE,60,,National Telecommunications Commission 
+2020,Sierra Leone,SLE,65,,National Telecommunications Commission 
+2012,Sao Tome and Principe,STP,2,,Autoridade Geral de Regulação
+2014,Sao Tome and Principe,STP,13,Autoridade Geral de Regulação,ITU estimate
+2015,Sao Tome and Principe,STP,19,,Autoridade Geral de Regulação
+2016,Sao Tome and Principe,STP,70,,AGER - Autoridade Geral de Regulação
+2017,Sao Tome and Principe,STP,93,,AGER - Autoridade Geral de Regulação
+2018,Sao Tome and Principe,STP,93,,Autoridade Geral de Regulação - AGER
+2019,Sao Tome and Principe,STP,94,,Autoridade Geral de Regulação - AGER
+2020,Sao Tome and Principe,STP,94,,Autoridade Geral de Regulação
+2007,Switzerland,CHE,91,,OFCOM
+2008,Switzerland,CHE,93,,OFCOM
+2009,Switzerland,CHE,94,,OFCOM
+2010,Switzerland,CHE,96,,Office Fédéral de la Communication
+2011,Switzerland,CHE,97,,Office Fédéral de la Communication
+2012,Switzerland,CHE,97,,Office Fédéral de la Communication
+2013,Switzerland,CHE,99,,Office Fédéral de la Communication
+2014,Switzerland,CHE,100,,Office Fédéral de la Communication
+2015,Switzerland,CHE,100,,Office Fédéral de la Communication
+2016,Switzerland,CHE,100,,OFCOM
+2017,Switzerland,CHE,100,Telecommunications statistics 2017,Office Fédéral de la Communication
+2018,Switzerland,CHE,100,Telecommunications statistics 2018,OFCOM
+2019,Switzerland,CHE,100,Telecommunications statistics 2019,OFCOM
+2020,Switzerland,CHE,100,Telecommunications statistics 2020,OFCOM
+2012,Suriname,SUR,12,,Telecommunications Authority Suriname (TAS)
+2014,Suriname,SUR,12,ITU estimate,ITU estimate
+2015,Suriname,SUR,100,,Telecommunications Authority Suriname (TAS)
+2016,Suriname,SUR,100,,Telecommunication Authority Suriname
+2017,Suriname,SUR,100,,Telecommunication Authority Suriname
+2018,Suriname,SUR,95,,Telecommunication Authority Suriname
+2019,Suriname,SUR,100,,Telecommunication Authority Suriname
+2020,Suriname,SUR,100,,Telecommunications Authority Suriname (TAS)
+2007,Slovenia,SVN,72.3,,APEK
+2008,Slovenia,SVN,72.9,,APEK
+2009,Slovenia,SVN,73.6,,APEK
+2010,Slovenia,SVN,84.6,,Post and Electronic Communications Agency of the Republic of Slovenia
+2011,Slovenia,SVN,90.6,,Post and Electronic Communications Agency of the Republic of Slovenia
+2012,Slovenia,SVN,91.4,,Agency for Communication Networks and Services of the Republic of Slovenia
+2013,Slovenia,SVN,92.3,,Agency for Communication Networks and Services of the Republic of Slovenia
+2014,Slovenia,SVN,99.4,,Agency for Communication Networks and Services of the Republic of Slovenia
+2015,Slovenia,SVN,98,,Agency for Communication Networks and Services of the Republic of Slovenia
+2016,Slovenia,SVN,98.1,,AKOS
+2017,Slovenia,SVN,98.6,,AKOS
+2018,Slovenia,SVN,99.5,,AKOS
+2019,Slovenia,SVN,99.7,,AKOS
+2020,Slovenia,SVN,99.9,,AKOS
+2009,Eswatini,SWZ,0,,Swaziland Posts and Telecommunications Corporation
+2010,Eswatini,SWZ,0,,Swaziland Posts and Telecommunications Corporation
+2014,Eswatini,SWZ,21,ITU estimate,ITU estimate
+2015,Eswatini,SWZ,21,ITU estimate,ITU estimate
+2016,Eswatini,SWZ,21.21,,
+2017,Eswatini,SWZ,54,,ITU estimate.
+2019,Eswatini,SWZ,54,,ITU estimate.
+2020,Eswatini,SWZ,54,,ITU estimate.
+2009,Syrian Arab Republic,SYR,0.2,,
+2010,Syrian Arab Republic,SYR,0.5,,
+2011,Syrian Arab Republic,SYR,13,,Syrian Telecommunication Regulatory Authority
+2012,Syrian Arab Republic,SYR,13,,Syrian Telecommunication Regulatory Authority
+2013,Syrian Arab Republic,SYR,26,,Syrian Telecommunication Regulatory Authority
+2014,Syrian Arab Republic,SYR,26,ITU estimate,ITU estimate
+2015,Syrian Arab Republic,SYR,70,70 SYRIATEL  60 MTN  ,Syrian Telecommunication Regulatory Authority
+2016,Syrian Arab Republic,SYR,78,78 SYRIATEL  75 MTN,SyTRA
+2017,Syrian Arab Republic,SYR,80,,SYTPRA
+2018,Syrian Arab Republic,SYR,88,,SY-TPRA
+2019,Syrian Arab Republic,SYR,90,,SY-TPRA
+2020,Syrian Arab Republic,SYR,95.8,97.4 SYRIATEL  89.4  MTN     Please consider the current figure for 2020 as there was a typo,Syrian Telecommunication Regulatory Authority
+2012,Turks & Caicos Is.,TCA,37.34,,ITU estimate.
+2013,Turks & Caicos Is.,TCA,49.58,,ITU estimate.
+2014,Turks & Caicos Is.,TCA,77.5,,ITU estimate.
+2015,Turks & Caicos Is.,TCA,95,,ITU estimate.
+2016,Turks & Caicos Is.,TCA,95,,ITU estimate.
+2019,Turks & Caicos Is.,TCA,95,,ITU estimate.
+2020,Turks & Caicos Is.,TCA,95,,ITU estimate.
+2014,Chad,TCD,11.2,"3G is available in the three main cities in Chad: N'Djamena, Moundou et Abéché.",Autorité de Régulation des Communications Électroniques et des Postes
+2015,Chad,TCD,13,"3G is available in the six main cities in Chad: N'Djamena, Moundou, Abéché, Doba, Komé, Amdjarass.",Autorité de Régulation des Communications Électroniques et des Postes
+2016,Chad,TCD,22.01,,ARCEP Tchad
+2017,Chad,TCD,32,"Nous avons pris simplement le max (Operateur1, Opérateur2), bien que les localités couvertes ne soient pas les mêmes. Il y a des zones couvertes par un opérateur que l'autre ne couvre pas et inversement. On devrait faire la somme moins l'intersection.",Autorité de Régulation des Communications Électroniques et des Postes
+2018,Chad,TCD,42,"Nous avons pris simplement le max (Operateur1, Opérateur2), bien que les localités couvertes ne soient pas les mêmes. Il y a des zones couvertes par un opérateur que l'autre ne couvre pas et inversement. On devrait faire la somme moins l'intersection.",Autorité de Régulation des Communications Électroniques et des Postes
+2019,Chad,TCD,43,"Nous avons pris simplement le Max(Operateur1, Opérateur2).",Autorité de Régulation des Communications Électroniques et des Postes
+2020,Chad,TCD,48,"Nous avons pris simplement le Max(Operateur1, Opérateur2).",Autorité de Régulation des Communications Électroniques et des Postes
+2008,Czech Republic,CZE,84,CDMA MobilKom Network coverage,Czech Telecommunication Office
+2009,Czech Republic,CZE,90.4,Telefónica O2 Czech Rep CDMA network coverage,Czech Telecommunication Office
+2010,Czech Republic,CZE,90.4,Telefónica O2 Czech Rep CDMA network coverage,Czech Telecommunication Office
+2011,Czech Republic,CZE,87,,Czech Telecommunication Office
+2012,Czech Republic,CZE,90.1,,Czech Telecommunication Office
+2013,Czech Republic,CZE,90.3,,Czech Telecommunication Office
+2014,Czech Republic,CZE,98.4,"UMTS/LTE, at least 1 operator.",Czech Telecommunication Office
+2015,Czech Republic,CZE,99,Coverage at least of one operator by UMTS or LTE to the date 31. 12.,Czech Telecommunication Office
+2016,Czech Republic,CZE,99.7,"Coverage at least of one operator only by UMTS (2100 MHz) or LTE  (800, 900, 1800, 2100, 2600 MHz).",Czech Telecommunication Office
+2017,Czech Republic,CZE,99.8,"3G/LTE, at least one operator.",Czech Telecommunication Office
+2018,Czech Republic,CZE,99.8,"3G/4G, at least one operator.",Czech Telecommunication Office
+2019,Czech Republic,CZE,99.8,"3G/4G, at least one operator.",Czech Telecommunication Office
+2020,Czech Republic,CZE,99.8,"3G/4G, at least one operator.",Czech Telecommunication Office
+2010,Togo,TGO,0,,Autorité de Règlementation des secteurs de postes et télécommunications
+2011,Togo,TGO,14,3G provided by Togo Cellulaire in Lomé.,Autorité de Règlementation des secteurs de Postes et Télécommunications
+2012,Togo,TGO,23,3G provided by Togo Cellulaire in 9 cities of the country.,Autorité de Règlementation des secteurs de Postes et Télécommunications
+2014,Togo,TGO,23,ITU estimate,ITU estimate
+2015,Togo,TGO,50,,Autorité de Règlementation des secteurs de Postes et de Télécommunications
+2016,Togo,TGO,45,Taux moyen de couverture des deux opérateurs mobiles (Togo Cellulaire et Moov),Autorité de Règlementation des secteurs de Postes et de Télécommunications
+2017,Togo,TGO,65,Taux de couverture 3G le plus élevée des opérateurs mobile,Autorité de Règlementation des secteurs de Postes et de Télécommunications
+2018,Togo,TGO,70,Taux de couverture 3G le plus élevée des opérateurs mobile,Autorité de Règlementation des secteurs de Postes et de Télécommunications
+2019,Togo,TGO,91,Taux de couverture 3G le plus élevée des opérateurs mobile,Autorité de Règlementation des secteurs de Postes et de Télécommunications
+2020,Togo,TGO,91,Données provisoires  Données de 2019 reportées car celles de 2020 n'est pas encore à jour,Autorité de Règlementation des secteurs de Postes et de Télécommunications
+2013,Thailand,THA,80,AIS only.,
+2014,Thailand,THA,97,,Ministry of Information and Communication Technology
+2015,Thailand,THA,97,NBTC,Ministry of Information and Communication Technology
+2016,Thailand,THA,98,NBTC,The National Broadcasting and Telecommunications Commission
+2017,Thailand,THA,98,NBTC,Office of the National Broadcasting and Telecommunications Commission
+2018,Thailand,THA,98,NBTC,Office of The National Broadcasting and Telecommunications Commission (NBTC)
+2019,Thailand,THA,98,NBTC,Office of The National Broadcasting and Telecommunications Commission (NBTC)
+2020,Thailand,THA,98.8,NBTC,The National Broadcasting and Telecommunications Commission
+2013,Tonga,TON,15,,ITU estimate.
+2014,Tonga,TON,45.33,,ITU estimate.
+2015,Tonga,TON,70,,"Ministry of Meteorology, Energy, Information, Disaster Management, Environment and Climate Change, Communication (MEIDECC) "
+2016,Tonga,TON,95,,MEIDECC
+2017,Tonga,TON,95,,MEIDECC
+2018,Tonga,TON,96,,MEIDECC
+2019,Tonga,TON,99,,"Ministry of Meteorology, Energy, Information, Disaster Management, Environment and Climate Change, Communication (MEIDECC) "
+2020,Tonga,TON,99,,ITU estimate.
+2012,Trinidad and Tobago,TTO,75,,Telecommunications Authority of Trinidad and Tobago (TATT)
+2013,Trinidad and Tobago,TTO,75,,Telecommunications Authority of Trinidad and Tobago (TATT)
+2014,Trinidad and Tobago,TTO,75,,Telecommunications Authority of Trinidad and Tobago (TATT)
+2015,Trinidad and Tobago,TTO,75,,Telecommunications Authority of Trinidad and Tobago (TATT)
+2016,Trinidad and Tobago,TTO,75,,Telecommunications Authority of Trinidad and Tobago
+2017,Trinidad and Tobago,TTO,75,,Telecommunications Authority of Trinidad and Tobago
+2018,Trinidad and Tobago,TTO,100,,Telecommunications Authority of Trinidad and Tobago
+2019,Trinidad and Tobago,TTO,100,,Telecommunications Authority of Trinidad and Tobago
+2020,Trinidad and Tobago,TTO,100,,Telecommunications Authority of Trinidad and Tobago
+2010,Tunisia,TUN,65,,Ministère des Technologies de l'Information et de la Communication
+2011,Tunisia,TUN,83,,Ministère des Technologies de l'Information et de la Communication
+2012,Tunisia,TUN,84,,Ministère des Technologies de l'Information et de la Communication
+2013,Tunisia,TUN,87,,Ministère des Technologies de l'Information et de la Communication
+2014,Tunisia,TUN,90,,Instance Nationale des Télécommunications
+2015,Tunisia,TUN,94,,Instance Nationale des Télécommunications
+2016,Tunisia,TUN,99,,Instance Nationale des Télécommunications
+2017,Tunisia,TUN,99,,Instance Nationale des Télécommunications de Tunisie
+2018,Tunisia,TUN,99,,Instance Nationale des Télécommunications de Tunisie
+2019,Tunisia,TUN,99,,Instance Nationale des Télécommunications de Tunisie
+2020,Tunisia,TUN,99,,Instance Nationale des Télécommunications de Tunisie
+2007,Turkey,TUR,0,,
+2008,Turkey,TUR,0,,
+2012,Turkey,TUR,84.02,,ITU estimate.
+2013,Turkey,TUR,86.17,,ITU estimate.
+2014,Turkey,TUR,93,ITU estimate,ITU estimate
+2015,Turkey,TUR,95.03,,ITU estimate
+2016,Turkey,TUR,96.04,,Information and Communication Technologies Authority (ICTA) of Turkey
+2017,Turkey,TUR,97.38,,Information and Communication Technologies Authority (ICTA) of Turkey
+2018,Turkey,TUR,98.32,,Information and Communication Technologies Authority of Turkey
+2019,Turkey,TUR,98.56,,Information and Communication Technologies Authority of Turkey
+2020,Turkey,TUR,97.86,,Information and Communication Technologies Authority (ICTA)
+2015,Tuvalu,TUV,19,,ITU estimate.
+2016,Tuvalu,TUV,20,,ITU estimate.
+2017,Tuvalu,TUV,48,,ITU estimate.
+2019,Tuvalu,TUV,48,,ITU estimate.
+2020,Tuvalu,TUV,48,,ITU estimate.
+2010,Tanzania,TZA,70,,Tanzania Communications Regulatory Authority (TCRA)
+2011,Tanzania,TZA,80,,Tanzania Communications Regulatory Authority (TCRA)
+2012,Tanzania,TZA,85,,Tanzania Communications Regulatory Authority (TCRA)
+2013,Tanzania,TZA,85,,Tanzania Communications Regulatory Authority (TCRA)
+2014,Tanzania,TZA,85,,Tanzania Communications Regulatory Authority (TCRA)
+2015,Tanzania,TZA,85,,Tanzania Communications Regulatory Authority (TCRA)
+2016,Tanzania,TZA,85,,Tanzania Communications Regulatory Authority (TCRA)
+2017,Tanzania,TZA,85,,Tanzania Communications Regulatory Authority (TCRA)
+2018,Tanzania,TZA,85,,Tanzania Communications Regulatory Authority
+2019,Tanzania,TZA,85,,Tanzania Communications Regulatory Authority
+2020,Tanzania,TZA,85,,Tanzania Communications Regulatory Authority
+2010,United Arab Emirates,ARE,100,,Telecommunications Regulatory Authority (TRA)
+2011,United Arab Emirates,ARE,100,,Telecommunications Regulatory Authority (TRA)
+2012,United Arab Emirates,ARE,100,,Telecommunications Regulatory Authority (TRA)
+2013,United Arab Emirates,ARE,100,,Telecommunications Regulatory Authority (TRA)
+2014,United Arab Emirates,ARE,100,,Telecommunications Regulatory Authority (TRA)
+2015,United Arab Emirates,ARE,100,,Telecommunications Regulatory Authority (TRA)
+2016,United Arab Emirates,ARE,100,,Telecommunications  Regulatory Authority
+2017,United Arab Emirates,ARE,100,,Telecommunications  Regulatory Authority
+2018,United Arab Emirates,ARE,100,,Telecommunications and Digital Government Regulatory Authority
+2019,United Arab Emirates,ARE,100,,Telecommunications and Digital Government Regulatory Authority
+2020,United Arab Emirates,ARE,100,,Telecommunications and Digital Government Regulatory Authority
+2010,Uganda,UGA,42,Dec,Uganda Communications Commission (UCC).
+2011,Uganda,UGA,42,Dec,Uganda Communications Commission (UCC).
+2012,Uganda,UGA,45,Dec,Uganda Communications Commission
+2014,Uganda,UGA,40,Dec,Uganda Communications Commission
+2015,Uganda,UGA,60,December,Uganda Communications Commission
+2016,Uganda,UGA,64,December,Uganda Communications Commission
+2017,Uganda,UGA,65,December,Uganda Communications Commission
+2018,Uganda,UGA,69.63,,Uganda Communications Commission
+2019,Uganda,UGA,74,,Uganda Communications Commission
+2020,Uganda,UGA,85,"UCC is currently in the process of revalidating and updating its coverage maps on the 3G mobile networks, which is why the coverage figure is still the same. ",Uganda Communications Commission
+2008,Ukraine,UKR,0.5,,State Administration of Communications
+2009,Ukraine,UKR,0.8,,State Administration of Communications
+2010,Ukraine,UKR,1.4,,State Administration of Communications
+2011,Ukraine,UKR,1.7,,State Service of Special Communications and Information Protection of Ukraine
+2012,Ukraine,UKR,2.2,,State Service of Special Communications and Information Protection of Ukraine
+2013,Ukraine,UKR,1.7,,State Service of Special Communications and Information Protection of Ukraine
+2014,Ukraine,UKR,1.7,ITU estimate,ITU estimate
+2015,Ukraine,UKR,35,,ITU estimate.
+2016,Ukraine,UKR,90,,State Service of the Special Communications and Information Protection of Ukraine
+2017,Ukraine,UKR,90,,State Service of the Special Communications and Information Protection of Ukraine
+2019,Ukraine,UKR,89.1,,State Service  of Special Communications and Information Protection of Ukraine
+2020,Ukraine,UKR,89.1,,State Service  of Special Communications and Information Protection of Ukraine
+2012,Uruguay,URY,72.9,,ITU estimate.
+2013,Uruguay,URY,78.91,,ITU estimate.
+2014,Uruguay,URY,90,ITU estimate,ITU estimate
+2015,Uruguay,URY,90,,ITU estimate
+2016,Uruguay,URY,91,,ITU estimate.
+2017,Uruguay,URY,91,,ITU estimate.
+2018,Uruguay,URY,91.1,refers to territorial coverage (3G),URSEC
+2019,Uruguay,URY,91.1,refers to territorial coverage (3G),URSEC
+2020,Uruguay,URY,92.1,refers to territorial coverage (3G),URSEC
+2007,United States,USA,82,,Federal Communications Commission
+2008,United States,USA,92,,Federal Communications Commission
+2009,United States,USA,98.1,,Federal Communications Commission
+2010,United States,USA,98.5,,Federal Communications Commission
+2011,United States,USA,89.6,,Federal Communications Commission
+2012,United States,USA,99.5,2012 data as of October 2012.,Federal Communications Commission
+2014,United States,USA,99.5,ITU estimate,ITU estimate
+2015,United States,USA,99.9,Data as of July 2015.,Federal Communications Commission
+2016,United States,USA,99.9,Source: FCC Form 477 (Subject to Change).,Federal Communications Commission
+2017,United States,USA,99.9,Source: FCC Form 477 (Subject to Change).,Federal Communications Commission
+2018,United States,USA,99.9,Source: FCC Form 477 (Subject to Change).,Federal Communications Commission
+2019,United States,USA,99.9,Source: FCC Form 477 (Preliminary and Subject to Change).,Federal Communications Commission
+2020,United States,USA,99.9,Source: FCC Form 477 (Preliminary and Subject to Change).,Federal Communications Commission
+2012,Uzbekistan,UZB,40,,"State Committee for Communications, Informatization and Telecommunication Technologies  State Committee for Communications, Informatization and Telecommunication Technologies  State Committee for Communications, Informatization and Telecommunication Technologies"
+2015,Uzbekistan,UZB,43.035,,
+2016,Uzbekistan,UZB,45.3,,Ministry for Development of Information Technologies and Communications of the Republic of Uzbekistan
+2017,Uzbekistan,UZB,75,,Ministry for Development of Information Technologies and Communications of the Republic of Uzbekistan
+2018,Uzbekistan,UZB,75.5,,Ministry of Development of the Information Technologies and Communications of the Republic of Uzbekistan
+2019,Uzbekistan,UZB,80.7,,Ministry of Development of the Information Technologies and Communications of the Republic of Uzbekistan
+2020,Uzbekistan,UZB,90,,Ministry of Development of the Information Technologies and Communications of the Republic of Uzbekistan
+2011,Saint Vincent and the Grenadines,VCT,0,,National Telecommunications Regulatory Commission
+2012,Saint Vincent and the Grenadines,VCT,0,,National Telecommunications Regulatory Commission
+2013,Saint Vincent and the Grenadines,VCT,0,,National Telecommunications Regulatory Commission
+2014,Saint Vincent and the Grenadines,VCT,100,,National Telecommunications Regulatory Commission
+2015,Saint Vincent and the Grenadines,VCT,100,,National Telecommunications Regulatory Commission
+2016,Saint Vincent and the Grenadines,VCT,100,,National Telecommunications Regulatory Commission
+2017,Saint Vincent and the Grenadines,VCT,100,,National Telecommunications Regulatory Commission
+2018,Saint Vincent and the Grenadines,VCT,100,,National Telecommunications Regulatory Commission
+2019,Saint Vincent and the Grenadines,VCT,100,,National Telecommunications Regulatory Commission
+2020,Saint Vincent and the Grenadines,VCT,100,,National Telecommunications Regulatory Commission
+2012,Venezuela,VEN,54.49,,ITU estimate.
+2013,Venezuela,VEN,69.76,,ITU estimate.
+2014,Venezuela,VEN,90,ITU estimate,ITU estimate
+2015,Venezuela,VEN,90,ITU estimate,ITU estimate
+2016,Venezuela,VEN,90.64,,Comisión Nacional de Telecomunicaciones
+2017,Venezuela,VEN,90.64,,Comisión Nacional de Telecomunicaciones (CONATEL)
+2018,Venezuela,VEN,81,Preliminary,CONATEL
+2019,Venezuela,VEN,82,Preliminary,CONATEL
+2020,Venezuela,VEN,82,Preliminary,CONATEL
+2012,Virgin Islands (US),VIR,34.78,,ITU estimate.
+2013,Virgin Islands (US),VIR,46.19,,ITU estimate.
+2014,Virgin Islands (US),VIR,61.34,,ITU estimate.
+2015,Virgin Islands (US),VIR,73.73,,ITU estimate.
+2016,Virgin Islands (US),VIR,80.13,,ITU estimate.
+2019,Virgin Islands (US),VIR,80.13,,ITU estimate.
+2020,Virgin Islands (US),VIR,80.13,,ITU estimate.
+2012,British Virgin Islands,VGB,16.57,,
+2013,British Virgin Islands,VGB,45.4,,
+2014,British Virgin Islands,VGB,75.8,,ITU estimate.
+2015,British Virgin Islands,VGB,91,,ITU estimate
+2016,British Virgin Islands,VGB,99,Based on 2 operators not 3,Telecommunications Regulatory Commission
+2017,British Virgin Islands,VGB,84,,TRC
+2018,British Virgin Islands,VGB,100,,Telecommunications Regulatory Commission
+2019,British Virgin Islands,VGB,100,,Telecommunications Regulatory Commission
+2020,British Virgin Islands,VGB,100,,Telecommunications Regulatory Commission
+2012,Viet Nam,VNM,30.96,,ITU estimate.
+2013,Viet Nam,VNM,40.58,,ITU estimate.
+2014,Viet Nam,VNM,55,ITU estimate,ITU estimate
+2015,Viet Nam,VNM,70,ITU estimate,ITU estimate
+2016,Viet Nam,VNM,77.32,,Ministry of Information and Communications
+2017,Viet Nam,VNM,98,,Ministry of Information and Communications
+2018,Viet Nam,VNM,99.6,,Ministry of Information and Communications
+2019,Viet Nam,VNM,99.8,,Ministry of Information and Communications
+2020,Viet Nam,VNM,99.8,,Ministry of Information and Communications
+2011,Vanuatu,VUT,23,Launch of 3G services.,Office of the Vanuatu Telecom Regulator
+2012,Vanuatu,VUT,24,Second operator launched 3G services in 2012.,Telecommunications & Radiocommunications Regulator
+2013,Vanuatu,VUT,24.4,Only 5 main sites with 3G coverage at present. All figures calculated using 2009 census figures.,Office of theTelecommunications & Radiocommunications Regulator
+2014,Vanuatu,VUT,24.4,ITU estimate,ITU estimate
+2015,Vanuatu,VUT,51,TRR accepts ITU estimate. Not likely to be much more. Main towns and cities have 3G but high proportion of population live in rural areas.,ITU estimate  ITU estimate
+2018,Vanuatu,VUT,69,"To date, 69% of the towers are atleast 3G network, estimated population covered 60-79%","Office of the Telecommunications, Radiocommunications & Broadcasting Regulator"
+2019,Vanuatu,VUT,70,100% of the mobile towers are now upgraded to 3G network. The 70% coverage is due to the challenge of disperse settlements ,"Office of the Telecommunications, Radiocommunications & Broadcasting Regulator"
+2020,Vanuatu,VUT,70,100% of the mobile towers are now upgraded to 3G network. The 70% coverage is due to the challenge of disperse settlements ,"Office of the Telecommunications, Radiocommunications & Broadcasting Regulator"
+2015,Wallis and Futuna,WLF,10,,ITU estimate.
+2016,Wallis and Futuna,WLF,14.38,,ITU estimate.
+2019,Wallis and Futuna,WLF,14.38,,ITU estimate.
+2020,Wallis and Futuna,WLF,14.38,,ITU estimate.
+2012,Yemen,YEM,50.93,,ITU estimate.
+2013,Yemen,YEM,66.76,,ITU estimate.
+2014,Yemen,YEM,70,ITU estimate,ITU estimate
+2015,Yemen,YEM,80,ITU estimate,ITU estimate
+2016,Yemen,YEM,88.86,,MTIT
+2017,Yemen,YEM,95,ITU estimate is overestimated. ,MTIT
+2019,Yemen,YEM,95,,ITU estimate.
+2020,Yemen,YEM,95,,ITU estimate.
+2008,Serbia,SRB,55.85,,Republic Agency for Electronic Communications (RATEL)
+2009,Serbia,SRB,63.15,,Republic Agency for Electronic Communications (RATEL)
+2010,Serbia,SRB,68.93,,Republic Agency for Electronic Communications (RATEL)
+2011,Serbia,SRB,76.36,,Republic Agency for Electronic Communications (RATEL)
+2012,Serbia,SRB,90.4,,Republic Agency for Electronic Communications (RATEL)
+2013,Serbia,SRB,99.71,,Regulatory  Agency for Electronic Communications and Postal Services (RATEL)
+2014,Serbia,SRB,97.16,,Regulatory  Agency for Electronic Communications and Postal Services (RATEL)
+2015,Serbia,SRB,97.29,,Regulatory  Agency for Electronic Communications and Postal Services (RATEL)
+2016,Serbia,SRB,98.51,,Regulatory Agency for Electronic Communications and Postal Services
+2017,Serbia,SRB,98.67,,Regulatory Agency for Electronic Communications and Postal Services
+2018,Serbia,SRB,98.67,,Regulatory Agency for Electronic Communications and Postal Services
+2019,Serbia,SRB,98.88,"Data for 2019, collected up to 17.04.2020.",Regulatory Agency for Electronic Communications and Postal Services
+2020,Serbia,SRB,98.94,,Regulatory Agency for Electronic Communications and Postal Services
+2009,Dem. Rep. of the Congo,COD,0,,Autorité de Régulation de la Poste et des Télécommunications
+2010,Dem. Rep. of the Congo,COD,0,,Autorité de Régulation de la Poste et des Télécommunications
+2011,Dem. Rep. of the Congo,COD,0,,Autorité de Régulation de la Poste et des Télécommunications
+2012,Dem. Rep. of the Congo,COD,20,,Autorité de Régulation de la Poste et des Télécommunications
+2013,Dem. Rep. of the Congo,COD,20,,Autorité de Régulation de la Poste et des Télécommunications
+2014,Dem. Rep. of the Congo,COD,20,,Autorité de Régulation de la Poste et des Télécommunications
+2015,Dem. Rep. of the Congo,COD,20,,Autorité de Régulation de la Poste et des Télécommunications
+2016,Dem. Rep. of the Congo,COD,20,,Autorité de Régulation de la Poste et des Télécommunications
+2017,Dem. Rep. of the Congo,COD,40,,ARPTC
+2018,Dem. Rep. of the Congo,COD,50,,Autorité de Régulation de la Poste et des Télécommunications
+2019,Dem. Rep. of the Congo,COD,54,,Autorité de Régulation de la Poste et des Télécommunications
+2020,Dem. Rep. of the Congo,COD,54,,Autorité de Régulation de la Poste et des Télécommunications
+2007,Zambia,ZMB,0,,Communications Authority
+2008,Zambia,ZMB,0,,Communications Authority
+2010,Zambia,ZMB,15,,ZICTA
+2011,Zambia,ZMB,40,Source:ZICTA,Zambia Information & Communications Technology Authority (ZICTA)
+2014,Zambia,ZMB,42,,Zambia Information & Communications Technology Authority (ZICTA)
+2015,Zambia,ZMB,53,,Zambia Information & Communications Technology Authority (ZICTA)
+2016,Zambia,ZMB,53,,Zambia Information & Communications Technology Authority
+2017,Zambia,ZMB,53,,Zambia Information & Communications Technology Authority (ZICTA)
+2018,Zambia,ZMB,76.5,Statistics from MNO with highest 3G population coverage,Zambia Information & Communications Technology Authority (ZICTA)
+2019,Zambia,ZMB,71.8,Statistics from MNO with highest 3G population coverage,Zambia Information & Communications Technology Authority (ZICTA)
+2020,Zambia,ZMB,94.17,Statistics from National Mobile & Broadcast Coverage Analysis Report by ZICTA,Zambia Information & Communications Technology Authority (ZICTA)
+2010,Zimbabwe,ZWE,5,,Postal and Telecommunications Regulatory Authority
+2011,Zimbabwe,ZWE,15,,Postal and Telecommunications Regulatory Authority
+2012,Zimbabwe,ZWE,35,,Postal and Telecommunications Regulatory Authority
+2013,Zimbabwe,ZWE,52,,Postal and Telecommunications Regulatory Authority
+2014,Zimbabwe,ZWE,53,,Postal and Telecommunications Regulatory Authority
+2015,Zimbabwe,ZWE,55.1,,Postal and Telecommunications Regulatory Authority
+2016,Zimbabwe,ZWE,55.25,,POTRAZ
+2017,Zimbabwe,ZWE,78.2,,POTRAZ
+2018,Zimbabwe,ZWE,84,,POTRAZ
+2019,Zimbabwe,ZWE,84.2,,POTRAZ
+2020,Zimbabwe,ZWE,84.28,,POTRAZ
+2009,Moldova,MDA,61.9,,National Regulatory Agency for Electronic Communications and Information Technology
+2011,Moldova,MDA,99,% of the population covered by the mobile-cellular network wiht highest coverage.,National Regulatory Agency for Electronic Communications and Information Technology
+2012,Moldova,MDA,99,% of the population covered by the mobile-cellular network wiht highest coverage.,National Regulatory Agency for Electronic Communications and Information Technology
+2013,Moldova,MDA,99,% of the population covered by the mobile-cellular network wiht highest coverage.,National Regulatory Agency for Electronic Communications and Information Technology
+2014,Moldova,MDA,99,,National Regulatory Agency for Electronic Communications and Information Technology
+2015,Moldova,MDA,99,,National Regulatory Agency for Electronic Communications and Information Technology
+2016,Moldova,MDA,99,,National Regulatory Agency for Electronic Communications and Information Technology (ANRCETI)
+2017,Moldova,MDA,99.5,,National Regulatory Agency for Electronic Communications and Information Technology (ANRCETI)
+2018,Moldova,MDA,99.8,,National Regulatory Agency for Electronic Communications and Information Technology
+2019,Moldova,MDA,99.9,,National Regulatory Agency for Electronic Communications and Information Technology
+2020,Moldova,MDA,99.9,,National Regulatory Agency for Electronic Communications and Information Technology
+2009,Bosnia and Herzegovina,BIH,25,,Communication Regulatory Agency
+2010,Bosnia and Herzegovina,BIH,60,,Communications Regulatory Agency B & H
+2011,Bosnia and Herzegovina,BIH,70,,Communications Regulatory Agency B & H
+2012,Bosnia and Herzegovina,BIH,72,,Communications Regulatory Agency B & H
+2013,Bosnia and Herzegovina,BIH,90,,Communications Regulatory Agency B & H
+2014,Bosnia and Herzegovina,BIH,95,,Communications Regulatory Agency B & H
+2015,Bosnia and Herzegovina,BIH,95,,Communications Regulatory Agency B & H
+2016,Bosnia and Herzegovina,BIH,95,,Communications Regulatory Agency
+2017,Bosnia and Herzegovina,BIH,95,,Communications Regulatory Agency
+2018,Bosnia and Herzegovina,BIH,95,,Communications Regulatory Agency
+2019,Bosnia and Herzegovina,BIH,95,,Communications Regulatory Agency
+2020,Bosnia and Herzegovina,BIH,95,Data no currently available due to reasons cased by the pandemic. ,Communications Regulatory Agency
+2012,Georgia,GEO,74.35,,ITU estimate.
+2013,Georgia,GEO,80.79,,ITU estimate.
+2014,Georgia,GEO,99,ITU estimate,ITU estimate
+2015,Georgia,GEO,99,,Georgian National Communications Commission
+2016,Georgia,GEO,99.85,,GNCC
+2017,Georgia,GEO,99.98,,Georgian National Communications Commission
+2018,Georgia,GEO,99.98,,Georgian National Communications Commission
+2019,Georgia,GEO,99.98,,Georgian National Communications Commission
+2020,Georgia,GEO,99.98,,Georgian National Communications Commission
+2012,Kazakhstan,KAZ,45.73,,ITU estimate.
+2013,Kazakhstan,KAZ,59,Based on data from the Ministry of Transport and Communications of the Republic of Kazakhstan: 9.7M people covered by 3G.,ITU estimate.
+2014,Kazakhstan,KAZ,59,,"The Committee for Communication, informatization and information of the Ministry for Investment and Development of the Republic of Kazakhstan"
+2015,Kazakhstan,KAZ,72.7,,"The Committee for Communication, informatization and information of the Ministry for Investment and Development of the Republic of Kazakhstan"
+2016,Kazakhstan,KAZ,86.8,,Ministry of Digital Development Innovation and Aerospace
+2017,Kazakhstan,KAZ,87.5,,"Ministry of digital development, innovation and aerospace industry of the Republic of Kazakhstan"
+2018,Kazakhstan,KAZ,87.9,,Ministry of Digital Development Innovation and Aerospace Industry of the Republic of Kazakhstan
+2019,Kazakhstan,KAZ,88.8,,Ministry of Digital Development Innovation and Aerospace Industry of the Republic of Kazakhstan
+2020,Kazakhstan,KAZ,93.4,the data is generated on an annual basis at the end of May,Ministry of Digital Development Innovation and Aerospace Industry of the Republic of Kazakhstan
+2014,Tajikistan,TJK,60,ITU estimate,ITU estimate
+2015,Tajikistan,TJK,60,ITU estimate,ITU estimate
+2016,Tajikistan,TJK,90,,ITU estimate.
+2017,Tajikistan,TJK,90,,ITU estimate.
+2019,Tajikistan,TJK,90,,ITU estimate.
+2020,Tajikistan,TJK,90,,ITU estimate.
+2012,Turkmenistan,TKM,28.53,,ITU estimate.
+2013,Turkmenistan,TKM,37.92,,ITU estimate.
+2014,Turkmenistan,TKM,60,ITU estimate,ITU estimate
+2015,Turkmenistan,TKM,60,ITU estimate,ITU estimate
+2016,Turkmenistan,TKM,75.8,,ITU estimate.
+2017,Turkmenistan,TKM,75.8,,ITU estimate.
+2019,Turkmenistan,TKM,75.8,,ITU estimate.
+2020,Turkmenistan,TKM,75.8,,ITU estimate.
+2011,Kyrgyzstan,KGZ,32,,State Communications Agency under the Governmet of the Kyrgyz Republic
+2012,Kyrgyzstan,KGZ,46.32,Approximate.,State Communications Agency under the Governmet of the Kyrgyz Republic
+2013,Kyrgyzstan,KGZ,51,,State Communications Agency under the Governmet of the Kyrgyz Republic
+2014,Kyrgyzstan,KGZ,57,,State Communications Agency under the Governmet of the Kyrgyz Republic
+2015,Kyrgyzstan,KGZ,59,,State Communications Agency under the Governmet of the Kyrgyz Republic
+2016,Kyrgyzstan,KGZ,60,,State Communications Agency under the State Committee for IT and Communications of the Kyrgyz Republic
+2017,Kyrgyzstan,KGZ,75,,State Communications Agency under the State Committee for IT and Communications of the Kyrgyz Republic
+2018,Kyrgyzstan,KGZ,88,,State Communications Agency under the State Committee for IT and Communications of the Kyrgyz Republic
+2019,Kyrgyzstan,KGZ,91,,State Communications Agency under the State Committee for IT and Communications of the Kyrgyz Republic
+2020,Kyrgyzstan,KGZ,91,,ITU estimate.
+2007,Slovakia,SVK,56,,"Ministry of Transport, Construction and Regional Development of the Slovak Republic  "
+2008,Slovakia,SVK,61.1,,"Ministry of Transport, Construction and Regional Development of the Slovak Republic  "
+2009,Slovakia,SVK,67.8,,"Ministry of Transport, Construction and Regional Development of the Slovak Republic  "
+2010,Slovakia,SVK,69.2,,"Ministry of Transport, Construction and Regional Development of the Slovak Republic  "
+2011,Slovakia,SVK,71.1,,"Ministry of Transport, Construction and Regional Development of the Slovak Republic  "
+2012,Slovakia,SVK,77,,"Ministry of Transport, Construction and Regional Development of the Slovak Republic  "
+2013,Slovakia,SVK,85,,"Ministry of Transport, Construction and Regional Development of the Slovak Republic  "
+2014,Slovakia,SVK,91,,"Ministry of Transport, Construction and Regional Development of the Slovak Republic  "
+2015,Slovakia,SVK,93,,"Ministry of Transport, Construction and Regional Development of the Slovak Republic  "
+2016,Slovakia,SVK,94,,Ministry of Transport and Construction of the Slovak Republic
+2017,Slovakia,SVK,95,,Ministry of Transport and Construction of the Slovak Republic
+2018,Slovakia,SVK,95,,Ministry of Transport and Construction of the Slovak Republic
+2019,Slovakia,SVK,97,,Ministry of Transport and Construction of the Slovak Republic
+2020,Slovakia,SVK,99,,Ministry of Transport and Construction of the Slovak Republic  
+2010,North Macedonia,MKD,67,,Agency for Electronic Communications
+2014,North Macedonia,MKD,67,ITU estimate,ITU estimate.
+2015,North Macedonia,MKD,98.07,UMTS.,Agency for Electronic Communications
+2016,North Macedonia,MKD,99.02,UMTS.,AEK
+2017,North Macedonia,MKD,99.2,UMTS.,AEK
+2018,North Macedonia,MKD,99.88,UMTS,Agency for Electronic Communication
+2019,North Macedonia,MKD,99.88,UMTS,Agency for Electronic Communication
+2020,North Macedonia,MKD,99.88,,Agency for Electronic Communication
+2015,Eritrea,ERI,0,,ITU estimate.
+2016,Eritrea,ERI,0,,ITU estimate.
+2017,Eritrea,ERI,0,,ITU estimate.
+2007,Ascension,ASC,0,,Cable & Wireless
+2008,Ascension,ASC,0,,Cable & Wireless
+2009,Ascension,ASC,0,,Cable & Wireless
+2010,Ascension,ASC,0,,Cable & Wireless South Atlantic Ltd
+2011,Ascension,ASC,0,C&W SA Ltd,Cable & Wireless South Atlantic Ltd
+2012,Ascension,ASC,0,,Sure South Atlantic Ltd
+2015,Ascension,ASC,100,,Sure South Atlantic Ltd
+2016,Ascension,ASC,100,,Sure South Atlantic Ltd
+2015,Faroe Islands,FRO,96,,Post and Telecom Authority
+2016,Faroe Islands,FRO,98,,Fjarskiftiseftirlitið (NRA)
+2017,Faroe Islands,FRO,100,,Fjarskiftiseftirlitið (NRA)
+2018,Faroe Islands,FRO,100,,Fjarskiftiseftirlitið - National Regulator Authority - Telecoms
+2019,Faroe Islands,FRO,99.99,,Fjarskiftiseftirlitið - National Regulator Authority - Telecoms
+2020,Faroe Islands,FRO,100,,Fjarskiftiseftirlitið - National Regulator Authority - Telecoms
+2012,Jersey,GBJ,90.5,,ITU estimate.
+2013,Jersey,GBJ,98.34,,ITU estimate.
+2014,Jersey,GBJ,99,,ITU estimate.
+2015,Jersey,GBJ,99,,ITU estimate.
+2016,Jersey,GBJ,99,,ITU estimate.
+2012,Guam,GUM,57.14,,ITU estimate.
+2013,Guam,GUM,72.22,,ITU estimate.
+2014,Guam,GUM,78.48,,ITU estimate.
+2015,Guam,GUM,85.28,,ITU estimate.
+2016,Guam,GUM,92.67,,ITU estimate.
+2019,Guam,GUM,92.67,,ITU estimate.
+2020,Guam,GUM,92.67,,ITU estimate.
+2014,Northern Marianas,MNP,16.57,,ITU estimate.
+2015,Northern Marianas,MNP,24.71,,ITU estimate.
+2016,Northern Marianas,MNP,34.78,,ITU estimate.
+2019,Northern Marianas,MNP,34.78,,ITU estimate.
+2020,Northern Marianas,MNP,34.78,,ITU estimate.
+2012,Mayotte,MYT,18.2,,ITU estimate.
+2013,Mayotte,MYT,27.14,,ITU estimate.
+2014,Mayotte,MYT,37.65,,ITU estimate.
+2015,Mayotte,MYT,49.99,,ITU estimate.
+2016,Mayotte,MYT,66.39,,ITU estimate.
+2019,Mayotte,MYT,66.39,,ITU estimate.
+2020,Mayotte,MYT,66.39,,ITU estimate.
+2007,"Taiwan, Province of China",TWN,76,,National Communications Commission
+2008,"Taiwan, Province of China",TWN,85,,National Communications Commission
+2009,"Taiwan, Province of China",TWN,90,,National Communications Commission
+2010,"Taiwan, Province of China",TWN,93,,National Communications Commission
+2011,"Taiwan, Province of China",TWN,96,,National Communications Commission
+2012,"Taiwan, Province of China",TWN,98,,National Communications Commission
+2013,"Taiwan, Province of China",TWN,99,,National Communications Commission
+2014,"Taiwan, Province of China",TWN,100,,National Communications Commission
+2015,"Taiwan, Province of China",TWN,100,,National Communications Commission
+2016,"Taiwan, Province of China",TWN,100,,National Communications Commission
+2017,"Taiwan, Province of China",TWN,100,,National Communications Commission
+2018,"Taiwan, Province of China",TWN,100,,National Communications Commission
+2019,"Taiwan, Province of China",TWN,100,,National Communications Commission
+2020,"Taiwan, Province of China",TWN,100,,National Communications Commission
+2012,Guernsey,AAA,99,,ITU estimate.
+2013,Guernsey,AAA,99,,ITU estimate.
+2014,Guernsey,AAA,99,,ITU estimate.
+2015,Guernsey,AAA,99,,ITU estimate.
+2016,Guernsey,AAA,99,,ITU estimate.
+2014,Timor-Leste,TLS,96,,National Communications Authority 
+2015,Timor-Leste,TLS,96,,National Communications Authority 
+2016,Timor-Leste,TLS,96.5,,Autoridade Nacional de Comunicações
+2017,Timor-Leste,TLS,96.5,,Autoridade Nacional de Comunicações
+2018,Timor-Leste,TLS,96.5,,National Communications Authority 
+2019,Timor-Leste,TLS,96.5,,National Communications Authority 
+2020,Timor-Leste,TLS,96.5,,National Communications Authority 
+2010,Palestine,WBG,0,,Palestinian Central Bureau of Statistics
+2011,Palestine,WBG,0,,Palestinian Central Bureau of Statistics
+2012,Palestine,WBG,0,,Palestinian Central Bureau of Statistics
+2013,Palestine,WBG,0,Palestinian Central Bureau of Statistics,Palestinian Central Bureau of Statistics
+2014,Palestine,WBG,0,,Palestinian Central Bureau of Statistics
+2015,Palestine,WBG,0,,Palestinian Central Bureau of Statistics
+2016,Palestine,WBG,0,,Ministry of Telecom and IT
+2017,Palestine,WBG,0,,Ministry of Telecom and IT
+2018,Palestine,WBG,57,,Ministry of Telecom and IT
+2019,Palestine,WBG,57,,Ministry of Telecom and IT
+2020,Palestine,WBG,55,,Ministry of Telecom and IT
+2010,Montenegro,MNE,72,March,Telenor Montenegro 
+2012,Montenegro,MNE,75.28,,ITU estimate.
+2013,Montenegro,MNE,81.81,,ITU estimate.
+2014,Montenegro,MNE,97.2,,Agency for Electronic Communications and Postal Services
+2015,Montenegro,MNE,97.2,,Agency for Electronic Communications and Postal Services
+2016,Montenegro,MNE,95,,Agency for electronic communications and postal sevices Montenegro
+2017,Montenegro,MNE,98,,Agency for electronic communications and postal sevices Montenegro
+2018,Montenegro,MNE,98,,Agency for Electronic Communications and Postal Services
+2019,Montenegro,MNE,98,,Agency for Electronic Communications and Postal Services
+2020,Montenegro,MNE,98.34,Based on software calculation.,Agency for Electronic Communications and Postal Services
+2013,Kosovo,KSO,50,,ITU estimate.
+2014,Kosovo,KSO,68.5,,ITU estimate.
+2015,Kosovo,KSO,92.37,,ITU estimate.
+2016,Kosovo,KSO,95,,ITU estimate.
+2013,South Sudan,SSD,17,,Ministry of Telecommunications & Postal Services
+2014,South Sudan,SSD,20,,ITU estimate.
+2015,South Sudan,SSD,15,,ITU estimate
+2016,South Sudan,SSD,15,Zain only.,"National Communication Authority, NCA"
+2017,South Sudan,SSD,15,,"National Communication Authority, NCA"
+2018,South Sudan,SSD,15,,"National Communication Authority, NCA"
+2019,South Sudan,SSD,15,,ITU estimate.
+2020,South Sudan,SSD,15,,ITU estimate.
+2013,St. Maarten,SXM,69.14,,ITU estimate.
+2014,St. Maarten,SXM,77.07,,ITU estimate.
+2015,St. Maarten,SXM,83.75,,ITU estimate.
+2016,St. Maarten,SXM,91.01,,ITU estimate.
+2012,Curacao,CUW,65.85,,ITU estimate.
+2013,Curacao,CUW,75.28,,ITU estimate.
+2014,Curacao,CUW,81.81,,ITU estimate.
+2015,Curacao,CUW,82,,ITU estimate
+2016,Curacao,CUW,95,,Bureau Telecommunicatie en Post
+2017,Curacao,CUW,100,,Bureau Telecommunicatie en Post
+2018,Curacao,CUW,100,,Bureau Telecommunicatie en Post
+2019,Curacao,CUW,100,,Bureau Telecommunicatie en Post
+2020,Curacao,CUW,100,,ITU estimate.

@@ -1,0 +1,31 @@
+year,country,iso,value,note,source
+2020,Belgium,BEL,5.2238,,Statistics Belgium (Statbel)
+2018,Bahrain,BHR,20.6684,,Telecommunications Regulatory Authority (TRA)
+2019,Côte d'Ivoire,CIV,1.64456,,ARTCI
+2019,Egypt,EGY,4.37223,,Ministry of Communications and Information Technology
+2017,Korea (Rep. of),KOR,1.70085,,Ministriy of Sceience and ICT(MSIT)
+2018,Korea (Rep. of),KOR,2.52335,,Ministriy of Sceience and ICT(MSIT)
+2019,Korea (Rep. of),KOR,2.52989,,Ministriy of Sceience and ICT(MSIT)
+2020,Korea (Rep. of),KOR,1.815,,Ministriy of Sceience and ICT(MSIT)
+2018,Mexico,MEX,10.3201,,Instituto Nacional de Estadística y Geografía (INEGI)
+2019,Mexico,MEX,12.8582,,Instituto Nacional de Estadística y Geografía (INEGI)
+2020,Mexico,MEX,7.12035,,Instituto Nacional de Estadística y Geografía (INEGI)
+2017,Malta,MLT,8.86789,,National Statistics Office
+2019,Malta,MLT,6.53275,,National Statistics Office
+2021,Norway,NOR,8,,Statistics Norway
+2017,Portugal,PRT,26.9288,,Statistics Portugal
+2019,Portugal,PRT,19.6638,,Statistics Portugal
+2018,Qatar,QAT,7.75569,,Ministry Of Transport and Communications
+2017,Russian Federation,RUS,2.47288,,Federal State Statistics Service (ROSSTAT)
+2018,Russian Federation,RUS,2.31446,,Federal State Statistics Service (Rosstat) 
+2019,Russian Federation,RUS,3.11734,,Federal State Statistics Service (Rosstat) 
+2020,Russian Federation,RUS,2.44743,,Federal State Statistics Service
+2017,Czech Republic,CZE,1.93349,,Czech Statistical Office
+2019,Thailand,THA,1.28019,,National Statistical Office of Thailand
+2020,Thailand,THA,2.88776,,National Statistical Office of Thailand
+2020,United Arab Emirates,ARE,4.11966,,Telecommunications & Digital Gevernment Regulatory Authority
+2020,Zimbabwe,ZWE,0.562552,,Zimbabwe National Statistics Agency (ZIMSTAT)
+2018,Kazakhstan,KAZ,0.30701,,Ministry of National Economy of the Republic of Kazakhstan Committee on Statistics
+2019,Kazakhstan,KAZ,0.203454,,Ministry of National Economy of the Republic of Kazakhstan Committee on Statistics
+2020,Kazakhstan,KAZ,0.22836,,Agency for Strategic planning and reforms of the Republic of Kazakhstan Bureau of National statistics
+2019,Palestine,WBG,14.3384,,Palestinian Central Bureau of Statistics

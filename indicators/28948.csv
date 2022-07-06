@@ -1,0 +1,75 @@
+year,country,iso,value,note,source
+2018,Austria,AUT,6.9355,,Statistics Austria
+2017,Belgium,BEL,3.54407,,Statbel (Algemene Directie Statistiek - Statistics Belgium) Statbel (Direction générale Statistique - Statistics Belgium)
+2019,Belgium,BEL,3.13369,,Statistics Belgium (Statbel)
+2020,Belgium,BEL,8.70571,,Statistics Belgium (Statbel)
+2018,Bahrain,BHR,0.713561,,Telecommunications Regulatory Authority (TRA)
+2017,Bulgaria,BGR,0.653445,,National Statistical Institute
+2018,Bulgaria,BGR,2.30319,,National Statistical Institute
+2019,Bulgaria,BGR,3.8778,,National Statistical Institute
+2020,Bulgaria,BGR,5.40522,,National Statistical Institute
+2019,Côte d'Ivoire,CIV,0.0371576,,ARTCI
+2020,Cyprus,CYP,3.57007,,Statistical Service of Cyprus
+2021,Germany,DEU,11.6322,,Statistisches Bundesamt (Destatis)
+2018,Denmark,DNK,13.4406,,Statistics Denmark 
+2020,Denmark,DNK,18.1504,,Statistics Denmark
+2021,Denmark,DNK,25.4324,,Statistics Denmark
+2017,Spain,ESP,8.47498,,Instituto Nacional de Estadística (INE)
+2019,Spain,ESP,10.7056,,Instituto Nacional de Estadística (INE)
+2020,Spain,ESP,10.3654,,Instituto Nacional de Estadística (INE)
+2017,Egypt,EGY,0,,Central Agency For Public Mobilization And Statistics (CAPMAS)
+2018,Egypt,EGY,0.0145139,,Ministry of Communications and Information Technology
+2019,Egypt,EGY,0.0257604,,Ministry of Communications and Information Technology
+2017,Estonia,EST,32.368,,Statistics Estonia
+2018,France,FRA,8.41458,,INSEE
+2019,France,FRA,10.5735,,Insee
+2020,United Kingdom,GBR,33.0706,,Office for National Statistics
+2017,Croatia,HRV,1.84645,,Croatian Bureau of Statistics
+2018,Croatia,HRV,3.06537,,Croatian Bureau of Statistics
+2019,Croatia,HRV,5.17202,,Croatian Bureau of Statistics
+2020,Croatia,HRV,13.9779,,Croatian Bureau of Statistics
+2020,Israel,ISR,9.06581,,CENTRAL BUREAU OF STATISTICS
+2017,Korea (Rep. of),KOR,3.44227,,Ministriy of Sceience and ICT(MSIT)
+2018,Korea (Rep. of),KOR,6.24325,,Ministriy of Sceience and ICT(MSIT)
+2019,Korea (Rep. of),KOR,8.43796,,Ministriy of Sceience and ICT(MSIT)
+2020,Korea (Rep. of),KOR,9.80843,,Ministriy of Sceience and ICT(MSIT)
+2018,Kuwait,KWT,2.99869,,comminucations and information technology regulatory authority
+2020,Kuwait,KWT,15.7524,,Communication and Information Technology Regulatory Authority
+2017,Lithuania,LTU,13.6473,,Statistics Lithuania
+2019,Lithuania,LTU,19.5066,,Statistics Lithuania
+2020,Lithuania,LTU,14.89,,Statistics Lithuania
+2021,Latvia,LVA,1.39398,,Central Statistical Bureau of Latvia
+2019,Mexico,MEX,0.44898,,Instituto Nacional de Estadística y Geografía (INEGI)
+2020,Mexico,MEX,0.642843,,Instituto Nacional de Estadística y Geografía (INEGI)
+2020,Malta,MLT,22.5536,,National Statistics Office
+2021,Norway,NOR,43,,Statistics Norway
+2018,Poland,POL,4.73597,,Statistics Poland
+2019,Poland,POL,6.51851,,Statistics Poland
+2018,Qatar,QAT,1.58439,,Ministry Of Transport and Communications
+2020,Romania,ROU,2.90329,,National Institute of Statistics
+2017,Russian Federation,RUS,9.76579,,Federal State Statistics Service (ROSSTAT)
+2019,Russian Federation,RUS,15.5311,,Federal State Statistics Service (Rosstat) 
+2020,Russian Federation,RUS,17.8741,,Federal State Statistics Service
+2017,Switzerland,CHE,15.2594,,Office fédéral de la statistique
+2019,Switzerland,CHE,16.696,,Office fédéral de la statistique
+2020,Slovenia,SVN,8.73296,,Statistical Office of the Republic of Slovenia 
+2017,Czech Republic,CZE,10.5094,,Czech Statistical Office
+2018,Czech Republic,CZE,14.1991,,Czech Statistical Office
+2019,Czech Republic,CZE,14.2381,,Czech Statistical Office
+2020,Czech Republic,CZE,6.9519,,Czech Statistical Office
+2019,Thailand,THA,0.252144,,National Statistical Office of Thailand
+2020,Thailand,THA,0.422299,,National Statistical Office of Thailand
+2021,Turkey,TUR,10.9204,,Turkish Statistical Institute (TurkStat)
+2020,United Arab Emirates,ARE,26.4466,,Telecommunications & Digital Gevernment Regulatory Authority
+2020,Zimbabwe,ZWE,0.0995316,,Zimbabwe National Statistics Agency (ZIMSTAT)
+2017,Bosnia and Herzegovina,BIH,0,,Agency for statistics of Bosnia and Herzegovina
+2019,Bosnia and Herzegovina,BIH,1.05947,,Agency for statistics of Bosnia and Herzegovina
+2020,Bosnia and Herzegovina,BIH,1.8955,,Agency for statistics of Bosnia and Herzegovina
+2017,Georgia,GEO,0.0748391,,Geostat
+2018,Georgia,GEO,0.241008,,National Statistics Office of Georgia - GEOSTAT
+2019,Georgia,GEO,0.182768,,National Statistics Office of Georgia - Geostat
+2020,Georgia,GEO,0.212273,,National Statistics Office of Georgia - Geostat
+2018,Kazakhstan,KAZ,1.11472,,Ministry of National Economy of the Republic of Kazakhstan Committee on Statistics
+2019,Kazakhstan,KAZ,1.25588,,Ministry of National Economy of the Republic of Kazakhstan Committee on Statistics
+2020,Kazakhstan,KAZ,1.79794,,Agency for Strategic planning and reforms of the Republic of Kazakhstan Bureau of National statistics
+2019,Palestine,WBG,0,,Palestinian Central Bureau of Statistics

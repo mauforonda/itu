@@ -1,0 +1,79 @@
+year,country,iso,value,note,source
+2018,Algeria,DZA,24.0145,,"Ministry of Post, Telecommunications, Technologies and Digital"
+2017,Saudi Arabia,SAU,4.27341,,Communication and Information Technology Commission (CITC)
+2018,Saudi Arabia,SAU,17.6363,,Communication and Information Technology Commission
+2019,Saudi Arabia,SAU,5.61199,,Communications andI nformation Technology Commision
+2017,Azerbaijan,AZE,1.12754,,State Statistical Committee
+2018,Azerbaijan,AZE,1.1276,,State Statistical Committee
+2019,Azerbaijan,AZE,1.22492,,State Statistical Committee
+2020,Azerbaijan,AZE,6.60006,,State Statistical Committee
+2013,Brazil,BRA,3.21293,,NIC.br
+2019,Belgium,BEL,0.216514,,Statistics Belgium (Statbel)
+2015,Bermuda,BMU,2.00139,,Department of Statistics
+2016,Bermuda,BMU,37.4906,,Bermuda Government - Department of Statistics
+2015,Bahrain,BHR,0.167045,,Telecommunications Regulatory Authority (TRA) Bahrain
+2016,Bahrain,BHR,6.15723,,Telecommunications Regulatory Authority (TRA)
+2018,Brunei Darussalam,BRN,24.6532,,Authority for Info-communciations Technology Industry of Brunei Darussalam (AITI)
+2021,Bhutan,BTN,7.5746,,MINISTRY OF INFORMATION AND COMMUNICATIONS
+2013,Colombia,COL,1.39096,,Departamento Administrativo Nacional de Estadística - DANE
+2018,Cabo Verde,CPV,3.45975,,INSTITUTO NACIONAL DE ESTATISTICAS
+2019,Cabo Verde,CPV,0.383309,,INSTITUTO NACIONAL DE ESTATISTICA
+2019,Côte d'Ivoire,CIV,0.835024,,ARTCI
+2014,Egypt,EGY,0.237749,,Ministry of Communications and Information Technology
+2015,Egypt,EGY,0.819217,,Central Agency For Public Mobilization And Statistics (CAPMAS)
+2016,Egypt,EGY,1.07327,,Central Agency For Public Mobilization And Statistics (CAPMAS)
+2017,Egypt,EGY,0.626614,,Central Agency For Public Mobilization And Statistics (CAPMAS)
+2018,Egypt,EGY,1.78608,,Ministry of Communications and Information Technology
+2019,Egypt,EGY,2.24121,,Ministry of Communications and Information Technology
+2020,Egypt,EGY,2.24121,,Ministry of Communications and Information Technology
+2013,Iran (Islamic Republic of),IRN,0.884024,,Statistical Centre of Iran
+2015,Iran (Islamic Republic of),IRN,0.555294,,Statistical Centre of Iran
+2017,Iran (Islamic Republic of),IRN,1.95346,,Statistical Centre of Iran
+2017,Jamaica,JAM,3.76901,,Statistical Institute of Jamaica
+2015,Kenya,KEN,0.15991,,KENYA NATIONAL BUREAU OF STATISTICS
+2015,Mexico,MEX,0.850024,,Instituto Nacional de Estadística y Geografía (INEGI)
+2016,Mexico,MEX,0.586602,,Instituto Nacional de Estadística y Geografía (INEGI)
+2017,Mexico,MEX,0.76255,,Instituto Nacional de Estadística y Geografía (INEGI)
+2018,Mexico,MEX,0.979531,,Instituto Nacional de Estadística y Geografía (INEGI)
+2019,Mexico,MEX,0.871128,,Instituto Nacional de Estadística y Geografía (INEGI)
+2020,Mexico,MEX,0.418261,,Instituto Nacional de Estadística y Geografía (INEGI)
+2019,Malaysia,MYS,18.9781,,"Department of Statistics, Malaysia"
+2020,Malaysia,MYS,21.9924,,"Department of Statistics, Malaysia"
+2013,Morocco,MAR,1.00419,,AGENCE NATIONALE DE REGLEMENTATION DES TELECOMMUJNICATIONS
+2014,Morocco,MAR,1.84777,,AGENCE NATIONALE DE REGLEMENTATION DES TELECOMMUJNICATIONS
+2015,Morocco,MAR,0.167535,,Agence Nationale de Réglementation des Télécommunications (ANRT)
+2016,Morocco,MAR,0.774866,,Agence Nationale de Réglementation des Télécommunications (ANRT)
+2017,Morocco,MAR,14.3171,,Agence Nationale de Réglementation des Télécommunications (ANRT)
+2018,Morocco,MAR,4.70001,,Agence Nationale de Réglementation des Télécommunications (ANRT)
+2018,Niger,NER,24.7416,,
+2016,Oman,OMN,11.5899,,Information Technology Authority (ITA) 
+2017,Poland,POL,1.83932,,
+2015,Qatar,QAT,0.431908,,Ministry Of Transport and Communications
+2016,Qatar,QAT,7.47933,,
+2017,Qatar,QAT,5.27515,,
+2018,Qatar,QAT,3.50082,,Ministry Of Transport and Communications
+2020,Qatar,QAT,0,,Ministry of Transport and Communications
+2013,Singapore,SGP,0.0510856,,Infocomm Development Authority of Singapore
+2014,Singapore,SGP,0,,Infocomm Development Authority of Singapore
+2015,Singapore,SGP,0,,
+2017,Singapore,SGP,0,,Infocomm Media Development Authority
+2016,Slovenia,SVN,4.10131,,Statistical Office of the Republic of Slovenia 
+2017,Slovenia,SVN,3.94969,,Statistical Office of the Republic of Slovenia 
+2017,Czech Republic,CZE,0.0912575,,Czech Statistical Office
+2019,Czech Republic,CZE,0.365354,,Czech Statistical Office
+2016,Thailand,THA,0.10395,,National Statistical Office of Thailand
+2017,Thailand,THA,0.129595,,National Statistical Office of Thailand
+2018,Thailand,THA,0.118461,,National Statistical Office of Thailand
+2019,Thailand,THA,0.106162,,National Statistical Office of Thailand
+2020,Thailand,THA,0.0320937,,National Statistical Office of Thailand
+2016,United Arab Emirates,ARE,41.3587,,Telecommunications Regulatory Authority 
+2018,United Arab Emirates,ARE,0,,Telecommunication Regulatory Authority
+2019,United Arab Emirates,ARE,0,,Telecommunication Regulatory Authority
+2020,United Arab Emirates,ARE,0,,Telecommunications & Digital Gevernment Regulatory Authority
+2020,Ukraine,UKR,0.0670509,,State Statistics Service of Ukraine
+2018,Uzbekistan,UZB,1.00917,,The State Committee of the Republic of Uzbekistan on Statistics
+2020,Uzbekistan,UZB,0.15513,,The State Committee of the Republic of Uzbekistan on Statistics
+2014,Zimbabwe,ZWE,2.27316,,
+2020,Zimbabwe,ZWE,1.7192,,Zimbabwe National Statistics Agency (ZIMSTAT)
+2014,Palestine,WBG,6.85084,,Palestinian Central Bureau of Statistics
+2019,Palestine,WBG,9.98119,,Palestinian Central Bureau of Statistics

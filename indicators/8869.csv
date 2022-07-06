@@ -1,0 +1,559 @@
+year,country,iso,value,note,source
+2010,Aruba,ABW,49.7219,,Central Bureau of Statistics Aruba
+2013,South Africa,ZAF,8.72377,,Statistics South Africa
+2014,South Africa,ZAF,10.9376,,
+2016,Saudi Arabia,SAU,23.1488,,CITC
+2017,Saudi Arabia,SAU,39.3696,,Communication and Information Technology Commission (CITC)
+2018,Saudi Arabia,SAU,43.1773,,Communication and Information Technology Commission
+2019,Saudi Arabia,SAU,39.9064,,Communications andI nformation Technology Commision
+2020,Saudi Arabia,SAU,50.9176,,Communications andI nformation Technology Commision
+2007,Australia,AUS,43.3651,,Australian Burau of Statistics
+2008,Australia,AUS,51.8195,,Australian Burau of Statistics
+2009,Australia,AUS,61.5582,Includes households with both Broadband and Narrowband connections,Australian Bureau os Statistics
+2011,Australia,AUS,60.7254,Refers to a household's 'main' type of broadband connection. Incl. households who did not know their type of broadband access.,Australian Bureau of Statistics
+2013,Australia,AUS,48.2556,,Australian Bureau of Statistics
+2003,Austria,AUT,10.2853,,Eurostat
+2004,Austria,AUT,15.9235,,Eurostat
+2005,Austria,AUT,23.1404,,Eurostat
+2006,Austria,AUT,33.117,,Eurostat
+2007,Austria,AUT,46.1463,,Eurostat
+2008,Austria,AUT,54.4969,,Eurostat
+2009,Austria,AUT,57.8027,,Eurostat
+2010,Austria,AUT,48.2301,,Eurostat.
+2011,Austria,AUT,57.0076,,Eurostat.
+2012,Austria,AUT,59.5785,,Eurostat.
+2013,Austria,AUT,58.8231,,Eurostat
+2008,Azerbaijan,AZE,0.362395,,State Statistical Committee
+2009,Azerbaijan,AZE,1.73155,,State Statistical Committee
+2010,Azerbaijan,AZE,11.0527,,State Statistical Committee
+2017,Azerbaijan,AZE,55.2817,,State Statistical Committee
+2018,Azerbaijan,AZE,55.3887,,State Statistical Committee
+2019,Azerbaijan,AZE,56.952,,State Statistical Committee
+2020,Azerbaijan,AZE,46.9926,,State Statistical Committee
+2009,Brazil,BRA,8.67122,,Brazilian Steering Committee
+2010,Brazil,BRA,18.368,"Broadband is defined by type of connection: Internet access other than dial-up connection (DSL, Satellite, Cable Modem, Radio).",
+2013,Brazil,BRA,22.721,,NIC.br
+2014,Brazil,BRA,26.037,,NIC.br
+2016,Brazil,BRA,25.2212,,NIC.br
+2017,Brazil,BRA,29.1374,,NIC.br
+2018,Brazil,BRA,32.4577,,NIC.br
+2019,Brazil,BRA,35.8487,,NIC.br
+2020,Brazil,BRA,50.9864,,NIC.br
+2005,Belgium,BEL,40.5604,,Eurostat
+2006,Belgium,BEL,48.0499,,Eurostat
+2007,Belgium,BEL,56.3886,,Eurostat
+2008,Belgium,BEL,60.3155,,Eurostat
+2009,Belgium,BEL,63.3982,,Eurostat
+2010,Belgium,BEL,68.3799,,Eurostat.
+2011,Belgium,BEL,72.3558,,Eurostat.
+2012,Belgium,BEL,73.0593,,Eurostat.
+2013,Belgium,BEL,77.7005,,Eurostat
+2016,Belgium,BEL,25.2319,,Algemene Directie Statistiek - Statistics Belgium Direction Générale Statistique - Statistics Belgium
+2017,Belgium,BEL,34.0505,,Statbel (Algemene Directie Statistiek - Statistics Belgium) Statbel (Direction générale Statistique - Statistics Belgium)
+2015,Bahrain,BHR,21.4045,,Telecommunications Regulatory Authority (TRA) Bahrain
+2008,Bhutan,BTN,1.52051,,Ministry of Information and Communication
+2017,Bhutan,BTN,3.14109,,Ministry of Information and Communication in collaboration with National Statistics Bureau
+2004,Bulgaria,BGR,3.74757,,Eurostat
+2006,Bulgaria,BGR,10.1025,,Eurostat
+2007,Bulgaria,BGR,15.3968,,Eurostat
+2008,Bulgaria,BGR,20.7164,,Eurostat
+2009,Bulgaria,BGR,26.1169,,Eurostat
+2010,Bulgaria,BGR,25.5411,,Eurostat.
+2011,Bulgaria,BGR,39.4502,,Eurostat.
+2012,Bulgaria,BGR,49.8837,,Eurostat.
+2013,Bulgaria,BGR,52.3953,,Eurostat
+2007,Canada,CAN,60.9116,,Statistics Canada
+2008,Canada,CAN,62.4055,,Statistics Canada
+2009,Canada,CAN,65.0593,,Statistics Canada
+2011,Canada,CAN,67.2641,Fixed broadban defined as high-speed telephone connection to a computer and cable or satellite dish connection to a computer.,Statistics Canada
+2003,Chile,CHL,6.24416,,Ministerio de Planificación
+2006,Chile,CHL,14.6114,Broadband with subscription (paid),Ministerio de Planificación
+2009,Chile,CHL,23.8592,Banda ancha contratada,Ministerio de Planificación
+2018,Cabo Verde,CPV,7.2947,,INSTITUTO NACIONAL DE ESTATISTICAS
+2019,Cabo Verde,CPV,8.73695,,INSTITUTO NACIONAL DE ESTATISTICA
+2019,Côte d'Ivoire,CIV,0.0804255,,ARTCI
+2008,Costa Rica,CRI,4.36176,,Instituto Nacional de Estadística y Censos
+2009,Costa Rica,CRI,13.3915,Data correspond to dwellings (not households).,Instituto Nacional de Estadística y Censos
+2010,Costa Rica,CRI,15.6932,,Instituto Nacional de Esatdística y Censos
+2011,Costa Rica,CRI,21.1173,"The question included an ""others""/""do not know"" answer category.",Instituto Nacional de Estadísticas y Censos
+2012,Costa Rica,CRI,22.3561,Data correspond to dwellings (not households).,Instituto Nacional de Estadística y Censos
+2015,Costa Rica,CRI,31.0111,,Instituto Nacional de Estadística y Censos
+2006,Cayman Islands,CYM,41.8023,Question refers to highspeed internet.,Economics + Statistics Office
+2004,Cyprus,CYP,2.3639,,Eurostat
+2005,Cyprus,CYP,4.49272,,Eurostat
+2006,Cyprus,CYP,12.4661,,Eurostat
+2007,Cyprus,CYP,20.2273,,Eurostat
+2008,Cyprus,CYP,32.9747,,Eurostat
+2009,Cyprus,CYP,47.4967,,Eurostat
+2010,Cyprus,CYP,50.6054,,Eurostat.
+2011,Cyprus,CYP,54.526,,Eurostat.
+2012,Cyprus,CYP,60.5432,,Eurostat.
+2013,Cyprus,CYP,63.0317,,Eurostat
+2003,Germany,DEU,9.33151,,Eurostat
+2004,Germany,DEU,18.0065,,Eurostat
+2005,Germany,DEU,23.2448,,Eurostat
+2006,Germany,DEU,33.5357,,Eurostat
+2007,Germany,DEU,49.5664,,Eurostat
+2008,Germany,DEU,54.8585,,Eurostat
+2009,Germany,DEU,64.5849,,Eurostat
+2010,Germany,DEU,72.1473,,Eurostat.
+2011,Germany,DEU,74.1798,,Eurostat.
+2012,Germany,DEU,77.8029,,Eurostat.
+2013,Germany,DEU,81.1585,,Eurostat
+2003,Denmark,DNK,25.0724,,Eurostat
+2004,Denmark,DNK,35.815,,Eurostat
+2005,Denmark,DNK,51.179,,Eurostat
+2006,Denmark,DNK,63.2527,,Eurostat
+2007,Denmark,DNK,69.5315,,Eurostat
+2008,Denmark,DNK,74.0713,,Eurostat
+2009,Denmark,DNK,76.0467,,Eurostat
+2010,Denmark,DNK,75.4931,,Eurostat.
+2011,Denmark,DNK,78.4832,,Eurostat.
+2012,Denmark,DNK,79.4222,,Eurostat.
+2013,Denmark,DNK,81.2994,,Eurostat
+2004,Spain,ESP,15.0454,,Eurostat
+2005,Spain,ESP,20.7541,,Eurostat
+2006,Spain,ESP,29.2971,,Eurostat
+2007,Spain,ESP,39.2285,,Eurostat
+2008,Spain,ESP,44.6202,,Eurostat
+2009,Spain,ESP,51.3406,,Eurostat
+2010,Spain,ESP,55.4444,,Eurostat.
+2011,Spain,ESP,58.8489,,Eurostat.
+2012,Spain,ESP,62.2769,,Eurostat.
+2013,Spain,ESP,62.6331,,Eurostat
+2016,Spain,ESP,68.4842,,Instituto Nacional de Estadística (INE)
+2017,Spain,ESP,70.9001,,Instituto Nacional de Estadística (INE)
+2013,Egypt,EGY,32.6047,,Ministry of Communications and Information Technology
+2014,Egypt,EGY,38.589,,Ministry of Communications and Information Technology
+2015,Egypt,EGY,42.3307,,Central Agency For Public Mobilization And Statistics (CAPMAS)
+2016,Egypt,EGY,46.0676,,Central Agency For Public Mobilization And Statistics (CAPMAS)
+2018,Egypt,EGY,43.8954,,Ministry of Communications and Information Technology
+2019,Egypt,EGY,49.1728,,Ministry of Communications and Information Technology
+2020,Egypt,EGY,62.3838,,Ministry of Communications and Information Technology
+2008,Ecuador,ECU,3.68226,,Instituto Nacional de Estadística y Censos (INEC)
+2009,Ecuador,ECU,3.86037,,Instituto Nacional de Estadística y Censos (INEC)
+2010,Ecuador,ECU,6.75147,,Instituto Nacional de Estadistica y Censos - INEC
+2011,Ecuador,ECU,7.89658,,Instituto Nacional de Estadistica y Censos - INEC
+2012,Ecuador,ECU,5.50922,,Instituto Nacional de Estadistica y Censos - INEC
+2004,Estonia,EST,20.312,,Eurostat
+2005,Estonia,EST,29.7663,,Eurostat
+2006,Estonia,EST,36.6153,,Eurostat
+2007,Estonia,EST,47.5626,,Eurostat
+2008,Estonia,EST,54.4272,,Eurostat
+2009,Estonia,EST,61.9814,,Eurostat
+2010,Estonia,EST,61.281,,Eurostat.
+2011,Estonia,EST,63.1473,,Eurostat.
+2012,Estonia,EST,66.755,,Eurostat.
+2013,Estonia,EST,69.5408,,Eurostat
+2006,France,FRA,30.2603,,Eurostat
+2007,France,FRA,42.9019,,Eurostat
+2008,France,FRA,57.0997,,Eurostat
+2009,France,FRA,57.4889,,Eurostat
+2010,France,FRA,65.3012,,Eurostat.
+2011,France,FRA,68.4892,,Eurostat.
+2012,France,FRA,75.5038,,Eurostat.
+2013,France,FRA,76.2084,,Eurostat
+2003,Finland,FIN,12.3714,,Eurostat
+2004,Finland,FIN,21.2872,,Eurostat
+2005,Finland,FIN,36.0883,,Eurostat
+2006,Finland,FIN,52.8619,,Eurostat
+2007,Finland,FIN,62.8782,,Eurostat
+2008,Finland,FIN,66.1444,,Eurostat
+2009,Finland,FIN,73.7382,,Eurostat
+2010,Finland,FIN,60.6723,,Eurostat.
+2011,Finland,FIN,59.3103,,Eurostat.
+2012,Finland,FIN,59.0249,,Eurostat.
+2013,Finland,FIN,59.0331,,Eurostat
+2003,United Kingdom,GBR,10.6937,,Eurostat
+2004,United Kingdom,GBR,15.8172,,Eurostat
+2005,United Kingdom,GBR,31.5439,,Eurostat
+2006,United Kingdom,GBR,43.9227,,Eurostat
+2007,United Kingdom,GBR,56.7483,,Eurostat
+2008,United Kingdom,GBR,61.5147,,Eurostat
+2009,United Kingdom,GBR,69.467,,Eurostat
+2011,United Kingdom,GBR,76.9161,,Eurostat.
+2012,United Kingdom,GBR,80.6794,,Eurostat.
+2013,United Kingdom,GBR,83.3343,,Eurostat
+2003,Greece,GRC,0.594787,,Eurostat
+2004,Greece,GRC,0.231844,,Eurostat
+2005,Greece,GRC,0.620576,,Eurostat
+2006,Greece,GRC,3.83699,,Eurostat
+2007,Greece,GRC,7.46102,,Eurostat
+2008,Greece,GRC,22.458,,Eurostat
+2009,Greece,GRC,33.1417,,Eurostat
+2011,Greece,GRC,44.6532,,Eurostat.
+2012,Greece,GRC,49.5706,,Eurostat.
+2013,Greece,GRC,54.1665,,Eurostat
+2007,"Hong Kong, China",HKG,69.4404,by broadband,Census and Statistics Department
+2008,"Hong Kong, China",HKG,69.7044,by broadband,Census and Statistics Department
+2009,"Hong Kong, China",HKG,71.6054,Number of households accessing the Internet by broadband,Census and Statistics Department
+2012,"Hong Kong, China",HKG,76.4211,,Census and Statistics Department
+2014,"Hong Kong, China",HKG,78.1612,,Census and Statistics Department
+2015,"Hong Kong, China",HKG,77.0244,,Census and Statistics Department
+2016,"Hong Kong, China",HKG,77.5096,,Census and Statistics Department
+2017,"Hong Kong, China",HKG,78.4452,,Census and Statistics Department
+2018,"Hong Kong, China",HKG,73.9109,,Census and Statistics Department
+2019,"Hong Kong, China",HKG,76.9234,,Census and Statistics Department
+2020,"Hong Kong, China",HKG,73.5559,,Census and Statistics Department
+2004,Hungary,HUN,5.79581,sourse: Census 2001 (Hungarian Central Statistical Office) no data,Eurostat
+2005,Hungary,HUN,10.9393,,Eurostat
+2006,Hungary,HUN,22.0106,,Eurostat
+2007,Hungary,HUN,32.9512,,Eurostat
+2008,Hungary,HUN,42.2957,,Eurostat
+2009,Hungary,HUN,50.9425,,Eurostat
+2010,Hungary,HUN,50.2991,,Eurostat.
+2011,Hungary,HUN,55.4863,,Eurostat.
+2012,Hungary,HUN,63.5332,,Eurostat.
+2013,Hungary,HUN,65.6202,,Eurostat
+2017,Hungary,HUN,77.639,,Hungarian Central Statistical Office
+2003,Netherlands,NLD,19.9657,,Eurostat
+2004,Netherlands,NLD,31.2781,,Eurostat
+2005,Netherlands,NLD,53.8705,,Eurostat
+2006,Netherlands,NLD,66.166,,Eurostat
+2007,Netherlands,NLD,73.7695,,Eurostat
+2008,Netherlands,NLD,73.9709,,Eurostat
+2009,Netherlands,NLD,76.9742,,Eurostat
+2010,Netherlands,NLD,79.3963,,Eurostat.
+2011,Netherlands,NLD,77.1266,,Eurostat.
+2012,Netherlands,NLD,83.746,,Eurostat.
+2007,Croatia,HRV,23.4987,,Eurostat
+2008,Croatia,HRV,26.849,,Eurostat
+2009,Croatia,HRV,39.4629,,Eurostat
+2010,Croatia,HRV,46.5853,,Eurostat.
+2011,Croatia,HRV,54.087,,Eurostat.
+2012,Croatia,HRV,57.1405,,Eurostat.
+2013,Croatia,HRV,61.0321,,Eurostat
+2005,Italy,ITA,12.9499,,Eurostat
+2006,Italy,ITA,16.2239,,Eurostat
+2007,Italy,ITA,25.2983,,Eurostat
+2008,Italy,ITA,30.788,,Eurostat
+2009,Italy,ITA,39.0042,,Eurostat
+2010,Italy,ITA,40.7971,,Eurostat.
+2011,Italy,ITA,40.1811,,Eurostat.
+2012,Italy,ITA,42.0883,,Eurostat.
+2013,Italy,ITA,50.3176,,Eurostat
+2003,Ireland,IRL,0.616177,,Eurostat
+2004,Ireland,IRL,2.89008,,Eurostat
+2005,Ireland,IRL,7.39159,,Eurostat
+2006,Ireland,IRL,13.0667,,Eurostat
+2007,Ireland,IRL,30.6229,,Eurostat
+2008,Ireland,IRL,42.9403,,Eurostat
+2009,Ireland,IRL,53.7193,,Eurostat
+2010,Ireland,IRL,44.7731,,Eurostat.
+2011,Ireland,IRL,51.2125,,Eurostat.
+2012,Ireland,IRL,56.4599,,Eurostat.
+2013,Ireland,IRL,59.6021,,Eurostat
+2009,Iran (Islamic Republic of),IRN,1.45869,,Statistical Center of Iran
+2010,Iran (Islamic Republic of),IRN,2.17325,,Statistical Center of Iran (SCI)
+2013,Iran (Islamic Republic of),IRN,16.6494,,Statistical Centre of Iran
+2015,Iran (Islamic Republic of),IRN,28.6332,,Statistical Centre of Iran
+2017,Iran (Islamic Republic of),IRN,50.5007,,Statistical Centre of Iran
+2004,Iceland,ISL,45.438,,Eurostat
+2005,Iceland,ISL,63.467,,Eurostat
+2006,Iceland,ISL,72.0759,,Eurostat
+2007,Iceland,ISL,76.0991,,Eurostat
+2008,Iceland,ISL,83.249,,Eurostat
+2009,Iceland,ISL,86.7292,,Eurostat
+2010,Iceland,ISL,83.8462,,Eurostat.
+2011,Iceland,ISL,87.9175,,Eurostat.
+2012,Iceland,ISL,87.0907,,Eurostat.
+2013,Iceland,ISL,89.7075,,Eurostat
+2007,Japan,JPN,51.7,"Accessing from personal computers. Telephone line (dialup), ISDN etc. CATV, FTTH, FWA, DSL  etc.",Ministry of Internal Affairs and Communications
+2008,Japan,JPN,58.6,"Accessing from personal computers.  CATV, FTTH, FWA, DSL  etc.",Ministry of Internal Affairs and Communications
+2009,Japan,JPN,63.3974,"Accessing from personal computers. CATV, FTTH, FWA, DSL  etc.",Ministry of Internal Affairs and Communications
+2010,Japan,JPN,63.3585,"Access from personal computers. CATV, FTTH, DSL, FWA, BWA  etc.",Ministry of Internal Affairs and Communications
+2011,Japan,JPN,59.4824,"Access from personal computer by CATV, FTTH, DSL, FWA, BWA  etc.",Ministry of Internal Affairs and Communications
+2012,Japan,JPN,56.0596,"CATV, FTTH, DSL, FWA, BWA  etc.",Ministry of Internal Affairs and Communications
+2013,Japan,JPN,60.5917,,Ministry of Internal Affairs and Communications
+2014,Japan,JPN,55.7944,,Ministry of Internal Affairs and Communications
+2015,Japan,JPN,59.9872,,Ministry of Internal Affairs and Communications
+2016,Japan,JPN,59.3097,,Ministry of Internal Affairs and Communications
+2017,Japan,JPN,54.9168,,Ministry of Internal Affairs and Communications
+2018,Japan,JPN,55.085,,Ministry of Internal Affairs and Communications
+2019,Japan,JPN,70.3606,,Ministry of Internal Affairs and Communications
+2020,Japan,JPN,70.5268,,Ministry of Internal Affairs and Communications
+2008,Jamaica,JAM,7.33716,Broadband consists of ADSL and Wireless internet connections.,STATISTICAL INSTITUTE OF JAMAICA
+2009,Jamaica,JAM,7.81334,Broadband consists of ADSL and Wireless internet connections.,STATISTICAL INSTITUTE OF JAMAICA
+2010,Jamaica,JAM,5.7082,Incl. both fixed broadband and mobile broadband.,STATISTICAL INSTITUTE OF JAMAICA
+2011,Jamaica,JAM,16.2001,,Statistical Institute of Jamaica
+2012,Jamaica,JAM,18.8801,,Statistical Institue of Jamaica
+2014,Jamaica,JAM,25.8873,,Statistical Institute of Jamaica
+2017,Jamaica,JAM,17.0043,,Statistical Institute of Jamaica
+2008,Korea (Rep. of),KOR,80.4898,"Including xDSL, cable modem, Apart LAN, FTTH, Wi-Fi, WiMax(Wibro) and HSDPA",Korea Communications Commission (KCC)
+2009,Korea (Rep. of),KOR,81.1789,"Including xDSL, cable modem, Apart LAN, FTTH, Wi-Fi, WiMax(Wibro) and HSDPA",Korea Communications Commission (KCC)
+2011,Korea (Rep. of),KOR,81.7869,"Including xDSL, cable modem, FTTx, Wi-Fi, WiMax (Wibro) and HSDPA",Korea Communications Commission (KCC)
+2012,Korea (Rep. of),KOR,97.3497,"Including xDSL, cable modem, FTTx, Wi-Fi, WiMax (Wibro)","Ministry of Science, ICT & Future Planning(MSIP)"
+2013,Korea (Rep. of),KOR,76.6089,,"Ministry of Science, ICT & Future Planning(MSIP)"
+2014,Korea (Rep. of),KOR,78.7207,,"Ministry of Science, ICT & Future Planning(MSIP)"
+2015,Korea (Rep. of),KOR,82.9327,,"Ministry of Science, ICT & Future Planning(MSIP)"
+2016,Korea (Rep. of),KOR,84.2968,,Ministry of Science and ICT(MSIT)
+2017,Korea (Rep. of),KOR,85.2875,,Ministriy of Sceience and ICT(MSIT)
+2018,Korea (Rep. of),KOR,83.631,,Ministriy of Sceience and ICT(MSIT)
+2019,Korea (Rep. of),KOR,81.3308,,Ministriy of Sceience and ICT(MSIT)
+2020,Korea (Rep. of),KOR,81.5356,,Ministriy of Sceience and ICT(MSIT)
+2018,Kuwait,KWT,24.2503,,comminucations and information technology regulatory authority
+2020,Kuwait,KWT,26.7703,,Communication and Information Technology Regulatory Authority
+2016,Lesotho,LSO,0.0874851,,
+2003,Lithuania,LTU,1.68957,,Eurostat
+2004,Lithuania,LTU,3.6814,,Eurostat
+2005,Lithuania,LTU,11.5822,,Eurostat
+2006,Lithuania,LTU,19.4129,,Eurostat
+2007,Lithuania,LTU,34.1279,,Eurostat
+2008,Lithuania,LTU,42.8626,,Eurostat
+2009,Lithuania,LTU,49.8459,,Eurostat
+2010,Lithuania,LTU,52.4646,,Eurostat.
+2011,Lithuania,LTU,51.2088,,Eurostat.
+2012,Lithuania,LTU,50.3658,,Eurostat.
+2013,Lithuania,LTU,57.9307,,Eurostat
+2003,Luxembourg,LUX,7.36402,,Eurostat
+2004,Luxembourg,LUX,16.2677,,Eurostat
+2005,Luxembourg,LUX,33.4079,,Eurostat
+2006,Luxembourg,LUX,44.0873,,Eurostat
+2007,Luxembourg,LUX,57.7708,,Eurostat
+2008,Luxembourg,LUX,61.0076,,Eurostat
+2009,Luxembourg,LUX,71.081,,Eurostat
+2010,Luxembourg,LUX,69.3067,,Eurostat.
+2011,Luxembourg,LUX,67.1095,,Eurostat.
+2012,Luxembourg,LUX,67.0754,,Eurostat.
+2013,Luxembourg,LUX,69.4764,,Eurostat
+2004,Latvia,LVA,5.36986,,Eurostat
+2005,Latvia,LVA,13.9319,,Eurostat
+2006,Latvia,LVA,22.5044,,Eurostat
+2007,Latvia,LVA,31.9235,,Eurostat
+2008,Latvia,LVA,39.6576,,Eurostat
+2009,Latvia,LVA,50.2338,,Eurostat
+2010,Latvia,LVA,51.1399,,Eurostat.
+2011,Latvia,LVA,53.7431,,Eurostat.
+2012,Latvia,LVA,62.1855,,Eurostat.
+2013,Latvia,LVA,61.9501,,Eurostat
+2008,"Macao, China",MAC,67.6869,,Statistics and Census Service
+2009,"Macao, China",MAC,72.5352,,Statisitics and Census Service
+2010,"Macao, China",MAC,71.3023,,Statisitics and Census Service
+2011,"Macao, China",MAC,74.8552,,Statisitics and Census Service
+2012,"Macao, China",MAC,75.5319,,Statisitics and Census Service
+2013,"Macao, China",MAC,71.2203,,Statisitics and Census Service
+2014,"Macao, China",MAC,67.3523,,Statistics and Census Service
+2008,Mauritius,MUS,9.66453,,Central Statistics Office
+2010,Mauritius,MUS,20.7668,,Central Statistics Office
+2012,Mauritius,MUS,31.716,,Statistics Mauritius
+2007,Mexico,MEX,6.10483,,Instituto Nacional de Estadística y Geografía (INEGI)
+2008,Mexico,MEX,9.59783,,Instituto Nacional de Estadística y Geografía (INEGI)
+2009,Mexico,MEX,12.2452,Se refieren a las conexiones del tipo DSL y las de TV por cable ,Instituto Nacional de Estadística y Geografía (INEGI)
+2010,Mexico,MEX,19.1344,,Instituto Nacional de Estadística y Geografía (INEGI)
+2011,Mexico,MEX,19.6861,,INEGI
+2012,Mexico,MEX,20.9113,,Instituto Nacional de Estadística y Geografía (INEGI)
+2013,Mexico,MEX,24.8022,,Instituto Nacional de Estadística y Geografía
+2014,Mexico,MEX,28.5151,,Instituto Nacional de Estadística y Geografía (INEGI)
+2015,Mexico,MEX,32.0993,,Instituto Nacional de Estadística y Geografía (INEGI)
+2016,Mexico,MEX,35.8377,,Instituto Nacional de Estadística y Geografía (INEGI)
+2017,Mexico,MEX,39.7698,,Instituto Nacional de Estadística y Geografía (INEGI)
+2018,Mexico,MEX,43.2406,,Instituto Nacional de Estadística y Geografía (INEGI)
+2019,Mexico,MEX,46.7397,,Instituto Nacional de Estadística y Geografía (INEGI)
+2020,Mexico,MEX,51.1234,,Instituto Nacional de Estadística y Geografía (INEGI)
+2005,Malta,MLT,22.8696,,Eurostat
+2006,Malta,MLT,40.6936,,Eurostat
+2007,Malta,MLT,44.3538,,Eurostat
+2008,Malta,MLT,55.4463,,Eurostat
+2009,Malta,MLT,62.9374,,Eurostat
+2010,Malta,MLT,67.917,,Eurostat.
+2011,Malta,MLT,73.8872,,Eurostat.
+2012,Malta,MLT,79.1292,,Eurostat.
+2013,Malta,MLT,78.0676,,Eurostat
+2012,Morocco,MAR,8.99674,,AGENCE NATIONALE DE REGLEMENTATION DES TELECOMMUJNICATIONS
+2014,Morocco,MAR,14.4254,,AGENCE NATIONALE DE REGLEMENTATION DES TELECOMMUJNICATIONS
+2015,Morocco,MAR,16.2434,,Agence Nationale de Réglementation des Télécommunications (ANRT)
+2016,Morocco,MAR,20.7,,Agence Nationale de Réglementation des Télécommunications (ANRT)
+2017,Morocco,MAR,19.4542,,Agence Nationale de Réglementation des Télécommunications (ANRT)
+2018,Morocco,MAR,20.2083,,Agence Nationale de Réglementation des Télécommunications (ANRT)
+2018,Niger,NER,0.206504,,
+2003,Norway,NOR,22.894,,Eurostat
+2005,Norway,NOR,41.4356,,Eurostat
+2006,Norway,NOR,57.0697,,Eurostat
+2007,Norway,NOR,66.7168,,Eurostat
+2008,Norway,NOR,72.9765,,Eurostat
+2009,Norway,NOR,77.7683,,Eurostat
+2010,Norway,NOR,76.7469,,Eurostat.
+2011,Norway,NOR,73.4583,,Eurostat.
+2012,Norway,NOR,77.7947,,Eurostat.
+2013,Norway,NOR,80.4951,,Eurostat
+2006,New Zealand,NZL,33.2695,"Mobile broadband is not collected, all data on broadband is included in the fixed broadband category.",Statistics New Zealand
+2009,New Zealand,NZL,58.7292,"Data for households accessing the internet by narrowband includes those who have both narrow and broadband. Data for households accessing the internet by fix and mobile broadband excludes those who answered ""do not know"" to its broadband type.",Statistics New Zealand
+2013,Oman,OMN,17.9116,,Information Technology Authority (ITA) 
+2012,Panama,PAN,0,"Internet access via DSL, Cable TV or optic fibre, satellite, Public  Wifi and WiMAX.",INSTITUTO NACIONAL DE ESTADÍSTICA Y CENSO - CONTRALORÍA GENERAL
+2004,Poland,POL,8.27537,,Eurostat
+2005,Poland,POL,15.5868,,Eurostat
+2006,Poland,POL,21.642,,Eurostat
+2007,Poland,POL,29.5569,,Eurostat
+2008,Poland,POL,37.9491,,Eurostat
+2009,Poland,POL,51.1428,,Eurostat
+2010,Poland,POL,51.4081,,Eurostat.
+2011,Poland,POL,55.129,,Eurostat.
+2012,Poland,POL,59.2872,,Eurostat.
+2013,Poland,POL,60.6793,,Eurostat
+2003,Portugal,PRT,7.87239,,Eurostat
+2004,Portugal,PRT,12.2994,,Eurostat
+2005,Portugal,PRT,19.7212,,Eurostat
+2006,Portugal,PRT,24.0068,,Eurostat
+2007,Portugal,PRT,30.4211,,Eurostat
+2008,Portugal,PRT,39.3449,,Eurostat
+2009,Portugal,PRT,46.1581,,Eurostat
+2010,Portugal,PRT,41.187,,Eurostat.
+2011,Portugal,PRT,47.6866,,Eurostat.
+2012,Portugal,PRT,51.4214,,Eurostat.
+2013,Portugal,PRT,53.1577,,Eurostat
+2010,Puerto Rico,PRI,32.3412,"Source: Connect Puerto Rico, Residential Technology Assessment. 2010. Topic: Key Findings. http://en.connectpr.org/_documents/PR_RTA_2010Q1_FINAL.pdf",Instituto de Estadísticas de Puerto Rico
+2011,Puerto Rico,PRI,17.15,Source: Connect Puerto Rico. 2012 Connect Puerto Rico Residential Technology Assessment. www.connectpr.org,Instituto de Estadisticas de Puerto Rico
+2012,Puerto Rico,PRI,35,Source: Connect Puerto Rico. 2012 Connect Puerto Rico Residential Technology Assessment. www.connectpr.org,Instituto de Estadisticas de Puerto Rico
+2013,Puerto Rico,PRI,20.67,,Instituto de Estadisticas de Puerto Rico
+2014,Puerto Rico,PRI,16.9932,,Instituto de Estadisticas de Puerto Rico
+2015,Puerto Rico,PRI,17.4454,,Instituto de Estadisticas de Puerto Rico
+2016,Puerto Rico,PRI,35.4671,,Instituto de Estadisticas de Puerto Rico
+2017,Puerto Rico,PRI,35.2116,,Instituto de Estadisticas de Puerto Rico
+2018,Puerto Rico,PRI,30.4309,,Instituto de Estadisticas de Puerto Rico
+2019,Puerto Rico,PRI,35.147,,
+2008,Qatar,QAT,57.4999,,Supreme Council Of Information & Communication Technology (ictQATAR)
+2009,Qatar,QAT,60.1997,,Supreme Council Of Information & Communication Technology (ictQATAR)
+2010,Qatar,QAT,62.9002,,Supreme Council Of Information & Communication Technology (ictQATAR)
+2011,Qatar,QAT,69.4963,,Supreme Council Of Information & Communication Technology (ictQATAR)
+2012,Qatar,QAT,78.0516,,Ministry Of Information & Communication Technology (ictQATAR)
+2013,Qatar,QAT,94.0466,"In-scope population refers to ""mainstream"" population living in households.",Ministry Of Information & Communication Technology (ictQATAR)
+2015,Qatar,QAT,82.82,,Ministry Of Transport and Communications
+2016,Qatar,QAT,84.6694,,
+2017,Qatar,QAT,86.5487,,
+2018,Qatar,QAT,88.428,,Ministry Of Transport and Communications
+2019,Qatar,QAT,90.2617,,Ministry of Transport and Communications
+2020,Qatar,QAT,91.9847,,Ministry of Transport and Communications
+2006,Romania,ROU,5.21779,,Eurostat
+2007,Romania,ROU,7.94512,,Eurostat
+2008,Romania,ROU,13.2953,,Eurostat
+2009,Romania,ROU,23.6663,,Eurostat
+2010,Romania,ROU,22.4999,,Eurostat.
+2011,Romania,ROU,30.1303,,Eurostat.
+2012,Romania,ROU,49.35,,Eurostat.
+2013,Romania,ROU,55.3634,,Eurostat
+2005,Sweden,SWE,40.1798,,Eurostat
+2006,Sweden,SWE,51.0102,,Eurostat
+2007,Sweden,SWE,66.6176,,Eurostat
+2008,Sweden,SWE,70.6515,,Eurostat
+2009,Sweden,SWE,79.4592,,Eurostat
+2010,Sweden,SWE,70.8943,,Eurostat.
+2011,Sweden,SWE,72.1284,,Eurostat.
+2012,Sweden,SWE,67.0311,,Eurostat.
+2013,Sweden,SWE,67.9014,,Eurostat
+2009,Singapore,SGP,74.2972,,Infocomm Development Authority of Singapore
+2010,Singapore,SGP,74.1833,,Infocomm Development Authority of Singapore
+2011,Singapore,SGP,77.107,,Infocomm Development Authority of Singapore
+2013,Singapore,SGP,74.1677,,Infocomm Development Authority of Singapore
+2014,Singapore,SGP,76.2249,,Infocomm Development Authority of Singapore
+2015,Singapore,SGP,79.747,,
+2017,Singapore,SGP,80.8276,,Infocomm Media Development Authority
+2014,Switzerland,CHE,77.2233,,Office fédéral de la statistique
+2017,Switzerland,CHE,72.1763,,Office fédéral de la statistique
+2019,Switzerland,CHE,81.3481,,Office fédéral de la statistique
+2004,Slovenia,SVN,10.1961,,Eurostat
+2005,Slovenia,SVN,19.4202,,Eurostat
+2006,Slovenia,SVN,33.5619,,Eurostat
+2007,Slovenia,SVN,43.6456,,Eurostat
+2008,Slovenia,SVN,49.7196,,Eurostat
+2009,Slovenia,SVN,56.1491,,Eurostat
+2010,Slovenia,SVN,57.7025,,Eurostat.
+2011,Slovenia,SVN,63.1688,,Eurostat.
+2012,Slovenia,SVN,70.5576,,Eurostat.
+2013,Slovenia,SVN,71.7049,,Eurostat
+2017,Slovenia,SVN,76.8967,,Statistical Office of the Republic of Slovenia 
+2018,Slovenia,SVN,84.7206,,Statistical Office of the Republic of Slovenia 
+2019,Slovenia,SVN,83.4489,,Statistical Office of the Republic of Slovenia 
+2020,Slovenia,SVN,79.7589,,Statistical Office of the Republic of Slovenia 
+2003,Czech Republic,CZE,1.47638,,Eurostat
+2004,Czech Republic,CZE,4.45052,,Eurostat
+2005,Czech Republic,CZE,5.06133,,Eurostat
+2006,Czech Republic,CZE,16.5827,,Eurostat
+2007,Czech Republic,CZE,28.0624,,Eurostat
+2008,Czech Republic,CZE,36.405,,Eurostat
+2009,Czech Republic,CZE,48.8914,,Eurostat
+2010,Czech Republic,CZE,52.2875,,Eurostat.
+2011,Czech Republic,CZE,61.6434,,Eurostat.
+2012,Czech Republic,CZE,60.0292,,Eurostat.
+2013,Czech Republic,CZE,65.7341,,Eurostat
+2016,Czech Republic,CZE,35.0335,,Czech Statistical Office
+2017,Czech Republic,CZE,32.2752,,Czech Statistical Office
+2018,Czech Republic,CZE,34.7114,,Czech Statistical Office
+2019,Czech Republic,CZE,35.9279,,Czech Statistical Office
+2008,Thailand,THA,3.73157,population 6 years and over,National Statistical Office
+2009,Thailand,THA,5.29848,,National Statistical Office
+2010,Thailand,THA,6.55074,"Fix broadband include xDSL (SDSL, ADSL, VDSL), Cable modem, Leased line, Satellite, Fibre-to-the-home, Fixed wireless, WiMAX",National Statistical Office
+2011,Thailand,THA,7.44978,"Fixed broadband includes xDSL (ADSL, SDSL, VDSL), Cable modem, Leased line, Satellite, Fibre-to-the-home, Fixed wireless, WiMAX.",National Statistical Office
+2012,Thailand,THA,10.2529,"Fix broadband include xDSL (ADSL, SDSL, VDSL), Cable modem, Leased line, Satellite, Fibre-to-the-home, Fixed wireless, WiMAX",National Statistical Office
+2013,Thailand,THA,12.7494,,National Statistical Office
+2014,Thailand,THA,29.563,,National Statistical Office
+2015,Thailand,THA,8.7422,,
+2016,Thailand,THA,8.96018,,National Statistical Office of Thailand
+2011,Trinidad and Tobago,TTO,30.0235,,Central Statistical Office
+2004,Turkey,TUR,0.229198,,Eurostat
+2005,Turkey,TUR,1.73224,,Eurostat
+2007,Turkey,TUR,16.5457,,Eurostat
+2008,Turkey,TUR,22.1582,,TURKISH STATISTICAL INSTITUTION
+2009,Turkey,TUR,26.1997,,Turkish Statistical Institution
+2010,Turkey,TUR,32.2754,,Eurostat.
+2011,Turkey,TUR,39.2736,,Turkish Statistical Institute
+2012,Turkey,TUR,35.3487,,Turkish Statistical Institution (TurkStat)
+2013,Turkey,TUR,39.3196,,Turkish Statistical Institution (TurkStat)
+2016,Turkey,TUR,39.4938,,Turkish Statistical Institute
+2017,Turkey,TUR,40.0499,,Turkish Statistical Institute
+2018,Turkey,TUR,44.475,,Turkish Statistical Institute
+2019,Turkey,TUR,49.0528,,Turkish Statistical Institute
+2020,Turkey,TUR,50.7786,,Turkish Statistical Institute
+2008,United Arab Emirates,ARE,56.9999,,Telecommunications Regulatory Authority
+2012,United Arab Emirates,ARE,66.0241,,Telecommunications Regulatory Authority 
+2014,United Arab Emirates,ARE,84.9,,Telecommunications Regulatory Authority 
+2016,United Arab Emirates,ARE,84.5871,,Telecommunications Regulatory Authority 
+2018,United Arab Emirates,ARE,91.6,,Telecommunication Regulatory Authority
+2019,United Arab Emirates,ARE,91.6916,,Telecommunication Regulatory Authority
+2020,United Arab Emirates,ARE,98,,Telecommunications & Digital Gevernment Regulatory Authority
+2009,Ukraine,UKR,0,,State Statistics Committee of Ukraine
+2011,Uruguay,URY,31.1921,,Instituto Nacional de Estadistica. Uruguay
+2012,Uruguay,URY,36.5666,,I.N.E
+2009,United States,USA,63.5336,"Incl. DSL, cable modem, fiber optics, satellite, wireless, mobile phone or PDA.",U.S. Census Bureau
+2010,United States,USA,68.2446,"Incl. DSL, cable modem, fiber optics, satellite, wireless, mobile phone or PDA.",US Census Bureau
+2019,United States,USA,70.7689,,U.S. Census Bureau
+2018,Uzbekistan,UZB,2.39595,,The State Committee of the Republic of Uzbekistan on Statistics
+2020,Uzbekistan,UZB,1.23,,The State Committee of the Republic of Uzbekistan on Statistics
+2007,Serbia,SRB,7.28779,,Eurostat
+2009,Serbia,SRB,22.9013,,Eurostat
+2014,Zimbabwe,ZWE,0.663456,,
+2020,Zimbabwe,ZWE,1.29542,,Zimbabwe National Statistics Agency (ZIMSTAT)
+2009,Moldova,MDA,11.506,,THE MINISTRY OF INFORMATION TECHNOLOGY AND COMMUNICATIONS
+2016,Georgia,GEO,44.8372,,Geostat
+2017,Georgia,GEO,42.3107,,Geostat
+2018,Georgia,GEO,51.7393,,National Statistics Office of Georgia - GEOSTAT
+2019,Georgia,GEO,55.6826,,National Statistics Office of Georgia - Geostat
+2020,Georgia,GEO,59.8713,,National Statistics Office of Georgia - Geostat
+2015,Kazakhstan,KAZ,48.4269,,Ministry of National Economy of the Republic of Kazakhstan Committee on Statistics
+2016,Kazakhstan,KAZ,35.5313,,Ministry of National Economy of the Republic of Kazakhstan Committee on Statistics
+2017,Kazakhstan,KAZ,36.565,,Ministry of National Economy of the Republic of Kazakhstan Committee on Statistics
+2018,Kazakhstan,KAZ,42.5116,,Ministry of National Economy of the Republic of Kazakhstan Committee on Statistics
+2019,Kazakhstan,KAZ,42.7149,,Ministry of National Economy of the Republic of Kazakhstan Committee on Statistics
+2020,Kazakhstan,KAZ,46.1834,,Agency for Strategic planning and reforms of the Republic of Kazakhstan Bureau of National statistics
+2004,Slovakia,SVK,3.55187,,Eurostat
+2005,Slovakia,SVK,7.11643,,Eurostat
+2006,Slovakia,SVK,11.417,,Eurostat
+2007,Slovakia,SVK,26.5023,,Eurostat
+2008,Slovakia,SVK,35.33,,Eurostat
+2009,Slovakia,SVK,41.7274,,Eurostat
+2010,Slovakia,SVK,42.0918,,Eurostat.
+2011,Slovakia,SVK,46.3181,,Eurostat.
+2012,Slovakia,SVK,65.3972,,Eurostat.
+2013,Slovakia,SVK,63.1627,,Eurostat
+2006,North Macedonia,MKD,0.867189,,Eurostat
+2008,North Macedonia,MKD,23.0736,,Eurostat
+2009,North Macedonia,MKD,33.8396,,Eurostat
+2010,North Macedonia,MKD,36.8125,,Eurostat.
+2016,"Taiwan, Province of China",TWN,70.77,,
+2017,"Taiwan, Province of China",TWN,72.1,,National Communications Commission
+2018,"Taiwan, Province of China",TWN,72,,National Communications Commission
+2019,"Taiwan, Province of China",TWN,61.37,,National Communications Commission
+2020,"Taiwan, Province of China",TWN,65.79,,National Communications Commission
+2004,Palestine,WBG,1.44688,ADSL,Palestinian Central Bureau of Statistics\ Science and Technology Statistics Department
+2006,Palestine,WBG,1.38809,,Palestinian Central Bureau of Statistics
+2011,Palestine,WBG,21.7904,,Palestinian Central Bureau of Statiatics
+2014,Palestine,WBG,13.9651,,Palestinian Central Bureau of Statistics

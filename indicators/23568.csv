@@ -1,0 +1,79 @@
+year,country,iso,value,note,source
+2016,Saudi Arabia,SAU,10.3174,,CITC
+2018,Saudi Arabia,SAU,64.2874,,Communication and Information Technology Commission
+2019,Saudi Arabia,SAU,69.4556,,Communications andI nformation Technology Commision
+2016,Belgium,BEL,36.3841,,Algemene Directie Statistiek - Statistics Belgium Direction Générale Statistique - Statistics Belgium
+2017,Belgium,BEL,41.6403,,Statbel (Algemene Directie Statistiek - Statistics Belgium) Statbel (Direction générale Statistique - Statistics Belgium)
+2020,Belgium,BEL,27.1464,,Statistics Belgium (Statbel)
+2018,Bahrain,BHR,57.218,,Telecommunications Regulatory Authority (TRA)
+2018,Belarus,BLR,25.4942,,Национальный статистический комитет Республики Беларусь
+2019,Belarus,BLR,27.4634,,Национальный статистический комитет Республики Беларусь
+2020,Belarus,BLR,25.8769,,Национальный статистический комитет Республики Беларусь
+2014,Botswana,BWA,24.1624,,Statistics Botswana
+2019,China,CHN,50.5849,,National Bureau of Statistics
+2020,China,CHN,51.5076,,National Bureau of Statistics of China
+2018,Colombia,COL,44.7651,,Departamento Administrativo Nacional de Estadística - DANE
+2019,Cabo Verde,CPV,46.6656,,INSTITUTO NACIONAL DE ESTATISTICA
+2019,Côte d'Ivoire,CIV,15.7992,,ARTCI
+2017,Denmark,DNK,20.1659,,Statistics Denmark 
+2015,Egypt,EGY,66.7968,,Central Agency For Public Mobilization And Statistics (CAPMAS)
+2016,Egypt,EGY,53.4317,,Central Agency For Public Mobilization And Statistics (CAPMAS)
+2017,Egypt,EGY,49.3724,,Central Agency For Public Mobilization And Statistics (CAPMAS)
+2018,Egypt,EGY,50.3036,,Ministry of Communications and Information Technology
+2019,Egypt,EGY,39.2515,,Ministry of Communications and Information Technology
+2020,Egypt,EGY,39.2515,,Ministry of Communications and Information Technology
+2015,Iran (Islamic Republic of),IRN,30.1547,,Statistical Centre of Iran
+2017,Iran (Islamic Republic of),IRN,26.9801,,Statistical Centre of Iran
+2017,Jamaica,JAM,33.7316,,Statistical Institute of Jamaica
+2015,Kenya,KEN,29.4383,,KENYA NATIONAL BUREAU OF STATISTICS
+2015,Korea (Rep. of),KOR,57.8555,,"Ministry of Science, ICT & Future Planning(MSIP)"
+2016,Korea (Rep. of),KOR,55.1475,,Ministry of Science and ICT(MSIT)
+2017,Korea (Rep. of),KOR,54.8447,,Ministriy of Sceience and ICT(MSIT)
+2018,Korea (Rep. of),KOR,52.6064,,Ministriy of Sceience and ICT(MSIT)
+2019,Korea (Rep. of),KOR,66.971,,Ministriy of Sceience and ICT(MSIT)
+2020,Korea (Rep. of),KOR,53.6905,,Ministriy of Sceience and ICT(MSIT)
+2016,Lesotho,LSO,59.4208,,
+2016,"Macao, China",MAC,64.1459,,Statistics and Census Service
+2017,"Macao, China",MAC,62.3677,,Statistics and Census Service
+2018,"Macao, China",MAC,60.6863,,Statistics and Census Service
+2015,Mexico,MEX,64.7096,,Instituto Nacional de Estadística y Geografía (INEGI)
+2016,Mexico,MEX,62.9698,,Instituto Nacional de Estadística y Geografía (INEGI)
+2017,Mexico,MEX,60.3111,,Instituto Nacional de Estadística y Geografía (INEGI)
+2018,Mexico,MEX,60.6465,,Instituto Nacional de Estadística y Geografía (INEGI)
+2019,Mexico,MEX,58.5347,,Instituto Nacional de Estadística y Geografía (INEGI)
+2020,Mexico,MEX,48.4961,,Instituto Nacional de Estadística y Geografía (INEGI)
+2016,Morocco,MAR,61.4222,,Agence Nationale de Réglementation des Télécommunications (ANRT)
+2017,Morocco,MAR,53.6723,,Agence Nationale de Réglementation des Télécommunications (ANRT)
+2018,Morocco,MAR,59.7178,,Agence Nationale de Réglementation des Télécommunications (ANRT)
+2017,Norway,NOR,13.2229,,Statistics Norway
+2016,Oman,OMN,36.9675,,Information Technology Authority (ITA) 
+2020,Oman,OMN,31.2334,,"Ministry of Transport, Communications and Information Technology "
+2016,Poland,POL,58.9522,,the Statistical Office in Szczecin 
+2017,Poland,POL,58.1165,,
+2018,Poland,POL,57.7814,,Statistics Poland
+2019,Poland,POL,58.9054,,Statistics Poland
+2018,Qatar,QAT,68.07,,Ministry Of Transport and Communications
+2015,Russian Federation,RUS,19.3533,,Federal State Statistics Service (Rosstat)
+2016,Russian Federation,RUS,22.1708,,Federal State Statistics Service (Rosstat)
+2017,Russian Federation,RUS,24.3544,,Federal State Statistics Service (ROSSTAT)
+2018,Russian Federation,RUS,26.7776,,Federal State Statistics Service (Rosstat) 
+2019,Russian Federation,RUS,27.3103,,Federal State Statistics Service (Rosstat) 
+2020,Russian Federation,RUS,30.4411,,Federal State Statistics Service
+2016,Sweden,SWE,17.832,,Statistics Sweden
+2017,Singapore,SGP,59.5928,,Infocomm Media Development Authority
+2017,Thailand,THA,30.5062,,National Statistical Office of Thailand
+2019,Thailand,THA,47.6767,,National Statistical Office of Thailand
+2020,Thailand,THA,55.3567,,National Statistical Office of Thailand
+2018,United Arab Emirates,ARE,1.4,,Telecommunication Regulatory Authority
+2019,United Arab Emirates,ARE,1.51606,,Telecommunication Regulatory Authority
+2020,Ukraine,UKR,15.1501,,State Statistics Service of Ukraine
+2018,Uzbekistan,UZB,17.2641,,The State Committee of the Republic of Uzbekistan on Statistics
+2020,Uzbekistan,UZB,6.92042,,The State Committee of the Republic of Uzbekistan on Statistics
+2020,Serbia,SRB,9.16869,,Statistical office of the Republic of Serbia
+2020,Zimbabwe,ZWE,33.1594,,Zimbabwe National Statistics Agency (ZIMSTAT)
+2019,Georgia,GEO,70.9513,,National Statistics Office of Georgia - Geostat
+2020,Georgia,GEO,72.7358,,National Statistics Office of Georgia - Geostat
+2017,Kazakhstan,KAZ,16.5593,,Ministry of National Economy of the Republic of Kazakhstan Committee on Statistics
+2018,Kazakhstan,KAZ,18.7567,,Ministry of National Economy of the Republic of Kazakhstan Committee on Statistics
+2019,Kazakhstan,KAZ,17.4496,,Ministry of National Economy of the Republic of Kazakhstan Committee on Statistics
+2020,Kazakhstan,KAZ,16.23,,Agency for Strategic planning and reforms of the Republic of Kazakhstan Bureau of National statistics

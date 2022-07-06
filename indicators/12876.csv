@@ -1,0 +1,654 @@
+year,country,iso,value,note,source
+2020,Angola,AGO,,,
+2020,Albania,ALB,800MHz (790MHz-862MHz) allocated 2x10MHz and 1x10MHz is free and planned to be tendered in 2020.,,
+2016,Andorra,AND,,,
+2018,Argentina,ARG,AS-UIT (APT 700),,
+2019,Argentina,ARG,AS-UIT (APT 700),,
+2020,Argentina,ARG,AS-UIT (APT 700),,
+2013,Armenia,ARM,Band 20,,
+2014,Armenia,ARM,Band 20,,
+2015,Armenia,ARM,Band 20,,
+2016,Armenia,ARM,Band 20,,
+2018,Armenia,ARM,Band 20,,
+2019,Armenia,ARM,Band 20,,
+2020,Armenia,ARM,Band 20,,
+2014,Saudi Arabia,SAU,"1- (790-791) MHZ GUARD BAND
+2- 30 MHZ (6 BPOCS OF 5 MHZ) AND (791 - 821/ 832- 862)MHZ FOR UPLINK AND DOWNLINK RESPECTIVELY
+3- 821 - 832 MHZ UPTEX GP",,
+2015,Saudi Arabia,SAU,1- (790-791) MHZ GUARD BAND 2- 30 MHZ (6 BPOCS OF 5 MHZ) AND (791 - 821/ 832- 862)MHZ FOR UPLINK AND DOWNLINK RESPECTIVELY 3- 821 - 832 MHZ UPTEX GP,,
+2016,Saudi Arabia,SAU,1- (790-791) MHZ GUARD BAND 2- 30 MHZ (6 BPOCS OF 5 MHZ) AND (791 - 821/ 832- 862)MHZ FOR UPLINK AND DOWNLINK RESPECTIVELY 3- 821 - 832 MHZ UPTEX GP,,
+2017,Saudi Arabia,SAU,1- (790-791) MHZ GUARD BAND 2- 30 MHZ (6 BPOCS OF 5 MHZ) AND (791 - 821/ 832- 862)MHZ FOR UPLINK AND DOWNLINK RESPECTIVELY 3- 821 - 832 MHZ UPTEX GP,,
+2018,Saudi Arabia,SAU,1- (790-791) MHZ GUARD BAND 2- 30 MHZ (6 BPOCS OF 5 MHZ) AND (791 - 821/ 832- 862)MHZ FOR UPLINK AND DOWNLINK RESPECTIVELY 3- 821 - 832 MHZ UPTEX GP 4- (698-733)/(753-788) MHz,,
+2019,Saudi Arabia,SAU,1- (790-791) MHZ GUARD BAND 2- 30 MHZ (6 BPOCS OF 5 MHZ) AND (791 - 821/ 832- 862)MHZ FOR UPLINK AND DOWNLINK RESPECTIVELY 3- 821 - 832 MHZ UPTEX GP 4- (698-733)/(753-788) MHz,,
+2020,Saudi Arabia,SAU,1- (790-791) MHZ GUARD BAND 2- 30 MHZ (6 BPOCS OF 5 MHZ) AND (791 - 821/ 832- 862)MHZ FOR UPLINK AND DOWNLINK RESPECTIVELY 3- 821 - 832 MHZ UPTEX GP 4- (698-733)/(753-788) MHz,,
+2013,Antigua and Barbuda,ATG,"Band 12: 698-716 Uplink	728-746 Downlink
+Band 13: 777-787 Uplink	746-756 Downlink
+Band 17: 704-716 Uplink	734-746 Downlink
+
+
+
+",,
+2013,Australia,AUS,"703–748 and 758–803 MHz, as per the APT 700 MHz band plan.
+ 
+Will be reallocated on 1 Jan 2015",,
+2014,Australia,AUS,"703–748 and 758–803 MHz, as per the APT 700 MHz band plan. ",,
+2015,Australia,AUS,"703–748 and 758–803 MHz, as per the APT 700 MHz band plan. ",,
+2017,Australia,AUS,"703–748 and 758–803 MHz, as per the APT 700 MHz band plan. ",,
+2018,Australia,AUS,"703–748 and 758–803 MHz, as per the APT 700 MHz band plan. ",,
+2019,Australia,AUS,"703–748 and 758–803 MHz, as per the APT 700 MHz band plan. ",,
+2020,Australia,AUS,"703–748 and 758–803 MHz, as per the APT 700 MHz band plan",,
+2014,Austria,AUT,,,
+2015,Austria,AUT,,,
+2016,Austria,AUT,,,
+2017,Austria,AUT,,,
+2018,Austria,AUT,,,
+2019,Austria,AUT,,,
+2014,Azerbaijan,AZE,"3GPP (BAND 13,14)",,
+2015,Azerbaijan,AZE,"3GPP (BAND 13,14)",,
+2016,Azerbaijan,AZE,,,
+2017,Azerbaijan,AZE,,,
+2018,Azerbaijan,AZE,,,
+2019,Azerbaijan,AZE,,,
+2020,Azerbaijan,AZE,,,
+2014,Brazil,BRA,APT band plan,,
+2015,Brazil,BRA,APT band plan (3GPP Band 28),,
+2016,Brazil,BRA,APT band plan (3GPP Band 28),,
+2017,Brazil,BRA,APT band plan (3GPP Band 28),,
+2018,Brazil,BRA,APT band plan (3GPP Band 28),,
+2019,Brazil,BRA,APT band plan (3GPP Band 28),,
+2020,Brazil,BRA,APT band plan (3GPP Band 28),,
+2013,Bahamas,BHS,"698 - 806, 
+700 MHz band plan divides the band into 6MHz blocks, aligned broadly with FCC Band plan. ",,
+2014,Bahamas,BHS,,,
+2016,Burundi,BDI,,,
+2019,Burundi,BDI,La bande a été arrangé en 6 blocs appariés de 5 MHZ chacun,,
+2020,Burundi,BDI,La bande a été arrangé en 6 blocs appariés de 5 MHZ chacun,,
+2014,Belgium,BEL,FDD bande 791-821MHz couplée avec 832-862 MHz,,
+2016,Belgium,BEL,,,
+2017,Belgium,BEL,le plan 700 MHz et 800 MHz de la CEPT,,
+2018,Belgium,BEL,le plan 700 MHz et 800 MHz de la CEPT,,
+2019,Belgium,BEL,le plan 700 MHz et 800 MHz de la CEPT,,
+2020,Belgium,BEL,le plan 700 MHz et 800 MHz de la CEPT,,
+2014,Benin,BEN,,,
+2015,Benin,BEN,,,
+2016,Benin,BEN,"700Mhz (703-733Mhz/758-788Mhz)
+800Mhz (832-862Mhz/791-821Mhz)",,
+2017,Benin,BEN,700Mhz (703-733Mhz/758-788Mhz) 800Mhz (832-862Mhz/791-821Mhz),,
+2018,Benin,BEN,700Mhz (703-733Mhz/758-788Mhz) 800Mhz (832-862Mhz/791-821Mhz),,
+2019,Benin,BEN,700Mhz (703-733Mhz/758-788Mhz) 800Mhz (832-862Mhz/791-821Mhz),,
+2020,Benin,BEN,700Mhz (703-733Mhz/758-788Mhz) 800Mhz (832-862Mhz/791-821Mhz),,
+2013,Belarus,BLR,,,
+2018,Belarus,BLR,,,
+2019,Belarus,BLR,,,
+2020,Belarus,BLR,,,
+2014,Belize,BLZ,512 - 806.  Band Plan not yet adopted.,,
+2016,Belize,BLZ,,,
+2019,Bolivia (Plurinational State of),BOL,"Sub Banda  Banda[MHz]    Sub Banda  Banda[MHz] 
+A  704  716                 A´  734  746 
+B  746  756                 B´  777  787 ",,
+2018,Brunei Darussalam,BRN,Apt 700MHz band plan,,
+2019,Brunei Darussalam,BRN,Apt 700MHz band plan,,
+2020,Bhutan,BTN,,,
+2016,Bulgaria,BGR,The proposal is the frequency bands 811-821 MHz and 852-862 MHz to be allocated for civil needs for mobile networks if there is a protection from harmful interference for the use of radio frequency equipment in adjacent bands for the needs of the Ministry of defense.,,
+2017,Bulgaria,BGR,Block sizes shall be in multiples of 5 MHz: 811-816 MHz/852-857 MHz and 816-821 MHz/857-862 MHz,,
+2018,Bulgaria,BGR,Block sizes shall be in multiples of 5 MHz: 811-816 MHz/852-857 MHz and 816-821 MHz/857-862 MHz,,
+2019,Bulgaria,BGR,Block sizes shall be in multiples of 5 MHz: 811-816 MHz/852-857 MHz and 816-821 MHz/857-862 MHz,,
+2020,Bulgaria,BGR,Block sizes shall be in multiples of 5 MHz: 811-816 MHz/852-857 MHz and 816-821 MHz/857-862 MHz,,
+2014,Central African Rep.,CAF,,,
+2013,Canada,CAN,http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf10354.html,,
+2015,Canada,CAN,698-806 MHz,,
+2016,Canada,CAN,698-806 MHz,,
+2017,Canada,CAN,698-806 MHz,,
+2018,Canada,CAN,698-806 MHz,,
+2019,Canada,CAN,698-806 MHz,,
+2020,Canada,CAN,698-806 MHz,,
+2014,Cambodia,KHM,Harmonized FDD arrangement of 698-806 MHz band in Region3   ,,
+2015,Cambodia,KHM,Harmonized FDD arrangement of 698-806 MHz band in Region 3,,
+2016,Cambodia,KHM,Harmonized FDD arrangement of 698-806 MHz band in Region 3,,
+2017,Cambodia,KHM,"
+Harmonized FDD arrangement of 698-806 MHz band in Region 3",,
+2018,Cambodia,KHM,Harmonized FDD arrangement of 698-806 MHz band in Region 3,,
+2019,Cambodia,KHM,Harmonized FDD arrangement of 698-806 MHz band in Region 3,,
+2020,Cambodia,KHM,Harmonized FDD arrangement of 698-806 MHz band in Region 3,,
+2013,Chile,CHL,"703-713 MHz pareada con 758-768 MHz Reservada
+
+713-723 MHz pareada con 768-778 MHz Concurso en trámite
+
+723-738 MHz pareada con 778-793 MHz Concurso en trámite
+
+738-748 MHz pareada con 793-803 MHz Concurso en trámite
+",,
+2014,Chile,CHL,703-713 MHz pareada con 758-768 MHz Reservada 713-723 MHz pareada con 768-778 MHz Concurso en trámite 723-738 MHz pareada con 778-793 MHz Concurso en trámite 738-748 MHz pareada con 793-803 MHz Concurso en trámite,,
+2015,Chile,CHL,703-713 MHz pareada con 758-768 MHz Reservada 713-723 MHz pareada con 768-778 MHz; 723-738 MHz pareada con 778-793 MHz; 738-748 MHz pareada con 793-803 MHz.,,
+2018,Chile,CHL,703-713 MHz / 758-768 MHz: PPDR. 713-723 MHz / 768-778 MHz: Operador 1. 723-738 MHz / 778-793 MHz: Operador 2. 738-748 MHz / 793-803 MHz: Operador 3.,,
+2019,Chile,CHL,703-713 MHz / 758-768 MHz: PPDR. 713-723 MHz / 768-778 MHz: Operador 1. 723-738 MHz / 778-793 MHz: Operador 2. 738-748 MHz / 793-803 MHz: Operador 3.,,
+2020,Chile,CHL,703-713 MHz / 758-768 MHz: PPDR. 713-723 MHz / 768-778 MHz: Operador 1. 723-738 MHz / 778-793 MHz: Operador 2. 738-748 MHz / 793-803 MHz: Operador 3.,,
+2019,China,CHN,to be futhur studied,,
+2020,China,CHN,702-798MHz,,
+2013,Colombia,COL,,,
+2018,Colombia,COL,Información disponible en https://www.ane.gov.co/images/ArchivosDescargables/Planeacion/cnabf/CNABF.pdf,,
+2019,Colombia,COL,Información disponible en https://www.ane.gov.co/images/ArchivosDescargables/Planeacion/cnabf/CNABF.pdf,,
+2020,Colombia,COL,Información disponible en https://www.ane.gov.co/images/ArchivosDescargables/Planeacion/cnabf/CNABF.pdf,,
+2015,Cameroon,CMR,,,
+2013,Congo (Rep. of the),COG,"Ecart Duplex 45 MHz; taille du canal 1,25 MHz",,
+2014,Congo (Rep. of the),COG,"Ecart Duplex 45 MHz; taille du canal 1,25 MHz",,
+2015,Congo (Rep. of the),COG,"Ecart Duplex 45 MHz; taille du canal 1,25 MHz",,
+2017,Congo (Rep. of the),COG,790-821 MHz (down Link) et 832-862 MHz (down Link),,
+2018,Congo (Rep. of the),COG,790-821 MHz (down Link) et 832-862 MHz (down Link),,
+2019,Congo (Rep. of the),COG,790-821 MHz (down Link) et 832-862 MHz (down Link),,
+2020,Congo (Rep. of the),COG,790-821 MHz (down Link) et 832-862 MHz (down Link),,
+2016,Comoros,COM,,,
+2018,Comoros,COM,en cours ,,
+2019,Comoros,COM,en cours ,,
+2018,Cuba,CUB,En estudio dentro de la banda de 700 MHz,,
+2019,Cuba,CUB,En estudio dentro de la banda de 700 MHz,,
+2020,Cuba,CUB,En estudio dentro de la banda de 700 MHz,,
+2017,Cyprus,CYP,"FDD:  downlink: 791-821 MHz, uplink: 832-862 MHz",,
+2018,Cyprus,CYP,"FDD: downlink: 791-821 MHz, uplink: 832-862 MHz",,
+2019,Cyprus,CYP,"FDD: downlink: 791-821 MHz, uplink: 832-862 MHz",,
+2020,Cyprus,CYP,"FDD: downlink: 791-821 MHz, uplink: 832-862 MHz
+",,
+2013,Germany,DEU,CEPT Bandplan,,
+2014,Germany,DEU,CEPT Bandplan,,
+2015,Germany,DEU,"CEPT Bandplan
+
+Comment on 4.9.9.5: It is intended to allocate spectrum in the 700 MHz range for PPDR services. Final decision will depend on international harmonisation.",,
+2016,Germany,DEU,CEPT Bandplan Comment on 4.9.9.5: It is intended to allocate spectrum in the 700 MHz range for PPDR services. Final decision will depend on international harmonisation.,,
+2018,Germany,DEU,CEPT Bandplan in accordance with ECC Decision (15)01 (700 MHz) and ECC Decision (09)03 (800 MHz),,
+2019,Germany,DEU,CEPT Bandplan in accordance with ECC Decision (15)01 (700 MHz) and ECC Decision (09)03 (800 MHz),,
+2020,Germany,DEU,CEPT Bandplan in accordance with ECC Decision (15)01 (700 MHz) and ECC Decision (09)03 (800 MHz),,
+2019,Denmark,DNK,"FDD DL: 791-821 MHz, UL: 832-862 MHz (3GPP Band 20). ",,
+2014,Dominican Rep.,DOM,"Según establece nuestro Plan Nacional de Atribución de Frecuencias (PNAF), este cambio de atribución del dividendo digital entrará en efecto una vez vencido el plazo para la transición de la televisión terrestre analógica a digital. La fecha fijada por decreto presidencial para el apagón analógico es septiembre de 2015.",,
+2015,Dominican Rep.,DOM,Igual al anterior pero se pospuso para el año 2021,,
+2016,Dominican Rep.,DOM,Igual al anterior pero se pospuso para el año 2021,,
+2017,Dominican Rep.,DOM,Igual al anterior pero se pospuso para el año 2021,,
+2018,Dominican Rep.,DOM,No se ha definido el Plan de banda,,
+2013,Spain,ESP,De acuerdo a lo establecido en la Decisión 2010/267/UE de la Union Europea.,,
+2014,Spain,ESP,De acuerdo a lo establecido en la Decisión 2010/267/UE de la Union Europea.,,
+2015,Spain,ESP,De acuerdo a lo establecido en la Decisión 2010/267/UE de la Union Europea,,
+2016,Spain,ESP,"Plan de bandas establecido en la Decisión de la Comisión 2010/267/UE.
+
+Para PPDR podría reservarse espectro en la banda de 700 MHz pero habrá que esperar a su liberación que no llegará antes de 2020.",,
+2017,Spain,ESP,Plan de bandas establecido en la Decisión de la Comisión 2010/267/UE. Para PPDR podría reservarse espectro en la banda de 700 MHz pero habrá que esperar a su liberación que no llegará antes de 2020.,,
+2018,Spain,ESP,Plan de bandas establecido en la Decisión de la Comisión 2010/267/UE. Para PPDR podría reservarse espectro en la banda de 700 MHz pero habrá que esperar a su liberación que no llegará antes de 2020.,,
+2019,Spain,ESP,Estados miembros adoptarán y harán público el plan y el calendario establecidos a escala nacional («hoja de ruta nacional») para la liberación de la banda de 700 MHz,,
+2020,Spain,ESP,"Estados miembros adoptarán y harán público el plan y el calendario establecidos a escala nacional («hoja de ruta nacional») para la liberación de la banda de 700 MHz
+",,
+2018,Egypt,EGY,A7,,
+2019,Egypt,EGY,A7 703-733/758-788 MHz,,
+2020,Egypt,EGY,2x30 MHz,,
+2018,Ecuador,ECU,En el 2012 se adoptó la segmentación A5 propuesta por la APT,,
+2019,Ecuador,ECU,En el 2012 se adoptó la segmentación A5 propuesta por la APT,,
+2020,Ecuador,ECU,En el 2012 se adoptó la segmentación A5 propuesta por la APT,,
+2015,Estonia,EST,We have to use Band plan set in European Commission Decision 2010/267/EU.,,
+2016,Estonia,EST,European Commission Decision EU/2016/687,,
+2017,Estonia,EST,European Commission Decision EU/2016/687,,
+2018,Estonia,EST,European Commission Decision EU/2016/687,,
+2019,Estonia,EST,European Commission Decision EU/2016/687,,
+2020,Estonia,EST,European Commission Decision EU/2016/687,,
+2013,France,FRA,"liaison descendante : 791-821 MHz et 
+liaison montante : 832-862 MHz",,
+2014,France,FRA,liaison descendante : 791-821 MHz et liaison montante : 832-862 MHz,,
+2015,France,FRA,liaison descendante : 791-821 MHz et liaison montante : 832-862 MHz,,
+2016,France,FRA,liaison descendante : 703-733 Mhz et laison montante : 758-788 MHz,,
+2017,France,FRA,liaison descendante : 703-733 Mhz et laison montante : 758-788 MHz,,
+2018,France,FRA,liaison descendante : 703-733 Mhz et laison montante : 758-788 MHz,,
+2019,France,FRA,"liaisons descendantes : 703-733 MHz et 832-862 MHz
+liaisons montantes : 758-788 MHz et 791-821 MHz",,
+2020,France,FRA,"liaisons descendantes : 703-733 MHz et 832-862 MHz
+liaisons montantes : 758-788 MHz et 791-821 MHz",,
+2013,Finland,FIN,The band plan in use is DL 791-821 MHz/ UL 832-862 MHz.,,
+2014,Finland,FIN,,,
+2015,Finland,FIN,,,
+2016,Finland,FIN,,,
+2017,Finland,FIN,4G ,,
+2018,Finland,FIN,4G,,
+2019,Finland,FIN,4G,,
+2020,Finland,FIN,4G,,
+2014,United Kingdom,GBR,,,
+2018,United Kingdom,GBR,,,
+2019,United Kingdom,GBR,,,
+2020,United Kingdom,GBR,,,
+2015,Gabon,GAB,Voir recommandation UIT-R M.1036,,
+2017,Gabon,GAB,Voir recommandation UIT M.1032 A2,,
+2018,Gabon,GAB,Voir recommandation UIT M.1032 A2,,
+2019,Gabon,GAB,Voir recommandation UIT M.1032 A2,,
+2020,Gabon,GAB,Voir recommandation UIT M.1032 A2,,
+2018,Ghana,GHA,,,
+2019,Ghana,GHA,,,
+2020,Ghana,GHA,,,
+2014,Equatorial Guinea,GNQ,,,
+2015,Equatorial Guinea,GNQ,,,
+2016,Equatorial Guinea,GNQ,,,
+2018,Equatorial Guinea,GNQ,,,
+2013,Greece,GRC,,,
+2014,Greece,GRC,RRC-06,,
+2015,Greece,GRC,,,
+2016,Greece,GRC,ECC/DEC/(09)03Harmonised conditions for MFCN in the band 790-862 MHz,,
+2017,Greece,GRC,ECC/DEC/(09)03Harmonised conditions for MFCN in the band 790-862 MHz,,
+2018,Greece,GRC,ECC/DEC/(09)03Harmonised conditions for MFCN in the band 790-862 MHz,,
+2019,Greece,GRC,ECC/DEC/(09)03Harmonised conditions for MFCN in the band 790-862 MHz,,
+2020,Greece,GRC,ECC/DEC/(09)03Harmonised conditions for MFCN in the band 790-862 MHz,,
+2020,Grenada,GRD,US 700MHz band plan ,,
+2017,Guinea,GIN,,,
+2018,Guinea,GIN,,,
+2014,Honduras,HND,"Bloque	Frecuencia de Móvil (MHz)	Frecuencia de Base (MHz)
+A	703 - 718	                758 - 773
+B	718 - 733	                773 - 788
+C	733 - 748	                788 - 803
+",,
+2018,Honduras,HND,ARREGLO A5 UIT,,
+2019,Honduras,HND,ARREGLO A5 UIT,,
+2020,Honduras,HND,ARREGLO A5 UIT,,
+2013,Hungary,HUN,"1	791–796 MHz	832–837 MHz
+2	796–801 MHz	837–842 MHz
+3	801–806 MHz	842–847 MHz
+4	806–811 MHz	847–852 MHz
+5	811–816 MHz	852–857 MHz
+6	816–821 MHz	857–862 MHz
+",,
+2014,Hungary,HUN,1 791–796 MHz 832–837 MHz 2 796–801 MHz 837–842 MHz 3 801–806 MHz 842–847 MHz 4 806–811 MHz 847–852 MHz 5 811–816 MHz 852–857 MHz 6 816–821 MHz 857–862 MHz ,,
+2020,Hungary,HUN,"Terrestrial systems capable of providing electronic communications services in the band 790-862 MHz
+
+
+ ",,
+2013,Croatia,HRV,FDD,,
+2014,Croatia,HRV,FDD,,
+2015,Croatia,HRV,FDD,,
+2016,Croatia,HRV,FDD,,
+2017,Croatia,HRV,FDD,,
+2018,Croatia,HRV,FDD,,
+2019,Croatia,HRV,FDD,,
+2020,Croatia,HRV,FDD,,
+2014,Italy,ITA,"2*30 mhz european arrangment with a duplex gap of 11 mhz based on blocksize of 5 mhz, paired and with reverse duplex direction and a guard band of 1 mhz starting at 790 mhz",,
+2016,Indonesia,IDN,4G-LTE,,
+2017,Indonesia,IDN,4G-LTE,,
+2018,Indonesia,IDN,4G-LTE,,
+2013,Ireland,IRL,"The 790-862 MHz band is split into 6 blocks, each block being 5x2 MHz wide. The 6 blocks are divided over the frequency range 791 - 821 MHz paired with 832 - 862 MHz.
+
+Further information relating to the band plan is available on the ComReg website, at:
+http://www.comreg.ie/radio_spectrum/search.541.874.10031.0.rslicensing.html",,
+2014,Ireland,IRL,"The 790-862 MHz band is split into 6 blocks, each block being 5x2 MHz wide. The 6 blocks are divided over the frequency range 791 - 821 MHz paired with 832 - 862 MHz. Further information relating to the band plan is available on the ComReg website, at: http://www.comreg.ie/radio_spectrum/search.541.874.10031.0.rslicensing.html",,
+2015,Ireland,IRL,"The 790-862 MHz band is split into 6 blocks, each block being 5x2 MHz wide. The 6 blocks are divided over the frequency range 791 - 821 MHz paired with 832 - 862 MHz. Further information relating to the band plan is available on the ComReg website, at: http://www.comreg.ie/radio_spectrum/search.541.874.10031.0.rslicensing.html",,
+2016,Ireland,IRL,"The 790-862 MHz band is split into 6 blocks, each block being 5x2 MHz wide. The 6 blocks are divided over the frequency range 791 - 821 MHz paired with 832 - 862 MHz. Further information relating to the band plan is available on the ComReg website, at: 
+http://www.comreg.ie/industry/radio-spectrum/spectrum-awards/multi-band-spectrum-award-2012/",,
+2020,Ireland,IRL,See page 13 of ComReg document 12/52.,,
+2013,Iceland,ISL,791-821 MHz/832-862MHz is used for mobile service,,
+2014,Iceland,ISL,791-821 MHz/832-862MHz is used for mobile service,,
+2015,Iceland,ISL,791-821 MHz/832-862MHz is used for mobile service,,
+2016,Iceland,ISL,791-821 MHz/832-862MHz is used for mobile service,,
+2017,Iceland,ISL,791-821 MHz/832-862MHz is used for mobile service,,
+2018,Iceland,ISL,791-821 MHz/832-862MHz is used for mobile service,,
+2019,Iceland,ISL,791-821 MHz/832-862MHz is used for mobile service,,
+2020,Iceland,ISL,791-821 MHz/832-862MHz is used for mobile service,,
+2020,Israel,ISR,Band 28,,
+2013,Japan,JPN,"Mobile 718MHz～748MHz(UE), 773-803MHz(BS)",,
+2014,Japan,JPN,"170-202.5MHz was secured for PPDR
+710-714MHz was secured for radio microphone
+718-748MHz was secured for IMT (handsets). 
+(773-803MHz (base stations) is used for the pair of 718-748MHz. 
+773-803MHz was secured by frequency reallocation of the radio stations except for the process of Analogue to Digital TV transition.)
+755-765MHz was secured for ITS.
+
+Note: With regard to the Digital Dividend, the National frequency allocation table was revised in April 2014. Analogue TV had used 90-108MHz, 170-222MHz and 470-770MHz, but after Analogue to Digital transition it was compressed to 470-710MHz. Therefore, the frequency range of 90-108MHz, 170-222MHz and 710-770MHz were secured for new applications such as IMT.",,
+2015,Japan,JPN,"170-202.5MHz was secured for PPDR 
+710-714MHz was secured for radio microphone 
+718-748MHz was secured for IMT (handsets). (773-803MHz (base stations) is used for the pair of 718-748MHz. 773-803MHz was secured by frequency reallocation of the radio stations except for the process of Analogue to Digital TV transition.) 
+755-765MHz was secured for ITS. 
+Note: With regard to the Digital Dividend, the National frequency allocation table was revised in April 2014. Analogue TV had used 90-108MHz, 170-222MHz and 470-770MHz, but after Analogue to Digital transition it was compressed to 470-710MHz. Therefore, the frequency range of 90-108MHz, 170-222MHz and 710-770MHz were secured for new applications such as IMT.
+
+",,
+2016,Japan,JPN,"170-202.5MHz was secured for PPDR 
+710-714MHz was secured for radio microphone 
+718-748MHz was secured for IMT (handsets). (773-803MHz (base stations) is used for the pair of 718-748MHz. 773-803MHz was secured by frequency reallocation of the radio stations except for the process of Analogue to Digital TV transition.) 
+755-765MHz was secured for ITS. 
+Note: With regard to the Digital Dividend, the National frequency allocation table was revised in April 2014. Analogue TV had used 90-108MHz, 170-222MHz and 470-770MHz, but after Analogue to Digital transition it was compressed to 470-710MHz. Therefore, the frequency range of 90-108MHz, 170-222MHz and 710-770MHz were secured for new applications such as IMT.",,
+2017,Japan,JPN,"170-202.5MHz was secured for PPDR 710-714MHz was secured for radio microphone 718-748MHz was secured for IMT (handsets). (773-803MHz (base stations) is used for the pair of 718-748MHz. 773-803MHz was secured by frequency reallocation of the radio stations except for the process of Analogue to Digital TV transition.) 755-765MHz was secured for ITS. Note: With regard to the Digital Dividend, the National frequency allocation table was revised in April 2014. Analogue TV had used 90-108MHz, 170-222MHz and 470-770MHz, but after Analogue to Digital transition it was compressed to 470-710MHz. Therefore, the frequency range of 90-108MHz, 170-222MHz and 710-770MHz were secured for new applications such as IMT.",,
+2018,Japan,JPN,"170-202.5MHz was secured for PPDR 710-714MHz was secured for radio microphone 718-748MHz was secured for IMT (handsets). (773-803MHz (base stations) is used for the pair of 718-748MHz. 773-803MHz was secured by frequency reallocation of the radio stations except for the process of Analogue to Digital TV transition.) 755-765MHz was secured for ITS. Note: With regard to the Digital Dividend, the National frequency allocation table was revised in April 2014. Analogue TV had used 90-108MHz, 170-222MHz and 470-770MHz, but after Analogue to Digital transition it was compressed to 470-710MHz. Therefore, the frequency range of 90-108MHz, 170-222MHz and 710-770MHz were secured for new applications such as IMT.",,
+2019,Japan,JPN,"170-202.5MHz was secured for PPDR 710-714MHz was secured for radio microphone 718-748MHz was secured for IMT (handsets). (773-803MHz (base stations) is used for the pair of 718-748MHz. 773-803MHz was secured by frequency reallocation of the radio stations except for the process of Analogue to Digital TV transition.) 755-765MHz was secured for ITS. Note: With regard to the Digital Dividend, the National frequency allocation table was revised in April 2014. Analogue TV had used 90-108MHz, 170-222MHz and 470-770MHz, but after Analogue to Digital transition it was compressed to 470-710MHz. Therefore, the frequency range of 90-108MHz, 170-222MHz and 710-770MHz were secured for new applications such as IMT.",,
+2020,Japan,JPN,"170-202.5MHz was secured for PPDR 710-714MHz was secured for radio microphone 718-748MHz was secured for IMT (handsets). (773-803MHz (base stations) is used for the pair of 718-748MHz. 773-803MHz was secured by frequency reallocation of the radio stations except for the process of Analogue to Digital TV transition.) 755-765MHz was secured for ITS. Note: With regard to the Digital Dividend, the National frequency allocation table was revised in April 2014. Analogue TV had used 90-108MHz, 170-222MHz and 470-770MHz, but after Analogue to Digital transition it was compressed to 470-710MHz. Therefore, the frequency range of 90-108MHz, 170-222MHz and 710-770MHz were secured for new applications such as IMT.",,
+2019,Kenya,KEN,APT 700 Plan 42,,
+2020,Kenya,KEN,"800 MHz (790-862 MHz) band plan (i.e. 3GPP band 20) 
+700 MHz (703-788 MHz) band plan (i.e. 3GPP band 28) 
+",,
+2019,Korea (Rep. of),KOR,,,
+2020,Korea (Rep. of),KOR,"Mobile Network (not in use) : 727~748, 783~803 Mhz",,
+2018,Kuwait,KWT,"Band 28 (703 MHz – 733 MHz), (758 MHz – 788 MHz)",,
+2019,Kuwait,KWT,"Band 28 (703 MHz – 733 MHz), (758 MHz – 788 MHz)",,
+2020,Kuwait,KWT,"Band 28 (703 MHz – 733 MHz), (758 MHz – 788 MHz)",,
+2018,Liberia,LBR,"800MHz(791MHz-821MHz) , (832-862)  
+
+700MHz(703MHz-733MHz) (758-788)",,
+2019,Liberia,LBR,"800MHz(791MHz-821MHz) , (832-862)  
+
+700MHz(703MHz-733MHz) (758-788)",,
+2020,Liberia,LBR,"800MHz(791MHz-821MHz) , (832-862)  
+
+700MHz(703MHz-733MHz) (758-788)",,
+2013,Saint Lucia,LCA,700 MHz Band 698-806,,
+2014,Saint Lucia,LCA,700 MHz Band 698-806,,
+2014,Liechtenstein,LIE,year 2015,,
+2015,Liechtenstein,LIE,http://www.llv.li/files/ak/20150130-beilage-1-zur-frequenzzuteilungverfugung-final.pdf,,
+2016,Liechtenstein,LIE,http://www.llv.li/files/ak/20150130-beilage-1-zur-frequenzzuteilungverfugung-final.pdf,,
+2017,Liechtenstein,LIE,http://www.llv.li/files/ak/20150130-beilage-1-zur-frequenzzuteilungverfugung-final.pdf,,
+2018,Liechtenstein,LIE,,,
+2019,Liechtenstein,LIE,"See Frequency Allocation Plan of Liechtenstein, main use = MFCN: https://www.llv.li/inhalt/1940/amtsstellen/nationaler-frequenzzuweisungsplan",,
+2020,Liechtenstein,LIE,"See Frequency Allocation Plan of Liechtenstein, main use = MFCN: https://www.llv.li/inhalt/1940/amtsstellen/nationaler-frequenzzuweisungsplan",,
+2015,Lesotho,LSO,,,
+2018,Lesotho,LSO,,,
+2013,Lithuania,LTU,791-821/832-862 MHz,,
+2014,Lithuania,LTU,791-821/832-862 MHz,,
+2019,Lithuania,LTU,791–821 MHz / 832–862 MHz,,
+2020,Lithuania,LTU,791–821 MHz / 832–862 MHz,,
+2014,Luxembourg,LUX,FDD: 791-821/832-862MHz,,
+2019,Luxembourg,LUX,Conformément aux décisions de la CEPT et CE,,
+2020,Luxembourg,LUX,Conformément aux décisions de la CEPT et CE,,
+2014,Latvia,LVA,"According to National Radiofrequency plan:
+http://www.likumi.lv/doc.php?id=198903
+",,
+2016,Latvia,LVA,"http://www.likumi.lv/doc.php?id=198903
+",,
+2017,Latvia,LVA,"http://www.likumi.lv/doc.php?id=198903
+",,
+2018,Latvia,LVA,"http://www.likumi.lv/doc.php?id=198903
+",,
+2019,Latvia,LVA,"http://www.likumi.lv/doc.php?id=198903
+",,
+2020,Latvia,LVA,"http://www.likumi.lv/doc.php?id=198903
+",,
+2014,Mauritius,MUS,not yet finalized,,
+2015,Mauritius,MUS,,,
+2014,Mexico,MEX,"2013: Up LInk703-748 MHz, par Down link 758 a 803 MHz",,
+2015,Mexico,MEX,"2013: Up LInk703‐748 MHz, par Down link 758 a 803 MHz",,
+2016,Mexico,MEX,"Up LInk703‐748 MHz, par Down link 758 a 803 MHz",,
+2017,Mexico,MEX,"Up LInk703‐748 MHz, par Down link 758 a 803 MHz",,
+2018,Mexico,MEX,"Up LInk703‐748 MHz, par Down link 758 a 803 MHz",,
+2019,Mexico,MEX,"Up LInk703‐748 MHz, par Down link 758 a 803 MHz",,
+2020,Mexico,MEX,"Up LInk703‐748 MHz, par Down link 758 a 803 MHz",,
+2020,Mali,MLI,,,
+2016,Malta,MLT,800 MHz band as per European Decision 2010/267/EU.,,
+2017,Malta,MLT,800 MHz band as per European Decision 2010/267/EU.,,
+2018,Malta,MLT,800 MHz band as per European Decision 2010/267/EU.,,
+2019,Malta,MLT,800 MHz band as per European Decision 2010/267/EU.,,
+2020,Malta,MLT,800 MHz band as per European Decision 2010/267/EU.,,
+2018,Mongolia,MNG,,,
+2019,Mongolia,MNG,,,
+2020,Mongolia,MNG,Band 28/ APT 700 FDD,,
+2020,Mozambique,MOZ,800MHz Band Channeling plan for ITU Region 1 for IMT,,
+2015,Morocco,MAR,Plan conforme à la norme LTE,,
+2016,Morocco,MAR,Plan conforme à la norme LTE,,
+2017,Morocco,MAR,Plan conforme à la norme LTE,,
+2018,Malawi,MWI,Only done channelizing of 700MHz,,
+2019,Malawi,MWI,Only done channelizing of 700MHz,,
+2020,Malawi,MWI,Only done channelization of 700MHz and refarming of FM band,,
+2014,Nicaragua,NIC,"Se adoptó la disposición de frecuencias A4 especificada en la Recomendación REC.UIT-R 1036. Sin embargo, inicialmente fue destinada únicamente para acceso fijo y transmiión de datos",,
+2015,Nicaragua,NIC,Se adoptó la disposición de frecuencias A5 especificada en la Recomendación REC.UIT-R 1036. ,,
+2018,Niger,NER,FDD 2x30 Mhz,,
+2019,Niger,NER,FDD 2x30 Mhz,,
+2020,Niger,NER,FDD 2x30 Mhz,,
+2019,Nigeria,NGA,,,
+2020,Nigeria,NGA,,,
+2013,Norway,NOR,"2x30 MHz, downlink from 791-821 MHz and uplink in 832-862 MHz.",,
+2015,Norway,NOR,791-821MHz / 832-862MHz (six 2x5MHz channels),,
+2018,Norway,NOR,"(703-733 MHz UL, 758-788 MHz DL will be awared in 2019) 791-821 MHz DL, 832-862 MHz UL",,
+2019,Norway,NOR,"(703-733 MHz UL, 758-788 MHz DL will be awared in 2019) 791-821 MHz DL, 832-862 MHz UL",,
+2020,Norway,NOR,"(703-733 MHz UL, 758-788 MHz DL, 791-821 MHz DL, 832-862 MHz UL",,
+2018,New Zealand,NZL,APT 700 MHz band plan,,
+2019,New Zealand,NZL,APT 700 MHz band plan,,
+2020,New Zealand,NZL,APT 700 MHz band plan,,
+2013,Oman,OMN,2*30 MHz (FDD) ,,
+2015,Oman,OMN,"DL: 791-821 MHz
+UL:832-862 MHz
+
+DL: 703-733 MHz
+UL:758-788 MHz
+",,
+2017,Oman,OMN,"703-733/758-788
+
+791-821/832-862",,
+2018,Oman,OMN,"703-733/758-788 
+791-821/832-862",,
+2019,Oman,OMN,"703-733/758-788 
+791-821/832-862",,
+2020,Oman,OMN,"703-733/758-788 
+791-821/832-862",,
+2016,Pakistan,PAK,,,
+2017,Pakistan,PAK,,,
+2018,Pakistan,PAK,,,
+2019,Pakistan,PAK,,,
+2020,Pakistan,PAK,NO,,
+2018,Papua New Guinea,PNG,800 MHz Band Plan,,
+2019,Papua New Guinea,PNG,800 MHz Band Plan,,
+2016,Panama,PAN,Banda de 700MHz (APT),,
+2017,Panama,PAN,BANDA DE 700MHz ,,
+2019,Panama,PAN,BANDA DE 700MHz (APT),,
+2020,Panama,PAN,Plan de Frecuencia APT (Banda 28),,
+2014,Poland,POL,Frequence arrangement in line with Comission Decision 2010/267/UE,,
+2015,Poland,POL,Frequence arrangement in line with Comission Decision 2010/267/UE,,
+2018,Poland,POL,in accordance with EU harmonisation decision ,,
+2019,Poland,POL,in accordance with EU harmonisation decision ,,
+2020,Poland,POL,in accordance with EU harmonisation decision ,,
+2013,Portugal,PRT,,,
+2015,Portugal,PRT,"FDD, in accordance with the Annex of Commission Decision 2010/267/EU, of 6 May 2010 (http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:117:0095:0101:en:PDF) and Decision ECC/DEC/(09)03 (http://www.erodocdb.dk/Docs/doc98/official/pdf/ECCDEC0903.PDF)",,
+2016,Portugal,PRT,"FDD, in accordance with the Annex of Commission Decision 2010/267/EU, of 6 May 2010 (http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:117:0095:0101:en:PDF) and Decision ECC/DEC/(09)03 (http://www.erodocdb.dk/Docs/doc98/official/pdf/ECCDEC0903.PDF)",,
+2017,Portugal,PRT,"FDD, in accordance with the Annex of Commission Decision 2010/267/EU, of 6 May 2010 (http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:117:0095:0101:en:PDF) and Decision ECC/DEC/(09)03 (http://www.erodocdb.dk/Docs/doc98/official/pdf/ECCDEC0903.PDF)",,
+2018,Portugal,PRT,"FDD, in accordance with the Annex of Commission Decision 2010/267/EU, of 6 May 2010 (http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:117:0095:0101:en:PDF) and Decision ECC/DEC/(09)03 (http://www.erodocdb.dk/Docs/doc98/official/pdf/ECCDEC0903.PDF)",,
+2019,Portugal,PRT,"FDD, in accordance with the Annex of Commission Decision 2010/267/EU, of 6 May 2010 (http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:117:0095:0101:en:PDF) and Decision ECC/DEC/(09)03 (http://www.erodocdb.dk/Docs/doc98/official/pdf/ECCDEC0903.PDF)",,
+2020,Portugal,PRT,"FDD, in accordance with the Annex of Commission Decision 2010/267/EU, of 6 May 2010 (http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:117:0095:0101:en:PDF) and Decision ECC/DEC/(09)03 (http://www.erodocdb.dk/Docs/doc98/official/pdf/ECCDEC0903.PDF)",,
+2018,Paraguay,PRY,700MHz,,
+2019,Paraguay,PRY,703-748 MHz / 758-803 MHz,,
+2020,Paraguay,PRY,703-748 MHz / 758-803 MHz,,
+2013,Peru,PER,698-806 MHz,,
+2014,Peru,PER,698-806 MHz (APT),,
+2015,Peru,PER,"La banda 698-806 MHz se ha dividido en tres bloques de la siguiente manera:
+Bloque A   703-718 MHz / 758-773 MHz
+Bloque B   718-733 MHz / 773-788 MHz
+Bloque C   733-748 MHz / 788-803 MHz
+
+(Resolución Viceministerial N°661-2014-MTC/03",,
+2019,Peru,PER,,,
+2020,Peru,PER,,,
+2013,Qatar,QAT,TBD,,
+2014,Qatar,QAT,TBD,,
+2015,Qatar,QAT,2 X 30 MHz band plan for mobile services in 790 – 862 MHz band.,,
+2018,Qatar,QAT,2*30 MHz band plan for mobile services in 790-862 MHz band,,
+2019,Qatar,QAT,2*30 MHz band plan for mobile services in 790-862 MHz band,,
+2020,Qatar,QAT,2*30 MHz band plan for mobile services in 790-862 MHz band,,
+2014,Romania,ROU,"The channel arrangements in 800 MHz and 2600 MHz FDD bands were consistent with the harmonised channel arrangements of 5 MHz duplex blocks, from the relevant EC decisions on harmonised technical conditions of use in the 790-862 MHz and 2500-2690 MHz bands for terrestrial systems capable of providing electronic communications services in the European Union.
+
+The channel arrangements in 900 MHz and 1800 MHz bands awarded for the long term period were also based on a block size of 2 x 5 MHz.
+",,
+2016,Romania,ROU,,,
+2018,Romania,ROU,,,
+2020,Romania,ROU,,,
+2016,Rwanda,RWA,3G PP Band 20,,
+2017,Rwanda,RWA,3G PP Band 20,,
+2019,Rwanda,RWA,,,
+2017,Russian Federation,RUS,,,
+2018,Russian Federation,RUS,,,
+2019,Russian Federation,RUS,,,
+2020,Russian Federation,RUS,,,
+2013,Sweden,SWE,,,
+2014,Sweden,SWE,,,
+2019,Sweden,SWE,,,
+2020,Sweden,SWE,,,
+2016,Sudan,SDN,694-791,,
+2017,Sudan,SDN,694-791,,
+2018,Sudan,SDN,694-791,,
+2019,Sudan,SDN,694-791,,
+2019,Senegal,SEN,791-821MHZ (DL) - 832-862 MHZ (UL),,
+2020,Senegal,SEN,791-821MHZ (DL) - 832-862 MHZ (UL),,
+2013,Seychelles,SYC,"As per Annex 1 of CEPT, Electronic Communications Commission (ECC) Decision of 30 October 2009 on harmonised conditions for mobile/fixed communications networks (MFCN) operating in the band 790 - 862 MHz  (ECC/DEC/(09)03 for both fixed and MBWA)
+",,
+2014,Seychelles,SYC,"As per Annex 1 of CEPT, Electronic Communications Commission (ECC) Decision of 30 October 2009 on harmonised conditions for mobile/fixed communications networks (MFCN) operating in the band 790 - 862 MHz (ECC/DEC/(09)03 for both fixed and MBWA) ",,
+2015,Seychelles,SYC,"As per Annex 1 of CEPT, Electronic Communications Commission (ECC) Decision of 30 October 2009 on harmonised conditions for mobile/fixed communications networks (MFCN) operating in the band 790 - 862 MHz (ECC/DEC/(09)03 for both fixed and MBWA) ",,
+2016,Seychelles,SYC,"As per Annex 1 of CEPT, Electronic Communications Commission (ECC) Decision of 30 October 2009 on harmonised conditions for mobile/fixed communications networks (MFCN) operating in the band 790 - 862 MHz (ECC/DEC/(09)03 for both fixed and MBWA)",,
+2017,Seychelles,SYC,"As per Annex 1 of CEPT, Electronic Communications Commission (ECC) Decision of 30 October 2009 on harmonised conditions for mobile/fixed communications networks (MFCN) operating in the band 790 - 862 MHz (ECC/DEC/(09)03 for both fixed and MBWA)",,
+2018,Seychelles,SYC,"As per Annex 1 of CEPT, Electronic Communications Commission (ECC) Decision of 30 October 2009 on harmonised conditions for mobile/fixed communications networks (MFCN) operating in the band 790 - 862 MHz (ECC/DEC/(09)03 for both fixed and MBWA)",,
+2019,Seychelles,SYC,"As per Annex 1 of CEPT, Electronic Communications Commission (ECC) Decision of 30 October 2009 on harmonised conditions for mobile/fixed communications networks (MFCN) operating in the band 790 - 862 MHz (ECC/DEC/(09)03 for both fixed and MBWA)",,
+2020,Seychelles,SYC,"As per Annex 1 of CEPT, Electronic Communications Commission (ECC) Decision of 30 October 2009 on harmonised conditions for mobile/fixed communications networks (MFCN) operating in the band 790 - 862 MHz (ECC/DEC/(09)03 for both fixed and MBWA)",,
+2014,Samoa,WSM,608 MHz to 806 MHz,,
+2018,Samoa,WSM,700MHz,,
+2019,Samoa,WSM,700MHz,,
+2020,Samoa,WSM,700MHz,,
+2016,Singapore,SGP,3GPP Band 28,,
+2018,Singapore,SGP,3GPP Band 28,,
+2019,Singapore,SGP,3GPP Band 28,,
+2020,Singapore,SGP,3GPP Band 28,,
+2013,Switzerland,CHE,"Reverse FDD: 791 821 MHz DL; 832 - 862 MHz UL
+http://www.ofcomnet.ch/cgi-bin/rir.pl?id=0501;nb=19
+http://www.ofcomnet.ch/cgi-bin/rir.pl?id=0501;nb=20",,
+2014,Switzerland,CHE,Reverse FDD: 791 - 821 MHz DL; 832 - 862 MHz UL http://www.ofcomnet.ch/cgi-bin/rir.pl?id=0501;nb=19 http://www.ofcomnet.ch/cgi-bin/rir.pl?id=0501;nb=20,,
+2015,Switzerland,CHE,Reverse FDD: 791 - 821 MHz DL; 832 - 862 MHz UL http://www.ofcomnet.ch/cgi-bin/rir.pl?id=0501;nb=19 http://www.ofcomnet.ch/cgi-bin/rir.pl?id=0501;nb=20,,
+2016,Switzerland,CHE,Reverse FDD: 791 - 821 MHz DL; 832 - 862 MHz UL http://www.ofcomnet.ch/cgi-bin/rir.pl?id=0501;nb=19 http://www.ofcomnet.ch/cgi-bin/rir.pl?id=0501;nb=20,,
+2017,Switzerland,CHE,Reverse FDD: 791 - 821 MHz DL; 832 - 862 MHz UL http://www.ofcomnet.ch/cgi-bin/rir.pl?id=0501;nb=19 http://www.ofcomnet.ch/cgi-bin/rir.pl?id=0501;nb=20,,
+2018,Switzerland,CHE,Reverse FDD: 791 - 821 MHz DL; 832 - 862 MHz UL http://www.ofcomnet.ch/cgi-bin/rir.pl?id=0501;nb=19 http://www.ofcomnet.ch/cgi-bin/rir.pl?id=0501;nb=20,,
+2019,Switzerland,CHE,"703-733 MHz (UL) paired with 758-788 MHz (DL)
+738–753 MHz Downlink only SDL",,
+2020,Switzerland,CHE,703-733 MHz (UL) paired with 758-788 MHz (DL) 738–753 MHz Downlink only SDL,,
+2015,Suriname,SUR,APT band plan,,
+2017,Suriname,SUR,,,
+2018,Suriname,SUR,,,
+2019,Suriname,SUR,,,
+2020,Suriname,SUR,,,
+2013,Slovenia,SVN,,,
+2014,Slovenia,SVN,,,
+2015,Slovenia,SVN,800 MHz 2x30 MHz 791-821 Downlink 832-862 Uplink,,
+2016,Slovenia,SVN,800 MHz 2x30 MHz 791-821 Downlink 832-862 Uplink,,
+2017,Slovenia,SVN,"700MHz 2x30MHz+ 15MHz supp. DL+ 2x5MHz for PPDR+ 2x3MHz for M2M, 800 MHz 2x30 MHz",,
+2018,Slovenia,SVN,"700MHz 2x30MHz+ 15MHz supp. DL+ 2x5MHz for PPDR+ 2x3MHz for M2M, 800 MHz 2x30 MHz",,
+2019,Slovenia,SVN,"700MHz 2x30MHz+ 15MHz supp. DL(B28)+ 2x5MHz for PPDR(B68)+ 2x3MHz for M2M (B28)+, 800 MHz 2x30 MHz (B20",,
+2020,Slovenia,SVN,"700MHz 2x30MHz+ 15MHz supp. DL(B28)+ 2x5MHz for PPDR(B68)+ 2x3MHz for M2M (B28)+, 800 MHz 2x30 MHz (B20)",,
+2018,Eswatini,SWZ,A3 of Recommendation M.1036-5,,
+2019,Eswatini,SWZ,A3 of Recommendation M.1036-5,,
+2013,Czech Republic,CZE,"791~862 MHz, http://www.ctu.eu/164/download/Measures/General_Nature/RSUP/RSUP-P_10_08-2012-11_en.pdf. ",,
+2014,Czech Republic,CZE,"791~862 MHz, http://www.ctu.eu/164/download/Measures/General_Nature/RSUP/RSUP-P_10_08-2012-11_en.pdf. 5.3.9.6: Date for reallocation of this spectrum and possible frequency ranges is 2014.",,
+2015,Czech Republic,CZE,"791~862 MHz, http://www.ctu.eu/164/download/Measures/General_Nature/RSUP/RSUP-P_10_08-2012-11_en.pdf.  Reallocation of the spectrum and possible frequency ranges was is 2014.",,
+2018,Czech Republic,CZE,"EU band plan (791 – 860 MHz).
+Estimated year for free-up the 700 MHz (694 – 791) band is 2020.",,
+2019,Czech Republic,CZE,"EU band plan (791 – 860 MHz).
+Estimated year for free-up the 700 MHz (694 – 791) band is 2020.",,
+2020,Czech Republic,CZE,"EU band plan (791 – 860 MHz).
+Estimated year for free-up the 700 MHz (694 – 791) band is 2020.
+
+Answer to the Q 4.10.9.6.
+At the auction, which will begin this year, the band of 700 MHz will not be allocated for PPDR, operators will only be obliged to respond to the demand for PPDR communication services.",,
+2017,Togo,TGO,,,
+2018,Togo,TGO,703-733//758-788MHz et 791-821//832-862 MHz,,
+2019,Togo,TGO,703-733//758-788MHz et 791-821//832-862 MHz,,
+2020,Togo,TGO,703-733//758-788MHz et 791-821//832-862 MHz,,
+2020,Thailand,THA,700 MHz APT Band Plan,,
+2015,Trinidad and Tobago,TTO,US 700 MHz Band Plan,,
+2016,Trinidad and Tobago,TTO,US 700MHz Band Plan,,
+2017,Trinidad and Tobago,TTO,US 700MHz Band Plan,,
+2014,Turkey,TUR,Use of 790 – 862 MHz band (digital dividend) for networks other than high-power broadcasting networks after analog switch-off has been decided. The analog switch-off has not been performed yet.,,
+2015,Turkey,TUR,"790-862 MHz is the digital dividend band.
+791-821 MHz/832-862 MHz frequency range was reallocated for the mobile service.",,
+2016,Turkey,TUR,790-862 MHz is the digital dividend band. 791-821 MHz/832-862 MHz frequency range was reallocated for the mobile service.,,
+2017,Turkey,TUR,2x30 MHz FDD Plan: 791-821 MHz for downlink and 832-862 MHz for uplink,,
+2018,Turkey,TUR,2x30 MHz at 800 MHz band,,
+2019,Turkey,TUR,2x30 MHz at 800 MHz band (791-821 MHz (DL)/832-862 MHz (UL)) was assigned to mobile broadband services only. 700 MHz frequency band has been planned for mobile broadband services and BB PPDR services and not assigned yet to these services.,,
+2020,Turkey,TUR,2x30 MHz at 800 MHz band (791-821 MHz (DL)/832-862 MHz (UL)) was assigned to mobile broadband services only. 700 MHz frequency band has been planned for mobile broadband services and BB PPDR services and not assigned yet to these services.,,
+2013,Tanzania,TZA,,,
+2015,Tanzania,TZA,"Digital Dividend (DD) - Band Plan:
+1)DD 1: 790 - 862 MHz
+We opt: 2 x 30 MHz: Uplink:   791-821 MHz
+                    Downlink: 832-862 MHz
+
+2)DD 2: 694 - 790 MHz
+Not yet decided; We may opt: 
+        i) 2 x 45 MHz (utilize the full bandwidth) 
+           Uplink: 703-748 MHz(45MHz) 
+         Downlink: 758-803 MHz(45MHz)
+     OR
+
+      ii) 2 x 30 MHz (utilize part of the bandwidth) 
+           Uplink: 703-733 MHz(30MHz) 
+         Downlink: 758-788 MHz(30MHz)",,
+2020,Tanzania,TZA,700 MHZ,,
+2013,United Arab Emirates,ARE,3GPP 800 band plan and for 700 part of APT700 band plan,,
+2014,United Arab Emirates,ARE,3GPP 800 band plan and for 700 part of APT700 band plan,,
+2015,United Arab Emirates,ARE,3GPP 800 band plan and for 700 part of APT700 band plan,,
+2016,United Arab Emirates,ARE,,,
+2017,United Arab Emirates,ARE,2x30 for 700 and 2x30 for 800MHZ band ,,
+2018,United Arab Emirates,ARE,2x30 for 700 and 2x30 for 800MHZ band ,,
+2019,United Arab Emirates,ARE,2x30 for 700 and 2x30 for 800MHZ band ,,
+2020,United Arab Emirates,ARE,2x30 for 700 and 2x30 for 800MHZ band ,,
+2013,Uruguay,URY,"703 - 748 Mhz
+758 - 803 Mhz
+
+Disponibilidad probable a partir del 2014.",,
+2020,Venezuela,VEN,"703 – 748 MHz, 758 – 803 MHz",,
+2019,Viet Nam,VNM,Band 28 (APT 700 FDD band plan),,
+2020,Viet Nam,VNM,Band 28 (APT 700 FDD band plan),,
+2018,Vanuatu,VUT,APT700,,
+2019,Vanuatu,VUT,APT700,,
+2020,Vanuatu,VUT,APT700,,
+2013,Serbia,SRB,,,
+2014,Serbia,SRB,adaptation of the Band plan is underway,,
+2015,Serbia,SRB,Band Plan is adopted,,
+2016,Serbia,SRB,Allotment plan for 790-862 MHz,,
+2017,Serbia,SRB,Allotment plan for 790-862 MHz,,
+2018,Serbia,SRB,FDD,,
+2019,Serbia,SRB,FDD,,
+2020,Serbia,SRB,FDD,,
+2020,Zambia,ZMB,,,
+2015,Moldova,MDA,800 MHz,,
+2016,Moldova,MDA,800 MHz,,
+2017,Moldova,MDA,800 MHz,,
+2018,Moldova,MDA,800 MHz,,
+2019,Moldova,MDA,2x30 MHz (according to 3G PP Band 20),,
+2020,Moldova,MDA,2x30 MHz (according to 3G PP Band 20),,
+2018,Bosnia and Herzegovina,BIH,"FDD duplex mode (duplex spacing of 41 MHz), 791-821 MHz downlink and 832-862 MHz uplink, blocks of 5 MHz (3 pairs of 2x10 MHz block size). The 790-791 MHz range is a guard band between the MFCN system and other radio communication service systems operating in bands below 790 MHz and the range 821-832 MHz is a duplex gap between downlink and uplink band.",,
+2019,Bosnia and Herzegovina,BIH,"FDD duplex mode (duplex spacing of 41 MHz), 791-821 MHz downlink and 832-862 MHz uplink, blocks of 5 MHz (3 pairs of 2x10 MHz block size). The 790-791 MHz range is a guard band between the MFCN system and other radio communication service systems operating in bands below 790 MHz and the range 821-832 MHz is a duplex gap between downlink and uplink band.",,
+2020,Bosnia and Herzegovina,BIH,"FDD duplex mode (duplex spacing of 41 MHz), 791-821 MHz downlink and 832-862 MHz uplink, blocks of 5 MHz (3 pairs of 2x10 MHz block size). The 790-791 MHz range is a guard band between the MFCN system and other radio communication service systems operating in bands below 790 MHz and the range 821-832 MHz is a duplex gap between downlink and uplink band.",,
+2018,Georgia,GEO,,,
+2019,Georgia,GEO,,,
+2020,Georgia,GEO,,,
+2013,Kyrgyzstan,KGZ,,,
+2014,Kyrgyzstan,KGZ,,,
+2015,Kyrgyzstan,KGZ,,,
+2016,Kyrgyzstan,KGZ,,,
+2020,Kyrgyzstan,KGZ,790-862 MHz,,
+2014,Slovakia,SVK,Frequency arrangement is in line with appropriate ECC and EC Decission.,,
+2015,Slovakia,SVK,800 MHz frequency arrangement – FP/MS-12 (790-862 MHz). Frequency arrangement is in line with appropriate ECC and EC Decission.,,
+2016,Slovakia,SVK,800 MHz frequency arrangement – FP/MS-12 (790-862 MHz). Frequency arrangement is in line with appropriate ECC and EC Decission.,,
+2017,Slovakia,SVK,800 MHz frequency arrangement – FP/MS-12 (790-862 MHz). Frequency arrangement is in line with appropriate ECC and EC Decissions. ,,
+2018,Slovakia,SVK,800 MHz frequency arrangement – FP/MS-12 (790-862 MHz). Frequency arrangement is in line with appropriate ECC and EC Decissions. ,,
+2019,Slovakia,SVK,800 MHz frequency arrangement – FP/MS-12 (790-862 MHz). Frequency arrangement is in line with appropriate ECC and EC Decissions. ,,
+2020,Slovakia,SVK,"800 MHz frequency arrangement – FP/MS-12 (790-862 MHz) and 700 MHz requency arrangement – FP/MS-15a (703-733/753-783 MHz). 
+Frequency arrangements are in line with appropriate ECC and EC Decissions.",,
+2013,North Macedonia,MKD,791 - 862 MHz,,
+2014,North Macedonia,MKD,790 - 862 MHz,,
+2015,North Macedonia,MKD,790 - 862 MHz,,
+2016,North Macedonia,MKD,790 - 862 MHz,,
+2017,North Macedonia,MKD,790 - 862 MHz,,
+2018,North Macedonia,MKD,790 - 862 MHz,,
+2019,North Macedonia,MKD,790 - 862 MHz,,
+2020,North Macedonia,MKD,790 - 862 MHz,,
+2018,Palestine,WBG,"790 Guard band
+791-921 Down link 
+921-932 Duplex gap
+932-962 Up link",,
+2014,Montenegro,MNE,"The harmonised frequency arrangement is 2 x 30 MHz with a duplex gap of 11 MHz, based on a block size of 5 MHz, paired and with reverse duplex direction, and a guard band of 1 MHz starting at 790 MHz. The FDD downlink starts at 791 MHz and FDD uplink starts at 832 MHz.",,
+2015,Montenegro,MNE,"The harmonised frequency arrangement is 2 x 30 MHz with a duplex gap of 11 MHz, based on a block size of 5 MHz,paired and with reverse duplex direction, and a gauard band of 1 MHz starting at 790 MHz, The FDD downlink starts at 791 MHz and FDD upling starts at 832 MHz.",,
+2016,Montenegro,MNE,"The harmonised frequency arrangement is 2 x 30 MHz with a duplex gap of 11 MHz, based on a block size of 5 MHz,paired and with reverse duplex direction, and a gauard band of 1 MHz starting at 790 MHz, The FDD downlink starts at 791 MHz and FDD upling starts at 832 MHz.",,
+2017,Montenegro,MNE,"The harmonised frequency arrangement is 2 x 30 MHz with a duplex gap of 11 MHz, based on a block size of 5 MHz,paired and with reverse duplex direction, and a gauard band of 1 MHz starting at 790 MHz, The FDD downlink starts at 791 MHz and FDD upling starts at 832 MHz.
+
+The Plan of allotment of frequency bands of 694-790 MHz will be adopted until the end of 2017.",,
+2018,Montenegro,MNE,"The Plan of allotment of frequency bands of 790-862: Harmonised frequency arrangement is 2 x 30 MHz with a duplex gap of 11 MHz, based on a block size of 5 MHz,paired and with reverse duplex direction, and a gauard band of 1 MHz starting at 790 MHz, The FDD downlink starts at 791 MHz and FDD upling starts at 832 MHz.
+
+The Plan of allotment of frequency bands of 694-790 MHz was the subject of public consultation in 2017. The Agency will adopted this Plan till to end of March 2018.
+Harmonized frequency arrangement is 2x30 MHz with a duplex gap of 5 MHz, based on a block size of 5 MHz, paired and with reverse duplex direction. Guard band is from 694-703 MHz. FDD downlink is in 758-788 MHz, and FDD uplink is in 703-733 MHz band. The band 738-758 MHz is for SDL (Supplemental DownLink - SDL).",,
+2019,Montenegro,MNE,"The Plan of allotment of frequency bands of 790-862: Harmonised frequency arrangement is 2 x 30 MHz with a duplex gap of 11 MHz, based on a block size of 5 MHz,paired and with reverse duplex direction, and a gauard band of 1 MHz starting at 790 MHz, The FDD downlink starts at 791 MHz and FDD upling starts at 832 MHz.
+
+The Plan of allotment of frequency bands of 694-790 MHz:
+Harmonized frequency arrangement is 2x30 MHz with a duplex gap of 5 MHz, based on a block size of 5 MHz, paired and with reverse duplex direction. Guard band is from 694-703 MHz. FDD downlink is in 758-788 MHz, and FDD uplink is in 703-733 MHz band. The band 738-758 MHz is for SDL (Supplemental DownLink - SDL).",,
+2020,Montenegro,MNE,"The Plan of allotment of frequency bands of 790-862: Harmonised frequency arrangement is 2 x 30 MHz with a duplex gap of 11 MHz, based on a block size of 5 MHz,paired and with reverse duplex direction, and a gauard band of 1 MHz starting at 790 MHz, The FDD downlink starts at 791 MHz and FDD upling starts at 832 MHz.
+
+The Plan of allotment of frequency bands of 694-790 MHz:
+Harmonized frequency arrangement is 2x30 MHz with a duplex gap of 5 MHz, based on a block size of 5 MHz, paired and with reverse duplex direction. Guard band is from 694-703 MHz. FDD downlink is in 758-788 MHz, and FDD uplink is in 703-733 MHz band. The band 738-758 MHz is for SDL (Supplemental DownLink - SDL).",,
+2018,South Sudan,SSD,"791 - 821(3 Down link blocks of 10MHZ).
+821 - 832(11MHZ Duplex Gap).
+832 -862 (3 Uplink blocks of 10 MHZ)",,
+2019,South Sudan,SSD,791 - 821(3 Down link blocks of 10MHZ). 821 - 832(11MHZ Duplex Gap). 832 -862 (3 Uplink blocks of 10 MHZ),,

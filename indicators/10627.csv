@@ -1,0 +1,453 @@
+year,country,iso,value,note,source
+2000,Andorra,AND,1.00034,,
+2016,Armenia,ARM,0.00995909,,National statistical service of RA
+2019,Armenia,ARM,0.922457,,Statistical Committee of RA
+2020,Armenia,ARM,1.47696,,Statistical Committee of RA
+2017,Saudi Arabia,SAU,27.2121,,Communication and Information Technology Commission (CITC)
+2018,Saudi Arabia,SAU,43.5535,,Communication and Information Technology Commission
+2019,Saudi Arabia,SAU,44.5978,,Communications andI nformation Technology Commision
+2007,Australia,AUS,16.6814,,Australian Burau of Statistics
+2008,Australia,AUS,14.6767,,Australian Burau of Statistics
+2009,Australia,AUS,13.7961,"Incl. 'Public library' or 'Government agency, department or shopfront'.",Australian Bureau os Statistics
+2011,Australia,AUS,13.0558,Estimate taken from combined 'Public library' and 'Government agency/department/shopfront' categories,Australian Bureau of Statistics
+2013,Australia,AUS,12.375,,Australian Bureau of Statistics
+2002,Austria,AUT,1.27909,"i_ilib,i_ivol, no data",Eurostat
+2003,Austria,AUT,2.07906,Corresponds to public library.Users in the last 3 months.,Eurostat
+2004,Austria,AUT,0.18643,"i_ivol, no data",Eurostat
+2008,Azerbaijan,AZE,4.05975,,State Statistical Committee
+2009,Azerbaijan,AZE,0.899976,,State Statistical Committee
+2010,Azerbaijan,AZE,0.868261,,State Statistical Committee
+2017,Azerbaijan,AZE,0.599996,,State Statistical Committee
+2018,Azerbaijan,AZE,3.8,,State Statistical Committee
+2019,Azerbaijan,AZE,0.599998,,State Statistical Committee
+2020,Azerbaijan,AZE,0.699995,,State Statistical Committee
+2009,Brazil,BRA,3.65892,In the last 3 months.,Brazilian Steering Committee
+2010,Brazil,BRA,4.20971,"Information available only for the period ""in the last 3 months"".",
+2013,Brazil,BRA,5.34138,,NIC.br
+2014,Brazil,BRA,7.5488,,NIC.br
+2016,Brazil,BRA,15.8293,,NIC.br
+2017,Brazil,BRA,16.6038,,NIC.br
+2018,Brazil,BRA,10.2021,,NIC.br
+2019,Brazil,BRA,9.23887,,NIC.br
+2020,Brazil,BRA,5.47685,,NIC.br
+2006,Belgium,BEL,1.167,Corresponds to public library.Users in the last 3 months.,Eurostat
+2007,Belgium,BEL,0.883802,Corresponds to public library.Users in the last 3 months.,Eurostat
+2008,Belgium,BEL,1.05996,Corresponds to public library.Users in the last 3 months.,Eurostat
+2009,Belgium,BEL,3.9573,Corresponds to public library.Users in the last 3 months.,Eurostat
+2010,Belgium,BEL,3.72054,Corresponds to public library.Users in the last 3 months.,Eurostat
+2011,Belgium,BEL,4.85234,Corresponds to public library Users in the last 3 months.,Eurostat
+2013,Belgium,BEL,5.62455,,
+2011,Bahrain,BHR,4.98346,Estimated based on TRA 2011 Residential consumer survey,Telecommunications Regulatory Authority (TRA)
+2012,Bahrain,BHR,4.98001,Estimated based on TRA 2011 Residential consumer survey,Telecommunications Regulatory Authority (TRA)
+2013,Bahrain,BHR,14.7656,,Telecommunications Regulatory Authority (TRA)
+2014,Bahrain,BHR,15.311,,Telecommunications Regulatory Authority (TRA)
+2015,Bahrain,BHR,20.3936,,Telecommunications Regulatory Authority (TRA) Bahrain
+2016,Bahrain,BHR,13.66,,Telecommunications Regulatory Authority (TRA)
+2017,Bahrain,BHR,41.5941,,Telecommunications Regulatory Authority (TRA)
+2018,Bahrain,BHR,34.8494,,Telecommunications Regulatory Authority (TRA)
+2019,Bahrain,BHR,11.976,,Telecommunications Regulatory Authority (TRA)
+2020,Bahrain,BHR,14.7195,,Telecommunications Regulatory Authority (TRA)
+2009,Belarus,BLR,0.22524,"Incl. categories e ""at community internet access facility"" and g ""at any place via mobile cellular phone""",National Statistical Committee of the Republic of Belarus
+2018,Bolivia (Plurinational State of),BOL,1.15722,,Statistic National Institute
+2019,Bolivia (Plurinational State of),BOL,1.50844,,Statistic National Institute
+2014,Botswana,BWA,6.16403,,Statistics Botswana
+2016,Brunei Darussalam,BRN,17.7778,,Authority for Info-communications Technology Industry of Brunei Darussalam
+2004,Bulgaria,BGR,1.41336,Corresponds to public library.Users in the last 3 months.,Eurostat
+2010,Bulgaria,BGR,2.53208,Corresponds to public library.Users in the last 3 months.,Eurostat
+2011,Bulgaria,BGR,2.00081,Corresponds to public library Users in the last 3 months.,Eurostat
+2013,Bulgaria,BGR,3.87306,,
+2007,Canada,CAN,14.7541,Refers to use at a public library.,Statistics Canada
+2009,Canada,CAN,15.193,"Refers to use at a public library, government office, department or kiosk (including Community Access Program site)",Statistics Canada
+2010,Canada,CAN,13.0056,"Refers to use at a public library, government office, department or kiosk (including Community Access Program site)",Statistics Canada
+2017,Cambodia,KHM,1.54098,,"National Institute of Statistics, Minsitry of Planning, Cambodia"
+2003,Chile,CHL,0.701046,,Ministerio de Planificación
+2006,Chile,CHL,0.822907,Telecentro,Ministerio de Planificación
+2009,Chile,CHL,0.959906,,Ministerio de Planificación
+2009,Colombia,COL,4.2601,se refiere a centros de acceso público gratuito,Departamento Administrativo Nacional de Estadística-DANE
+2010,Colombia,COL,4.60776,se refiere a centros de acceso público gratuito,Departamento Administrativo Nacional de Estadística - DANE
+2011,Colombia,COL,5.46499,Se refiere a centros de acceso público gratuito,Departamento Administrativo Nacional de Estadística - DANE
+2012,Colombia,COL,1.93581,Free public access.,Departamento Administrativo Nacional de Estadística - DANE
+2013,Colombia,COL,2.76672,,Departamento Administrativo Nacional de Estadística - DANE
+2014,Colombia,COL,3.36255,,Departamento Administrativo Nacional de Estadística - DANE
+2015,Colombia,COL,6.41268,,Departamento Administrativo Nacional de Estadística - DANE
+2016,Colombia,COL,6.78549,,Departamento Administrativo Nacional de Estadística - DANE
+2017,Colombia,COL,9.77531,,Departamento Administrativo Nacional de Estadística - DANE
+2018,Colombia,COL,9.56187,,Departamento Administrativo Nacional de Estadística - DANE
+2019,Cabo Verde,CPV,1.1499,,INSTITUTO NACIONAL DE ESTATISTICA
+2019,Côte d'Ivoire,CIV,2.14751,,ARTCI
+2005,Costa Rica,CRI,0.316559,,Instituto Nacional de Estadística y Censos
+2012,Costa Rica,CRI,0.283113,,Instituto Nacional de Estadística y Censos
+2013,Cuba,CUB,4.2235,,Oficina Nacional de Estadística e Información
+2015,Cuba,CUB,14.7507,,ONEI
+2017,Cuba,CUB,27.1528,,ONEI
+2019,Cuba,CUB,0.545348,,Oficina Nacional de Estadisticas e Informacion
+2004,Cyprus,CYP,0.915993,"i_ipo, no data",Eurostat
+2005,Cyprus,CYP,0.220823,"i_ipo, no data",Eurostat
+2006,Cyprus,CYP,1.15103,"i_ipo, no data",Eurostat
+2007,Cyprus,CYP,0.801601,"i_ipo, no data",Eurostat
+2008,Cyprus,CYP,0.976272,"i_ipo, no data",Eurostat
+2009,Cyprus,CYP,1.19234,"i_ipo, no data",Eurostat
+2010,Cyprus,CYP,1.70097,Corresponds to public library.Users in the last 3 months.,Eurostat
+2011,Cyprus,CYP,2.72598,Corresponds to public library Users in the last 3 months.,Eurostat
+2013,Cyprus,CYP,2.08827,,
+2002,Germany,DEU,1.01502,"i_ilib,i_ivol, no data",Eurostat
+2003,Germany,DEU,3.62333,"i_igov,i_ipo,i_ivol, no data",Eurostat
+2002,Denmark,DNK,0.487106,"i_ilib,i_ipo,i_ivol, no data",Eurostat
+2003,Denmark,DNK,2.6529,"i_ipo, no data",Eurostat
+2004,Denmark,DNK,3.97112,Corresponds to public library.Users in the last 3 months.,Eurostat
+2008,Denmark,DNK,5.10344,Corresponds to public library.Users in the last 3 months.,Eurostat
+2009,Denmark,DNK,6.01913,Corresponds to public library.Users in the last 3 months.,Eurostat
+2010,Denmark,DNK,6.07352,Corresponds to public library.Users in the last 3 months.,Eurostat
+2011,Denmark,DNK,5.97926,Corresponds to public library Users in the last 3 months.,Eurostat
+2013,Denmark,DNK,9.07928,,
+2007,Spain,ESP,6.64567,Corresponds to public library.Users in the last 3 months.,Eurostat
+2008,Spain,ESP,6.3915,Corresponds to public library.Users in the last 3 months.,Eurostat
+2009,Spain,ESP,9.36305,Corresponds to public library.Users in the last 3 months.,Eurostat
+2010,Spain,ESP,8.26305,Corresponds to public library.Users in the last 3 months.,Eurostat
+2011,Spain,ESP,9.25622,Corresponds to public library Users in the last 3 months.,Eurostat
+2013,Egypt,EGY,2.90702,,Ministry of Communications and Information Technology
+2014,Egypt,EGY,0.928506,,Ministry of Communications and Information Technology
+2015,Egypt,EGY,0.989717,,Central Agency For Public Mobilization And Statistics (CAPMAS)
+2016,Egypt,EGY,0.440897,,Central Agency For Public Mobilization And Statistics (CAPMAS)
+2017,Egypt,EGY,0.733159,,Central Agency For Public Mobilization And Statistics (CAPMAS)
+2018,Egypt,EGY,7.78921,,Ministry of Communications and Information Technology
+2019,Egypt,EGY,8.90094,,Ministry of Communications and Information Technology
+2020,Egypt,EGY,10.387,,Ministry of Communications and Information Technology
+2004,Estonia,EST,10.8552,Corresponds to public library.Users in the last 3 months.,Eurostat
+2005,Estonia,EST,3.63745,"i_igov,i_ipo,i_ivol, no data",Eurostat
+2006,Estonia,EST,3.05054,"i_igov,i_ipo,i_ivol, no data",Eurostat
+2007,Estonia,EST,3.38068,"i_ipo, no data",Eurostat
+2008,Estonia,EST,2.33158,"i_ipo, no data",Eurostat
+2009,Estonia,EST,2.58196,"i_ipo, no data",Eurostat
+2010,Estonia,EST,3.60163,Corresponds to public library.Users in the last 3 months.,Eurostat
+2011,Estonia,EST,4.8235,Corresponds to public library Users in the last 3 months.,Eurostat
+2013,Estonia,EST,3.70817,,
+2003,Finland,FIN,12.6158,Corresponds to public library.Users in the last 3 months.,Eurostat
+2004,Finland,FIN,13.7422,Corresponds to public library.Users in the last 3 months.,Eurostat
+2006,Finland,FIN,10.8106,"i_ipo, no data",Eurostat
+2007,Finland,FIN,9.41801,"i_ipo, no data",Eurostat
+2008,Finland,FIN,8.98316,"i_ipo, no data",Eurostat
+2009,Finland,FIN,10.1748,"i_ipo, no data",Eurostat
+2010,Finland,FIN,10.5306,Corresponds to public library.Users in the last 3 months.,Eurostat
+2002,United Kingdom,GBR,1.90763,"i_ilib,i_ivol, no data",Eurostat
+2003,United Kingdom,GBR,10.1038,"i_ipo,i_ivol, no data",Eurostat
+2004,United Kingdom,GBR,8.83637,"i_ipo,i_ivol, no data",Eurostat
+2005,United Kingdom,GBR,10.6369,"i_ipo, no data",Eurostat
+2006,United Kingdom,GBR,9.87882,"i_ipo, no data",Eurostat
+2007,United Kingdom,GBR,3.68023,"i_igov,i_ipo,i_ivol, no data",Eurostat
+2008,United Kingdom,GBR,3.66845,"i_igov,i_ipo,i_ivol, no data",Eurostat
+2009,United Kingdom,GBR,5.17494,"i_igov,i_ipo,i_ivol, no data",Eurostat
+2010,United Kingdom,GBR,4.14909,Corresponds to public library.Users in the last 3 months.,Eurostat
+2003,Greece,GRC,1.9531,Corresponds to public library.Users in the last 3 months.,Eurostat
+2004,Greece,GRC,2.1456,"i_ipo, no data",Eurostat
+2005,Greece,GRC,0.937709,"i_ipo,i_ivol, no data",Eurostat
+2006,Greece,GRC,0.996543,"i_ipo, no data",Eurostat
+2007,Greece,GRC,1.0535,Corresponds to public library.Users in the last 3 months.,Eurostat
+2008,Greece,GRC,1.33884,"i_ipo, no data",Eurostat
+2007,"Hong Kong, China",HKG,2.14066,At places with public computer facilities provided by the Government.,Census and Statistics Department
+2008,"Hong Kong, China",HKG,2.28425,At places with public computer facilities provided by the Government.,Census and Statistics Department
+2009,"Hong Kong, China",HKG,1.42558,At places with public computer facilities provided by the Govt. Refer to those who had used the Internet service for at least once a week during 12 months before enumeration.,Census and Statistics Department
+2012,"Hong Kong, China",HKG,2.59383,Places with public computer facilities provided by the Government.,Census and Statistics Department
+2005,Hungary,HUN,6.13663,Corresponds to public library.Users in the last 3 months.,Eurostat
+2006,Hungary,HUN,8.04789,Corresponds to public library.Users in the last 3 months.,Eurostat
+2007,Hungary,HUN,5.14595,Corresponds to public library.Users in the last 3 months.,Eurostat
+2008,Hungary,HUN,5.014,Corresponds to public library.Users in the last 3 months.,Eurostat
+2009,Hungary,HUN,4.785,Corresponds to public library.Users in the last 3 months.,Eurostat
+2010,Hungary,HUN,5.33745,Corresponds to public library.Users in the last 3 months.,Eurostat
+2011,Hungary,HUN,4.8809,Corresponds to public library Users in the last 3 months.,Eurostat
+2013,Hungary,HUN,4.65352,,
+2005,Netherlands,NLD,1.39909,"i_ipo, no data",Eurostat
+2006,Netherlands,NLD,1.3487,"i_ipo, no data",Eurostat
+2007,Netherlands,NLD,1.20907,Corresponds to public library.Users in the last 3 months.,Eurostat
+2008,Netherlands,NLD,1.29954,"i_ipo, no data",Eurostat
+2009,Netherlands,NLD,1.30668,Corresponds to public library.Users in the last 3 months.,Eurostat
+2010,Netherlands,NLD,1.55181,Corresponds to public library.Users in the last 3 months.,Eurostat
+2011,Netherlands,NLD,1.65172,Corresponds to public library Users in the last 3 months.,Eurostat
+2013,Netherlands,NLD,3.13337,,
+2007,Croatia,HRV,3.08655,Corresponds to public library.Users in the last 3 months.,Eurostat
+2008,Croatia,HRV,4.72713,"i_ivol, no data",Eurostat
+2009,Croatia,HRV,3.58834,Corresponds to public library.Users in the last 3 months.,Eurostat
+2010,Croatia,HRV,5.21511,Corresponds to public library.Users in the last 3 months.,Eurostat
+2011,Croatia,HRV,5.26039,Corresponds to public library Users in the last 3 months.,Eurostat
+2015,Indonesia,IDN,38.6993,,BADAN PUSAT STATISTIK (STATISTICS OF INDONESIA)
+2016,Indonesia,IDN,45.1327,,BADAN PUSAT STATISTIK (STATISTICS OF INDONESIA)
+2017,Indonesia,IDN,21.9387,,BADAN PUSAT STATISTIK (STATISTICS INDONESIA)
+2003,Ireland,IRL,2.75374,"i_igov,i_ipo, no data",Eurostat
+2004,Ireland,IRL,2.50261,Corresponds to public library.Users in the last 3 months.,Eurostat
+2005,Ireland,IRL,2.70163,Corresponds to public library.Users in the last 3 months.,Eurostat
+2009,Ireland,IRL,0.948732,Corresponds to public library.Users in the last 3 months.,Eurostat
+2011,Ireland,IRL,0.814502,Corresponds to public library Users in the last 3 months.,Eurostat
+2013,Ireland,IRL,2.67126,,
+2009,Iran (Islamic Republic of),IRN,1.21773,,Statistical Center of Iran
+2010,Iran (Islamic Republic of),IRN,1.41606,,Statistical Center of Iran (SCI)
+2013,Iran (Islamic Republic of),IRN,1.26674,,Statistical Centre of Iran
+2015,Iran (Islamic Republic of),IRN,0.609124,,Statistical Centre of Iran
+2017,Iran (Islamic Republic of),IRN,1.20857,,Statistical Centre of Iran
+2007,Iceland,ISL,8.98674,"i_ipo,i_ivol, no data",Eurostat
+2011,Iceland,ISL,2.0668,Corresponds to public library Users in the last 3 months.,Eurostat
+2007,Japan,JPN,3.9031,,Ministry of Internal Affairs and Communications
+2008,Japan,JPN,3.31565,,Ministry of Internal Affairs and Communications
+2009,Japan,JPN,3.39761,Sample results.,Ministry of Internal Affairs and Communications
+2010,Japan,JPN,3.00332,,Ministry of Internal Affairs and Communications
+2011,Japan,JPN,6.28698,,Ministry of Internal Affairs and Communications
+2012,Japan,JPN,6.09107,,Ministry of Internal Affairs and Communications
+2013,Japan,JPN,7.58515,,Ministry of Internal Affairs and Communications
+2014,Japan,JPN,6.60942,,Ministry of Internal Affairs and Communications
+2015,Japan,JPN,7.98177,,Ministry of Internal Affairs and Communications
+2016,Japan,JPN,11.7821,,Ministry of Internal Affairs and Communications
+2017,Japan,JPN,12.1189,,Ministry of Internal Affairs and Communications
+2018,Japan,JPN,27.2646,,Ministry of Internal Affairs and Communications
+2019,Japan,JPN,32.3215,,Ministry of Internal Affairs and Communications
+2020,Japan,JPN,27.467,,Ministry of Internal Affairs and Communications
+2010,Jamaica,JAM,5.58949,,STATISTICAL INSTITUTE OF JAMAICA
+2012,Jamaica,JAM,10.0556,,Statistical Institue of Jamaica
+2014,Jamaica,JAM,5.02955,,Statistical Institute of Jamaica
+2015,Jamaica,JAM,2.30933,,Statistical Institute of Jamaica (STATIN)
+2016,Jamaica,JAM,3.01515,,THE STATISTICAL INSTITUTE OF JAMAICA (STATIN)
+2017,Jamaica,JAM,3.59632,,Statistical Institute of Jamaica
+2015,Kenya,KEN,0.307683,,KENYA NATIONAL BUREAU OF STATISTICS
+2008,Korea (Rep. of),KOR,2.33074,,Korea Communications Commission (KCC)
+2009,Korea (Rep. of),KOR,2.88436,,Korea Communications Commission (KCC)
+2011,Korea (Rep. of),KOR,2.27542,,Korea Communications Commission (KCC)
+2012,Korea (Rep. of),KOR,2.76353,,"Ministry of Science, ICT & Future Planning(MSIP)"
+2013,Korea (Rep. of),KOR,8.5624,,"Ministry of Science, ICT & Future Planning(MSIP)"
+2014,Korea (Rep. of),KOR,18.6629,,"Ministry of Science, ICT & Future Planning(MSIP)"
+2015,Korea (Rep. of),KOR,33.3403,,"Ministry of Science, ICT & Future Planning(MSIP)"
+2016,Korea (Rep. of),KOR,30.421,,Ministry of Science and ICT(MSIT)
+2017,Korea (Rep. of),KOR,39.9453,,Ministriy of Sceience and ICT(MSIT)
+2018,Korea (Rep. of),KOR,44.5039,,Ministriy of Sceience and ICT(MSIT)
+2019,Korea (Rep. of),KOR,43.6123,,Ministriy of Sceience and ICT(MSIT)
+2020,Korea (Rep. of),KOR,51.1683,,Ministriy of Sceience and ICT(MSIT)
+2017,Kuwait,KWT,51.0204,,comminucations and information technology regulatory authority
+2018,Kuwait,KWT,67.0224,,comminucations and information technology regulatory authority
+2004,Lithuania,LTU,9.10302,"i_ivol, no data",Eurostat
+2005,Lithuania,LTU,7.39062,Corresponds to public library.Users in the last 3 months.,Eurostat
+2006,Lithuania,LTU,8.70703,Corresponds to public library.Users in the last 3 months.,Eurostat
+2007,Lithuania,LTU,7.58229,Corresponds to public library.Users in the last 3 months.,Eurostat
+2008,Lithuania,LTU,5.93753,Corresponds to public library.Users in the last 3 months.,Eurostat
+2009,Lithuania,LTU,6.96155,"i_ipo,i_ivol, no data",Eurostat
+2010,Lithuania,LTU,6.71706,,Eurostat
+2011,Lithuania,LTU,8.04523,Corresponds to public library Users in the last 3 months.,Eurostat
+2013,Lithuania,LTU,7.62391,,Eurostat
+2003,Luxembourg,LUX,3.48196,Corresponds to public library.Users in the last 3 months.,Eurostat
+2006,Luxembourg,LUX,0.582,"i_igov,i_ipo,i_ivol, no data",Eurostat
+2008,Luxembourg,LUX,2.31427,Corresponds to public library.Users in the last 3 months.,Eurostat
+2009,Luxembourg,LUX,2.86977,Corresponds to public library.Users in the last 3 months.,Eurostat
+2010,Luxembourg,LUX,4.30889,Corresponds to public library.Users in the last 3 months.,Eurostat
+2011,Luxembourg,LUX,3.06545,Corresponds to public library Users in the last 3 months.,Eurostat
+2013,Luxembourg,LUX,4.04568,,
+2004,Latvia,LVA,3.28491,Corresponds to public library.Users in the last 3 months.,Eurostat
+2005,Latvia,LVA,5.59401,Corresponds to public library.Users in the last 3 months.,Eurostat
+2006,Latvia,LVA,6.96447,Corresponds to public library.Users in the last 3 months.,Eurostat
+2007,Latvia,LVA,4.71181,Corresponds to public library.Users in the last 3 months.,Eurostat
+2008,Latvia,LVA,9.06258,Corresponds to public library.Users in the last 3 months.,Eurostat
+2009,Latvia,LVA,12.0333,Corresponds to public library.Users in the last 3 months.,Eurostat
+2013,Latvia,LVA,11.3216,,
+2008,"Macao, China",MAC,1.8797,,Statistics and Census Service
+2009,"Macao, China",MAC,0.384347,Refer to Individuals using the Internet/computer during the last 3 months prior to the ICT survey.,Statisitics and Census Service
+2010,"Macao, China",MAC,1.58675,Reference period: in the last 3 months.,Statisitics and Census Service
+2011,"Macao, China",MAC,1.2218,,Statisitics and Census Service
+2012,"Macao, China",MAC,0.945906,,Statisitics and Census Service
+2013,"Macao, China",MAC,0.665425,,Statisitics and Census Service
+2014,"Macao, China",MAC,1.04637,,Statistics and Census Service
+2015,"Macao, China",MAC,1.01954,,Statistics and Census Service
+2016,"Macao, China",MAC,1.0202,,Statistics and Census Service
+2017,"Macao, China",MAC,1.44081,,Statistics and Census Service
+2008,Mauritius,MUS,1.71092,Free public access facility,Central Statistics Office
+2010,Mauritius,MUS,4.37475,Free public access facility,Central Statistics Office
+2012,Mauritius,MUS,5.80674,Free Public Access,Statistics Mauritius
+2014,Mauritius,MUS,11.444,,Statistics Mauritius
+2018,Mauritius,MUS,13.1386,,Statistics Mauritius
+2020,Mauritius,MUS,15.8697,,Statistics Mauritius
+2007,Mexico,MEX,3.63233,"The Survey asks only for the main two places of use, therefore comparisons with other countries are not recommended.",Instituto Nacional de Estadística y Geografía (INEGI)
+2008,Mexico,MEX,1.13377,"The Survey asks only for the main two places of use, therefore comparisons with other countries are not recommended.",Instituto Nacional de Estadística y Geografía (INEGI)
+2009,Mexico,MEX,1.00034,"Locals where access is not paid. The Survey asks only for the main two places of use, therefore comparisons with other countries are not recommended.",Instituto Nacional de Estadística y Geografía (INEGI)
+2010,Mexico,MEX,0.843494,Se refiere a sitios públicos en donde se ofrecen servicios de Internet sin costo.,Instituto Nacional de Estadística y Geografía (INEGI)
+2011,Mexico,MEX,1.02479,Refers to public access free of charge,INEGI
+2012,Mexico,MEX,1.17434,Opened place with free access to internet and/or a computational.,Instituto Nacional de Estadística y Geografía (INEGI)
+2013,Mexico,MEX,1.86594,,Instituto Nacional de Estadística y Geografía
+2014,Mexico,MEX,2.60012,,Instituto Nacional de Estadística y Geografía (INEGI)
+2015,Mexico,MEX,21.5457,,Instituto Nacional de Estadística y Geografía (INEGI)
+2016,Mexico,MEX,18.6496,,Instituto Nacional de Estadística y Geografía (INEGI)
+2017,Mexico,MEX,19.3154,,Instituto Nacional de Estadística y Geografía (INEGI)
+2018,Mexico,MEX,20.6548,,Instituto Nacional de Estadística y Geografía (INEGI)
+2019,Mexico,MEX,21.1611,,Instituto Nacional de Estadística y Geografía (INEGI)
+2020,Mexico,MEX,18.4907,,Instituto Nacional de Estadística y Geografía (INEGI)
+2015,Malaysia,MYS,22.2996,,Department of Statistics Malaysia
+2017,Malaysia,MYS,14.09,,Department of Statistics Malaysia
+2005,Malta,MLT,0.957512,"i_ipo, no data",Eurostat
+2006,Malta,MLT,0.952872,"i_ipo, no data",Eurostat
+2007,Malta,MLT,0.724379,"i_ipo, no data",Eurostat
+2008,Malta,MLT,0.894188,Corresponds to public library.Users in the last 3 months.,Eurostat
+2009,Malta,MLT,1.1938,"i_igov,i_ipo, no data",Eurostat
+2010,Malta,MLT,0.890791,Corresponds to public library.Users in the last 3 months.,Eurostat
+2011,Malta,MLT,1.65983,,Eurostat
+2012,Morocco,MAR,7,,AGENCE NATIONALE DE REGLEMENTATION DES TELECOMMUJNICATIONS
+2014,Morocco,MAR,29.9,,AGENCE NATIONALE DE REGLEMENTATION DES TELECOMMUJNICATIONS
+2015,Morocco,MAR,49.7,,Agence Nationale de Réglementation des Télécommunications (ANRT)
+2016,Morocco,MAR,54.5,,Agence Nationale de Réglementation des Télécommunications (ANRT)
+2017,Morocco,MAR,72.5981,,Agence Nationale de Réglementation des Télécommunications (ANRT)
+2018,Morocco,MAR,11.6853,,Agence Nationale de Réglementation des Télécommunications (ANRT)
+2006,Nicaragua,NIC,0.203581,,Instituto Nacional de Información de Desarrollo
+2007,Norway,NOR,2.19847,Corresponds to public library.Users in the last 3 months.,Eurostat
+2008,Norway,NOR,5.39338,Corresponds to public library.Users in the last 3 months.,Eurostat
+2009,Norway,NOR,6.72235,Corresponds to public library.Users in the last 3 months.,Eurostat
+2010,Norway,NOR,6.7233,Corresponds to public library.Users in the last 3 months.,Eurostat
+2011,Norway,NOR,6.00064,Corresponds to public library Users in the last 3 months.,Eurostat
+2013,Norway,NOR,4.83591,,
+2006,New Zealand,NZL,8.74094,,Statistics New Zealand
+2009,New Zealand,NZL,11.6922,,Statistics New Zealand
+2007,Oman,OMN,0.0525864,,Information Technology Authority (ITA)
+2013,Oman,OMN,2.34759,,Information Technology Authority (ITA) 
+2016,Oman,OMN,1.25625,,Information Technology Authority (ITA) 
+2012,Panama,PAN,7.52538,,INSTITUTO NACIONAL DE ESTADÍSTICA Y CENSO - CONTRALORÍA GENERAL
+2004,Poland,POL,2.46956,Corresponds to public library.Users in the last 3 months.,Eurostat
+2005,Poland,POL,2.83747,Corresponds to public library.Users in the last 3 months.,Eurostat
+2006,Poland,POL,3.20636,Corresponds to public library.Users in the last 3 months.,Eurostat
+2007,Poland,POL,3.67069,Corresponds to public library.Users in the last 3 months.,Eurostat
+2009,Poland,POL,3.37301,"i_ipo,i_ivol, no data",Eurostat
+2010,Poland,POL,3.65685,Corresponds to public library.Users in the last 3 months.,Eurostat
+2011,Poland,POL,3.30912,Corresponds to public library Users in the last 3 months.,Eurostat
+2013,Poland,POL,3.1609,,
+2016,Poland,POL,30.2489,,the Statistical Office in Szczecin 
+2017,Poland,POL,38.4594,,
+2003,Portugal,PRT,4.09522,"i_ipo, no data",Eurostat
+2004,Portugal,PRT,8.3263,"i_ipo, no data",Eurostat
+2005,Portugal,PRT,8.03421,"i_ipo,i_ivol, no data",Eurostat
+2006,Portugal,PRT,7.6404,"i_ipo,i_ivol, no data",Eurostat
+2007,Portugal,PRT,9.90522,"i_ipo, no data",Eurostat
+2008,Portugal,PRT,8.39741,"i_ipo, no data",Eurostat
+2009,Portugal,PRT,9.4605,Corresponds to public library.Users in the last 3 months.,Eurostat
+2010,Portugal,PRT,6.76743,Corresponds to public library.Users in the last 3 months.,Eurostat
+2011,Portugal,PRT,8.47058,Corresponds to public library Users in the last 3 months.,Eurostat
+2013,Portugal,PRT,8.25808,,
+2014,Paraguay,PRY,0.0421804,,"Dirección General de Estadística, Encuestas y Censos (DGEEC)"
+2015,Paraguay,PRY,4.58391,,"Dirección General de Estadística, Encuestas y Censos (DGEEC)"
+2017,Paraguay,PRY,7.00254,,"Dirección General de Estadística, Encuestas y Censos (DGEEC)"
+2018,Paraguay,PRY,7.77742,,"Dirección General de Estadística, Encuestas y Censos (DGEEC)"
+2019,Paraguay,PRY,7.17116,,"Dirección General de Estadística, Encuestas y Censos (DGEEC)"
+2020,Paraguay,PRY,3.14731,,Instituto Nacional de Estadística (INE)
+2008,Qatar,QAT,14.5206,,Supreme Council Of Information & Communication Technology (ictQATAR)
+2009,Qatar,QAT,30.1117,,Supreme Council Of Information & Communication Technology (ictQATAR)
+2010,Qatar,QAT,42.9958,,Supreme Council Of Information & Communication Technology (ictQATAR)
+2011,Qatar,QAT,39.6333,,Supreme Council Of Information & Communication Technology (ictQATAR)
+2012,Qatar,QAT,39.3607,,Ministry Of Information & Communication Technology (ictQATAR)
+2013,Qatar,QAT,47.3533,"In-scope population refers to ""mainstream"" population living in households.",Ministry Of Information & Communication Technology (ictQATAR)
+2015,Qatar,QAT,20.8347,,Ministry Of Transport and Communications
+2016,Qatar,QAT,21.27,,
+2017,Qatar,QAT,26.8886,,
+2018,Qatar,QAT,32.2521,,Ministry Of Transport and Communications
+2019,Qatar,QAT,36.0894,,Ministry of Transport and Communications
+2020,Qatar,QAT,40.3405,,Ministry of Transport and Communications
+2006,Romania,ROU,0.211807,"i_igov,i_ipo,i_ivol, no data",Eurostat
+2007,Romania,ROU,0.416184,"i_ipo, no data",Eurostat
+2008,Romania,ROU,0.328165,"i_ivol, no data",Eurostat
+2009,Romania,ROU,1.91015,Corresponds to public library.Users in the last 3 months.,Eurostat
+2010,Romania,ROU,0.880146,Corresponds to public library.Users in the last 3 months.,Eurostat
+2013,Romania,ROU,2.26929,,
+2013,Russian Federation,RUS,0.761051,,Federal State Statistics Service (Rosstat)
+2014,Russian Federation,RUS,0.865382,,Federal State Statistics Service (Rosstat)
+2015,Russian Federation,RUS,0.930589,,Federal State Statistics Service (Rosstat)
+2016,Russian Federation,RUS,1.0861,,Federal State Statistics Service (Rosstat)
+2017,Russian Federation,RUS,1.60107,,Federal State Statistics Service (ROSSTAT)
+2018,Russian Federation,RUS,21.4501,,Federal State Statistics Service (Rosstat) 
+2019,Russian Federation,RUS,2.48736,,Federal State Statistics Service (Rosstat) 
+2020,Russian Federation,RUS,14.3919,,Federal State Statistics Service
+2005,Sweden,SWE,2.05329,"i_ipo, no data",Eurostat
+2006,Sweden,SWE,1.733,"i_ipo, no data",Eurostat
+2007,Sweden,SWE,3.95194,"i_ipo, no data",Eurostat
+2008,Sweden,SWE,4.23211,"i_ipo, no data",Eurostat
+2009,Sweden,SWE,4.36429,"i_ipo, no data",Eurostat
+2010,Sweden,SWE,5.59824,Corresponds to public library.Users in the last 3 months.,Eurostat
+2011,Sweden,SWE,6.86644,Corresponds to public library Users in the last 3 months.,Eurostat
+2013,Sweden,SWE,9.65526,,
+2009,Senegal,SEN,14.2452,,Agence Nationale de la Statistique et de la Démographie
+2007,El Salvador,SLV,0.0592506,,Dirección General de Estadística y Censos. (DIGESTYC)
+2008,El Salvador,SLV,0.0309868,,Dirección General de Estadística y Censos. (DIGESTYC)
+2009,El Salvador,SLV,0.0642213,,Dirección General de Estadística y Censos. (DIGESTYC)
+2010,El Salvador,SLV,0.253652,,Dirección General de Estadística y Censos. (DIGESTYC)
+2011,El Salvador,SLV,0.0811056,,Dirección General de Estadística y Censos. (DIGESTYC)
+2012,El Salvador,SLV,0.00332129,,Dirección General de Estadística y Censos. (DIGESTYC)
+2013,El Salvador,SLV,0.0755425,,Dirección General de Estadística y Censos. (DIGESTYC)
+2014,El Salvador,SLV,0.0810705,,Dirección General de Estadística y Censos. (DIGESTYC)
+2017,El Salvador,SLV,0.0245819,,Dirección General de Estadística y Censos. (DIGESTYC)
+2019,El Salvador,SLV,1.13992,,Dirección General de Estadística y Censos. (DIGESTYC)
+2020,El Salvador,SLV,0.0292792,,Dirección General de Estadística y Censos. (DIGESTYC)
+2009,Singapore,SGP,5.1942,Residents aged 7 yrs and above,Infocomm Development Authority of Singapore
+2014,Singapore,SGP,8.82458,,Infocomm Development Authority of Singapore
+2017,Singapore,SGP,17.6604,,Infocomm Media Development Authority
+2009,Switzerland,CHE,3.95632,,Office fédéral de la statistique
+2010,Switzerland,CHE,3.79597,"In the last 6 months. Access in a public place, regardless of payment or gratuity (library, cybercafe, etc.)",Office fédéral de la statistique
+2012,Switzerland,CHE,6.83601,"Public internet access without price precision (library, internet cafe …)",Office fédéral de la statistique
+2015,Switzerland,CHE,2.40293,,Office fédéral de la statistique
+2016,Switzerland,CHE,2.48185,,Office fédéral de la statistique
+2005,Slovenia,SVN,9.70576,"i_igov,i_ipo,i_ivol, no data",Eurostat
+2003,Czech Republic,CZE,2.29647,"i_igov,i_ipo,i_ivol, no data",Eurostat
+2008,Thailand,THA,0.127894,population 6 years and over,National Statistical Office
+2009,Thailand,THA,0.620307,population 6 years and over,National Statistical Office
+2010,Thailand,THA,0.770999,Answer only up to two choice,National Statistical Office
+2011,Thailand,THA,7.43601,,National Statistical Office
+2012,Thailand,THA,3.72447,,National Statistical Office
+2013,Thailand,THA,3.86877,,National Statistical Office
+2014,Thailand,THA,5.08555,,National Statistical Office
+2015,Thailand,THA,5.98295,,
+2016,Thailand,THA,4.06491,,National Statistical Office of Thailand
+2017,Thailand,THA,4.28129,,National Statistical Office of Thailand
+2018,Thailand,THA,6.64296,,National Statistical Office of Thailand
+2019,Thailand,THA,11.76,,National Statistical Office of Thailand
+2020,Thailand,THA,14.6259,,National Statistical Office of Thailand
+2008,Turkey,TUR,1.81899,Individuals (16-74 age group) using the Internet in the last 3 months(January-March 2008) by location ,TURKISH STATISTICAL INSTITUTION
+2009,Turkey,TUR,1.71434,Individuals (16-74 age group) using the Internet in the last 3 months(January-March 2009) by location,Turkish Statistical Institution
+2010,Turkey,TUR,1.77152,Individuals (16-74 age group) using the Internet in the last 3 months(January-March 2010) by location ,TURKISH STATISTICAL INSTITUTE (TURKSTAT)
+2011,Turkey,TUR,6.01799,"Individuals (16-74 age group) using the Internet in the last 3 months (January-March 2011). It ıncludes public library, post office, government agency, community or voluntary organization, hotels, airports, public places.",Turkish Statistical Institute
+2012,Turkey,TUR,0.150443,Last 3 months.,Turkish Statistical Institution (TurkStat)
+2013,Turkey,TUR,14.7971,,Turkish Statistical Institution (TurkStat)
+2012,United Arab Emirates,ARE,2.9161,,Telecommunications Regulatory Authority 
+2014,United Arab Emirates,ARE,14.9336,,Telecommunications Regulatory Authority 
+2016,United Arab Emirates,ARE,19,,Telecommunications Regulatory Authority 
+2018,United Arab Emirates,ARE,26,,Telecommunication Regulatory Authority
+2019,United Arab Emirates,ARE,28.3191,,Telecommunication Regulatory Authority
+2020,United Arab Emirates,ARE,8.6,,Telecommunications & Digital Gevernment Regulatory Authority
+2007,Ukraine,UKR,17.6969,,State Statistics Committee of Ukraine
+2008,Ukraine,UKR,14.0788,,State Statistics Committee of Ukraine
+2009,Ukraine,UKR,10.0493,,State Statistics Committee of Ukraine
+2010,Ukraine,UKR,6.04512,"Use of the Internet in Internet cafes / clubs, both commercial and public.",Государственная служба статистики Украины
+2012,Ukraine,UKR,0.695264,,State Statistics Service of Ukraine 
+2013,Ukraine,UKR,0.401852,,State Statistics Service of Ukraine
+2015,Ukraine,UKR,0.276205,,State Statistics Service of Ukraine
+2017,Ukraine,UKR,0.300957,,State Statistics Service of Ukraine
+2018,Ukraine,UKR,0.116065,,State Statistics Service of Ukraine
+2020,Ukraine,UKR,0.382798,,State Statistics Service of Ukraine
+2009,Uruguay,URY,6.83337,,Instituto Nacional de Estadistica. Uruguay
+2011,Uruguay,URY,7.30506,,Instituto Nacional de Estadistica. Uruguay
+2015,United States,USA,23.2117,,U.S. Census Bureau
+2018,Uzbekistan,UZB,3.8213,,The State Committee of the Republic of Uzbekistan on Statistics
+2020,Uzbekistan,UZB,0.703235,,The State Committee of the Republic of Uzbekistan on Statistics
+2012,Venezuela,VEN,3.12469,,Instituto Nacional de Estadística
+2007,Serbia,SRB,0.0976531,"i_ivol, no data",Eurostat
+2009,Serbia,SRB,0.825271,"i_ivol, no data",Eurostat
+2016,Serbia,SRB,39.1155,,Statistical office of the Republic of Serbia
+2014,Zimbabwe,ZWE,1.05101,,
+2020,Zimbabwe,ZWE,5.34141,,Zimbabwe National Statistics Agency (ZIMSTAT)
+2009,Moldova,MDA,1.99997,,THE MINISTRY OF INFORMATION TECHNOLOGY AND COMMUNICATIONS
+2015,Kazakhstan,KAZ,7.62823,,Ministry of National Economy of the Republic of Kazakhstan Committee on Statistics
+2016,Kazakhstan,KAZ,6.09437,,Ministry of National Economy of the Republic of Kazakhstan Committee on Statistics
+2017,Kazakhstan,KAZ,6.34814,,Ministry of National Economy of the Republic of Kazakhstan Committee on Statistics
+2018,Kazakhstan,KAZ,9.43795,,Ministry of National Economy of the Republic of Kazakhstan Committee on Statistics
+2019,Kazakhstan,KAZ,7.98127,,Ministry of National Economy of the Republic of Kazakhstan Committee on Statistics
+2020,Kazakhstan,KAZ,7.57677,,Agency for Strategic planning and reforms of the Republic of Kazakhstan Bureau of National statistics
+2004,Slovakia,SVK,4.27339,Corresponds to public library.Users in the last 3 months.,Eurostat
+2005,Slovakia,SVK,3.28838,Corresponds to public library.Users in the last 3 months.,Eurostat
+2006,Slovakia,SVK,2.84471,Corresponds to public library.Users in the last 3 months.,Eurostat
+2007,Slovakia,SVK,2.54703,Corresponds to public library.Users in the last 3 months.,Eurostat
+2008,Slovakia,SVK,2.78492,Corresponds to public library.Users in the last 3 months.,Eurostat
+2009,Slovakia,SVK,3.61134,Corresponds to public library.Users in the last 3 months.,Eurostat
+2010,Slovakia,SVK,3.66023,Corresponds to public library.Users in the last 3 months.,Eurostat
+2013,Slovakia,SVK,4.40908,,
+2009,North Macedonia,MKD,2.15331,"i_ipo,i_ivol, no data",Eurostat
+2010,North Macedonia,MKD,0.818654,Corresponds to public library.Users in the last 3 months.,Eurostat
+2013,North Macedonia,MKD,2.41936,,Eurostat
+2006,Palestine,WBG,0.7505,,Palestinian Central Bureau of Statistics
+2011,Palestine,WBG,4.38215,,Palestinian Central Bureau of Statiatics
+2014,Palestine,WBG,10.5949,,Palestinian Central Bureau of Statistics
+2019,Palestine,WBG,8.57906,,Palestinian Central Bureau of Statistics

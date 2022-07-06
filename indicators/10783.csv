@@ -1,0 +1,622 @@
+year,country,iso,value,note,source
+2000,Andorra,AND,8.95926,,
+2016,Armenia,ARM,1.85351,,National statistical service of RA
+2019,Armenia,ARM,3.78057,,Statistical Committee of RA
+2020,Armenia,ARM,2.6486,,Statistical Committee of RA
+2016,Saudi Arabia,SAU,15.1757,,CITC
+2017,Saudi Arabia,SAU,12.2801,,Communication and Information Technology Commission (CITC)
+2018,Saudi Arabia,SAU,18.6573,,Communication and Information Technology Commission
+2019,Saudi Arabia,SAU,17.7268,,Communications andI nformation Technology Commision
+2007,Australia,AUS,22.6662,,Australian Burau of Statistics
+2008,Australia,AUS,21.6571,,Australian Burau of Statistics
+2009,Australia,AUS,20.6425,,Australian Bureau os Statistics
+2011,Australia,AUS,20.7357,,Australian Bureau of Statistics
+2013,Australia,AUS,22.257,,Australian Bureau of Statistics
+2002,Austria,AUT,15.9114,Users in the last 3 months.,Eurostat
+2003,Austria,AUT,11.8481,Users in the last 3 months.,Eurostat
+2004,Austria,AUT,9.8476,Users in the last 3 months.,Eurostat
+2005,Austria,AUT,8.3789,Users in the last 3 months.,Eurostat
+2006,Austria,AUT,10.0357,Users in the last 3 months.,Eurostat
+2007,Austria,AUT,9.40266,Users in the last 3 months.,Eurostat
+2008,Austria,AUT,10.0329,Users in the last 3 months.,Eurostat
+2009,Austria,AUT,11.1045,Users in the last 3 months.,Eurostat
+2010,Austria,AUT,12.3374,Users in the last 3 months.,Eurostat
+2011,Austria,AUT,12.9413, Users in the last 3 months.,Eurostat
+2013,Austria,AUT,12.5173,,Eurostat
+2008,Azerbaijan,AZE,8.7962,,State Statistical Committee
+2009,Azerbaijan,AZE,10.1647,,State Statistical Committee
+2010,Azerbaijan,AZE,6.9919,,State Statistical Committee
+2017,Azerbaijan,AZE,9.4,,State Statistical Committee
+2018,Azerbaijan,AZE,9.40002,,State Statistical Committee
+2019,Azerbaijan,AZE,9.9,,State Statistical Committee
+2020,Azerbaijan,AZE,9.4,,State Statistical Committee
+2009,Brazil,BRA,14.1523,In the last 3 months.,Brazilian Steering Committee
+2010,Brazil,BRA,17.233,"Information available only for the period ""in the last 3 months"".",
+2013,Brazil,BRA,16.8736,,NIC.br
+2014,Brazil,BRA,15.0035,,NIC.br
+2016,Brazil,BRA,20.1733,,NIC.br
+2017,Brazil,BRA,19.4811,,NIC.br
+2018,Brazil,BRA,19.7166,,NIC.br
+2019,Brazil,BRA,20.4177,,NIC.br
+2020,Brazil,BRA,11.4056,,NIC.br
+2005,Belgium,BEL,7.98888,Users in the last 3 months.,Eurostat
+2006,Belgium,BEL,9.82874,Users in the last 3 months.,Eurostat
+2007,Belgium,BEL,9.96502,Users in the last 3 months.,Eurostat
+2008,Belgium,BEL,10.5852,Users in the last 3 months.,Eurostat
+2009,Belgium,BEL,11.7126,Users in the last 3 months.,Eurostat
+2010,Belgium,BEL,11.7374,Users in the last 3 months.,Eurostat
+2011,Belgium,BEL,12.6945, Users in the last 3 months.,Eurostat
+2013,Belgium,BEL,13.6586,,Eurostat
+2013,Bangladesh,BGD,15.2188,,Bangladesh Bureau of Statistics (BBS)
+2011,Bahrain,BHR,14.4602,Estimated based on TRA 2011 Residential consumer survey,Telecommunications Regulatory Authority (TRA)
+2012,Bahrain,BHR,14.4601,Estimated based on TRA 2011 Residential consumer survey,Telecommunications Regulatory Authority (TRA)
+2013,Bahrain,BHR,18.7338,,Telecommunications Regulatory Authority (TRA)
+2014,Bahrain,BHR,19.4259,,Telecommunications Regulatory Authority (TRA)
+2015,Bahrain,BHR,14.2218,,Telecommunications Regulatory Authority (TRA) Bahrain
+2016,Bahrain,BHR,9.56833,,Telecommunications Regulatory Authority (TRA)
+2017,Bahrain,BHR,9.65129,,Telecommunications Regulatory Authority (TRA)
+2018,Bahrain,BHR,34.1543,,Telecommunications Regulatory Authority (TRA)
+2019,Bahrain,BHR,15.9281,,Telecommunications Regulatory Authority (TRA)
+2020,Bahrain,BHR,12.8713,,Telecommunications Regulatory Authority (TRA)
+2009,Belarus,BLR,0.564799,,National Statistical Committee of the Republic of Belarus
+2010,Belarus,BLR,0.703661,all individuals aged 16 and over,National Statistical Committee of the Republic of Belarus
+2011,Belarus,BLR,0.169664,Refers to the most frequently used place of access.,National Statistical Committee of the Republic of Belarus
+2012,Belarus,BLR,0.141969,,National Statistical Committee of the Republic of Belarus
+2014,Belarus,BLR,3.84149,,Национальный статистический комитет Республики Беларусь
+2015,Belarus,BLR,4.40204,,Национальный статистический комитет Республики Беларусь
+2016,Belarus,BLR,4.43925,,Национальный статистический комитет Республики Беларусь
+2017,Belarus,BLR,4.75245,,Национальный статистический комитет Республики Беларусь
+2018,Belarus,BLR,5.52633,,Национальный статистический комитет Республики Беларусь
+2019,Belarus,BLR,5.50343,,Национальный статистический комитет Республики Беларусь
+2020,Belarus,BLR,5.08187,,Национальный статистический комитет Республики Беларусь
+2018,Bolivia (Plurinational State of),BOL,5.52985,,Statistic National Institute
+2019,Bolivia (Plurinational State of),BOL,4.91977,,Statistic National Institute
+2014,Botswana,BWA,18.9887,,Statistics Botswana
+2016,Brunei Darussalam,BRN,53.3333,,Authority for Info-communications Technology Industry of Brunei Darussalam
+2004,Bulgaria,BGR,12.4432,Users in the last 3 months.,Eurostat
+2006,Bulgaria,BGR,11.0665,Users in the last 3 months.,Eurostat
+2007,Bulgaria,BGR,11.2551,Users in the last 3 months.,Eurostat
+2008,Bulgaria,BGR,10.5151,Users in the last 3 months.,Eurostat
+2009,Bulgaria,BGR,10.6877,Users in the last 3 months.,Eurostat
+2010,Bulgaria,BGR,13.2821,Users in the last 3 months.,Eurostat
+2011,Bulgaria,BGR,10.5252, Users in the last 3 months.,Eurostat
+2013,Bulgaria,BGR,11.922,,Eurostat
+2007,Canada,CAN,19.8087,,Statistics Canada
+2009,Canada,CAN,20.6725,,Statistics Canada
+2010,Canada,CAN,17.6783,Refers to use of the Internet as a student at school,Statistics Canada
+2016,Cambodia,KHM,4.56717,,"National Institute of Statistics, Minsitry of Planning, Cambodia"
+2017,Cambodia,KHM,4.62293,,"National Institute of Statistics, Minsitry of Planning, Cambodia"
+2003,Chile,CHL,39.0211,,Ministerio de Planificación
+2006,Chile,CHL,25.7741,,Ministerio de Planificación
+2009,Chile,CHL,13.0265,,Ministerio de Planificación
+2009,Colombia,COL,31.0045,,Departamento Administrativo Nacional de Estadística-DANE
+2010,Colombia,COL,35.3713,,Departamento Administrativo Nacional de Estadística - DANE
+2011,Colombia,COL,35.4959,,Departamento Administrativo Nacional de Estadística - DANE
+2012,Colombia,COL,24.6372,,Departamento Administrativo Nacional de Estadística - DANE
+2013,Colombia,COL,24.53,,Departamento Administrativo Nacional de Estadística - DANE
+2014,Colombia,COL,26.0053,,Departamento Administrativo Nacional de Estadística - DANE
+2015,Colombia,COL,25.492,,Departamento Administrativo Nacional de Estadística - DANE
+2016,Colombia,COL,25.2557,,Departamento Administrativo Nacional de Estadística - DANE
+2017,Colombia,COL,24.0253,,Departamento Administrativo Nacional de Estadística - DANE
+2018,Colombia,COL,21.794,,Departamento Administrativo Nacional de Estadística - DANE
+2019,Cabo Verde,CPV,12.3827,,INSTITUTO NACIONAL DE ESTATISTICA
+2019,Côte d'Ivoire,CIV,10.038,,ARTCI
+2005,Costa Rica,CRI,13.2304,,Instituto Nacional de Estadística y Censos
+2008,Costa Rica,CRI,8.68969,,Instituto Nacional de Estadística y Censos
+2012,Costa Rica,CRI,9.16562,,Instituto Nacional de Estadística y Censos
+2013,Cuba,CUB,11.9633,,Oficina Nacional de Estadística e Información
+2015,Cuba,CUB,6.43396,,ONEI
+2017,Cuba,CUB,12.9514,,ONEI
+2019,Cuba,CUB,3.57655,,Oficina Nacional de Estadisticas e Informacion
+2004,Cyprus,CYP,16.6898,Users in the last 3 months.,Eurostat
+2005,Cyprus,CYP,14.2221,Users in the last 3 months.,Eurostat
+2006,Cyprus,CYP,14.6585,Users in the last 3 months.,Eurostat
+2007,Cyprus,CYP,10.4364,Users in the last 3 months.,Eurostat
+2008,Cyprus,CYP,10.6725,Users in the last 3 months.,Eurostat
+2009,Cyprus,CYP,12.5905,Users in the last 3 months.,Eurostat
+2010,Cyprus,CYP,15.0901,Users in the last 3 months.,Eurostat
+2011,Cyprus,CYP,16.2328, Users in the last 3 months.,Eurostat
+2013,Cyprus,CYP,13.1442,,Eurostat
+2002,Germany,DEU,11.4962,Users in the last 3 months.,Eurostat
+2003,Germany,DEU,13.391,Users in the last 3 months.,Eurostat
+2004,Germany,DEU,13.3194,Users in the last 3 months.,Eurostat
+2005,Germany,DEU,13.0923,Users in the last 3 months.,Eurostat
+2006,Germany,DEU,11.3985,Users in the last 3 months.,Eurostat
+2007,Germany,DEU,10.079,Users in the last 3 months.,Eurostat
+2008,Germany,DEU,8.55174,Users in the last 3 months.,Eurostat
+2009,Germany,DEU,10.0622,Users in the last 3 months.,Eurostat
+2010,Germany,DEU,7.24528,Users in the last 3 months.,Eurostat
+2011,Germany,DEU,8.52713, Users in the last 3 months.,Eurostat
+2013,Germany,DEU,12.981,,Eurostat
+2002,Denmark,DNK,14.9022,Users in the last 3 months.,Eurostat
+2003,Denmark,DNK,14.8958,Users in the last 3 months.,Eurostat
+2004,Denmark,DNK,14.7104,Users in the last 3 months.,Eurostat
+2005,Denmark,DNK,13.3435,Users in the last 3 months.,Eurostat
+2006,Denmark,DNK,16.4665,Users in the last 3 months.,Eurostat
+2007,Denmark,DNK,12.3539,Users in the last 3 months.,Eurostat
+2008,Denmark,DNK,12.4965,Users in the last 3 months.,Eurostat
+2009,Denmark,DNK,15.99,Users in the last 3 months.,Eurostat
+2010,Denmark,DNK,15.8813,Users in the last 3 months.,Eurostat
+2011,Denmark,DNK,16.9246, Users in the last 3 months.,Eurostat
+2013,Denmark,DNK,17.532,,Eurostat
+2002,Spain,ESP,15.1944,Users in the last 3 months.,Eurostat
+2003,Spain,ESP,19.6089,Users in the last 3 months.,Eurostat
+2004,Spain,ESP,17.3645,Users in the last 3 months.,Eurostat
+2005,Spain,ESP,17.2408,Users in the last 3 months.,Eurostat
+2006,Spain,ESP,13.8194,Users in the last 3 months.,Eurostat
+2007,Spain,ESP,12.5387,Users in the last 3 months.,Eurostat
+2008,Spain,ESP,11.7638,Users in the last 3 months.,Eurostat
+2009,Spain,ESP,13.6425,Users in the last 3 months.,Eurostat
+2010,Spain,ESP,12.3264,Users in the last 3 months.,Eurostat
+2011,Spain,ESP,12.759, Users in the last 3 months.,Eurostat
+2013,Spain,ESP,13.9511,,Eurostat
+2013,Egypt,EGY,49.2644,,Ministry of Communications and Information Technology
+2014,Egypt,EGY,53.6366,,Ministry of Communications and Information Technology
+2015,Egypt,EGY,58.0885,,Central Agency For Public Mobilization And Statistics (CAPMAS)
+2016,Egypt,EGY,43.5026,,Central Agency For Public Mobilization And Statistics (CAPMAS)
+2017,Egypt,EGY,31.123,,Central Agency For Public Mobilization And Statistics (CAPMAS)
+2018,Egypt,EGY,25.7696,,Ministry of Communications and Information Technology
+2019,Egypt,EGY,25.1954,,Ministry of Communications and Information Technology
+2020,Egypt,EGY,23.605,,Ministry of Communications and Information Technology
+2008,Ecuador,ECU,24.1145,,Instituto Nacional de Estadística y Censos (INEC)
+2009,Ecuador,ECU,21.9006,,Instituto Nacional de Estadística y Censos (INEC)
+2010,Ecuador,ECU,21.1711,,Instituto Nacional de Estadistica y Censos - INEC
+2011,Ecuador,ECU,21.9783,,Instituto Nacional de Estadistica y Censos - INEC
+2012,Ecuador,ECU,18.1248,,Instituto Nacional de Estadistica y Censos - INEC
+2004,Estonia,EST,23.2556,Users in the last 3 months.,Eurostat
+2005,Estonia,EST,12.2668,Users in the last 3 months.,Eurostat
+2006,Estonia,EST,17.8612,Users in the last 3 months.,Eurostat
+2007,Estonia,EST,17.0078,Users in the last 3 months.,Eurostat
+2008,Estonia,EST,12.3441,Users in the last 3 months.,Eurostat
+2009,Estonia,EST,16.5096,Users in the last 3 months.,Eurostat
+2010,Estonia,EST,14.6401,Users in the last 3 months.,Eurostat
+2011,Estonia,EST,16.379, Users in the last 3 months.,Eurostat
+2013,Estonia,EST,14.8378,,Eurostat
+2006,France,FRA,13.4437,Users in the last 3 months.,Eurostat
+2007,France,FRA,7.88024,Users in the last 3 months.,Eurostat
+2008,France,FRA,8.91724,Users in the last 3 months.,Eurostat
+2009,France,FRA,8.25484,Users in the last 3 months.,Eurostat
+2010,France,FRA,9.97401,Users in the last 3 months.,Eurostat
+2011,France,FRA,8.23696, Users in the last 3 months.,Eurostat
+2013,France,FRA,9.85537,,Eurostat
+2002,Finland,FIN,18.961,Users in the last 3 months.,Eurostat
+2003,Finland,FIN,23.9877,Users in the last 3 months.,Eurostat
+2004,Finland,FIN,21.848,Users in the last 3 months.,Eurostat
+2006,Finland,FIN,22.2522,Users in the last 3 months.,Eurostat
+2007,Finland,FIN,20.6859,Users in the last 3 months.,Eurostat
+2008,Finland,FIN,19.9597,Users in the last 3 months.,Eurostat
+2009,Finland,FIN,17.4979,Users in the last 3 months.,Eurostat
+2010,Finland,FIN,20.3552,Users in the last 3 months.,Eurostat
+2011,Finland,FIN,19.9526, Users in the last 3 months.,Eurostat
+2013,Finland,FIN,19.3101,,Eurostat
+2002,United Kingdom,GBR,17.633,Users in the last 3 months.,Eurostat
+2003,United Kingdom,GBR,17.2514,Users in the last 3 months.,Eurostat
+2004,United Kingdom,GBR,16.1364,Users in the last 3 months.,Eurostat
+2005,United Kingdom,GBR,14.9651,Users in the last 3 months.,Eurostat
+2006,United Kingdom,GBR,14.2168,Users in the last 3 months.,Eurostat
+2007,United Kingdom,GBR,12.1137,Users in the last 3 months.,Eurostat
+2008,United Kingdom,GBR,13.9989,Users in the last 3 months.,Eurostat
+2009,United Kingdom,GBR,14.7256,Users in the last 3 months.,Eurostat
+2010,United Kingdom,GBR,12.5481,Users in the last 3 months.,Eurostat
+2011,United Kingdom,GBR,12.825, Users in the last 3 months.,Eurostat
+2013,United Kingdom,GBR,15.9588,,Eurostat
+2002,Greece,GRC,9.78213,Users in the last 3 months.,Eurostat
+2003,Greece,GRC,19.4525,Users in the last 3 months.,Eurostat
+2004,Greece,GRC,19.5096,Users in the last 3 months.,Eurostat
+2005,Greece,GRC,15.2307,Users in the last 3 months.,Eurostat
+2006,Greece,GRC,12.8969,Users in the last 3 months.,Eurostat
+2007,Greece,GRC,10.5679,Users in the last 3 months.,Eurostat
+2008,Greece,GRC,10.3995,Users in the last 3 months.,Eurostat
+2009,Greece,GRC,10.655,Users in the last 3 months.,Eurostat
+2010,Greece,GRC,9.00992,Users in the last 3 months.,Eurostat
+2011,Greece,GRC,8.40269, Users in the last 3 months.,Eurostat
+2013,Greece,GRC,9.00206,,Eurostat
+2007,"Hong Kong, China",HKG,14.0885,,Census and Statistics Department
+2008,"Hong Kong, China",HKG,14.2147,,Census and Statistics Department
+2009,"Hong Kong, China",HKG,12.5395,Refer to those who had used the Internet service for at least once a week during the twelve months before enumeration.,Census and Statistics Department
+2012,"Hong Kong, China",HKG,14.2726,,Census and Statistics Department
+2005,Hungary,HUN,18.4023,Users in the last 3 months.,Eurostat
+2006,Hungary,HUN,24.924,Users in the last 3 months.,Eurostat
+2007,Hungary,HUN,20.6821,Users in the last 3 months.,Eurostat
+2008,Hungary,HUN,19.1251,Users in the last 3 months.,Eurostat
+2009,Hungary,HUN,17.8436,Users in the last 3 months.,Eurostat
+2010,Hungary,HUN,16.8535,Users in the last 3 months.,Eurostat
+2011,Hungary,HUN,17.3037, Users in the last 3 months.,Eurostat
+2013,Hungary,HUN,13.7063,,Eurostat
+2003,Netherlands,NLD,10.6487,Users in the last 3 months.,Eurostat
+2004,Netherlands,NLD,10.8715,Users in the last 3 months.,Eurostat
+2005,Netherlands,NLD,10.4489,Users in the last 3 months.,Eurostat
+2006,Netherlands,NLD,11.1682,Users in the last 3 months.,Eurostat
+2007,Netherlands,NLD,12.8823,Users in the last 3 months.,Eurostat
+2008,Netherlands,NLD,13.1808,Users in the last 3 months.,Eurostat
+2009,Netherlands,NLD,14.2567,Users in the last 3 months.,Eurostat
+2010,Netherlands,NLD,14.5361,Users in the last 3 months.,Eurostat
+2011,Netherlands,NLD,14.5045, Users in the last 3 months.,Eurostat
+2013,Netherlands,NLD,17.4822,,Eurostat
+2007,Croatia,HRV,12.0889,Users in the last 3 months.,Eurostat
+2008,Croatia,HRV,15.8861,Users in the last 3 months.,Eurostat
+2009,Croatia,HRV,9.39794,Users in the last 3 months.,Eurostat
+2010,Croatia,HRV,12.2706,Users in the last 3 months.,Eurostat
+2011,Croatia,HRV,12.1301, Users in the last 3 months.,Eurostat
+2013,Croatia,HRV,9.06235,,Eurostat
+2002,Italy,ITA,14.7752,Users in the last 3 months.,Eurostat
+2003,Italy,ITA,6.37908,Users in the last 3 months.,Eurostat
+2004,Italy,ITA,12.0984,Users in the last 3 months.,Eurostat
+2005,Italy,ITA,10.8652,Users in the last 3 months.,Eurostat
+2006,Italy,ITA,12.7901,Users in the last 3 months.,Eurostat
+2007,Italy,ITA,12.5311,Users in the last 3 months.,Eurostat
+2008,Italy,ITA,12.2004,Users in the last 3 months.,Eurostat
+2009,Italy,ITA,11.872,Users in the last 3 months.,Eurostat
+2010,Italy,ITA,9.40798,Users in the last 3 months.,Eurostat
+2011,Italy,ITA,11.5095, Users in the last 3 months.,Eurostat
+2013,Italy,ITA,12.3479,,Eurostat
+2010,Indonesia,IDN,14.7721,,
+2015,Indonesia,IDN,26.1865,,BADAN PUSAT STATISTIK (STATISTICS OF INDONESIA)
+2016,Indonesia,IDN,24.4513,,BADAN PUSAT STATISTIK (STATISTICS OF INDONESIA)
+2017,Indonesia,IDN,18.2987,,BADAN PUSAT STATISTIK (STATISTICS INDONESIA)
+2019,Indonesia,IDN,14.6614,,BADAN PUSAT STATISTIK (STATISTICS INDONESIA)
+2020,Indonesia,IDN,12.8305,,BPS-Statistics Indonesia
+2003,Ireland,IRL,12.3861,Users in the last 3 months.,Eurostat
+2004,Ireland,IRL,12.9997,Users in the last 3 months.,Eurostat
+2005,Ireland,IRL,9.26097,Users in the last 3 months.,Eurostat
+2006,Ireland,IRL,13.3426,Users in the last 3 months.,Eurostat
+2007,Ireland,IRL,10.2219,Users in the last 3 months.,Eurostat
+2008,Ireland,IRL,10.5638,Users in the last 3 months.,Eurostat
+2009,Ireland,IRL,9.5974,Users in the last 3 months.,Eurostat
+2010,Ireland,IRL,9.83895,Users in the last 3 months.,Eurostat
+2011,Ireland,IRL,10.8826, Users in the last 3 months.,Eurostat
+2013,Ireland,IRL,12.4382,,Eurostat
+2009,Iran (Islamic Republic of),IRN,14.8648,,Statistical Center of Iran
+2010,Iran (Islamic Republic of),IRN,13.3551,,Statistical Center of Iran (SCI)
+2013,Iran (Islamic Republic of),IRN,9.80361,,Statistical Centre of Iran
+2015,Iran (Islamic Republic of),IRN,5.31605,,Statistical Centre of Iran
+2017,Iran (Islamic Republic of),IRN,6.69176,,Statistical Centre of Iran
+2003,Iceland,ISL,15.1368,Users in the last 3 months.,Eurostat
+2004,Iceland,ISL,15.3566,Users in the last 3 months.,Eurostat
+2005,Iceland,ISL,19.5283,Users in the last 3 months.,Eurostat
+2006,Iceland,ISL,21.7947,Users in the last 3 months.,Eurostat
+2007,Iceland,ISL,29.6447,Users in the last 3 months.,Eurostat
+2008,Iceland,ISL,28.0731,Users in the last 3 months.,Eurostat
+2009,Iceland,ISL,25.8941,Users in the last 3 months.,Eurostat
+2010,Iceland,ISL,28.246,Users in the last 3 months.,Eurostat
+2011,Iceland,ISL,20.8709, Users in the last 3 months.,Eurostat
+2013,Iceland,ISL,30.6323,,Eurostat
+2007,Japan,JPN,10.3634,,Ministry of Internal Affairs and Communications
+2008,Japan,JPN,9.41645,,Ministry of Internal Affairs and Communications
+2009,Japan,JPN,9.86716,Sample results.,Ministry of Internal Affairs and Communications
+2010,Japan,JPN,9.62777,,Ministry of Internal Affairs and Communications
+2011,Japan,JPN,9.24334,,Ministry of Internal Affairs and Communications
+2012,Japan,JPN,7.92848,,Ministry of Internal Affairs and Communications
+2013,Japan,JPN,7.85722,,Ministry of Internal Affairs and Communications
+2014,Japan,JPN,8.16813,,Ministry of Internal Affairs and Communications
+2015,Japan,JPN,7.57154,,Ministry of Internal Affairs and Communications
+2016,Japan,JPN,8.10938,,Ministry of Internal Affairs and Communications
+2017,Japan,JPN,6.96468,,Ministry of Internal Affairs and Communications
+2018,Japan,JPN,6.06375,,Ministry of Internal Affairs and Communications
+2019,Japan,JPN,8.03023,,Ministry of Internal Affairs and Communications
+2020,Japan,JPN,6.85755,,Ministry of Internal Affairs and Communications
+2010,Jamaica,JAM,25.3458,,STATISTICAL INSTITUTE OF JAMAICA
+2012,Jamaica,JAM,23.1653,,Statistical Institue of Jamaica
+2014,Jamaica,JAM,25.9399,,Statistical Institute of Jamaica
+2015,Jamaica,JAM,23.3206,,Statistical Institute of Jamaica (STATIN)
+2016,Jamaica,JAM,18.3682,,THE STATISTICAL INSTITUTE OF JAMAICA (STATIN)
+2017,Jamaica,JAM,16.5047,,Statistical Institute of Jamaica
+2015,Kenya,KEN,6.57451,,KENYA NATIONAL BUREAU OF STATISTICS
+2008,Korea (Rep. of),KOR,18.2339,,Korea Communications Commission (KCC)
+2009,Korea (Rep. of),KOR,20.6491,,Korea Communications Commission (KCC)
+2011,Korea (Rep. of),KOR,25.6197,,Korea Communications Commission (KCC)
+2012,Korea (Rep. of),KOR,21.8168,,"Ministry of Science, ICT & Future Planning(MSIP)"
+2013,Korea (Rep. of),KOR,15.1837,,"Ministry of Science, ICT & Future Planning(MSIP)"
+2014,Korea (Rep. of),KOR,12.7662,,"Ministry of Science, ICT & Future Planning(MSIP)"
+2015,Korea (Rep. of),KOR,13.4433,,"Ministry of Science, ICT & Future Planning(MSIP)"
+2016,Korea (Rep. of),KOR,13.8681,,Ministry of Science and ICT(MSIT)
+2017,Korea (Rep. of),KOR,14.9316,,Ministriy of Sceience and ICT(MSIT)
+2018,Korea (Rep. of),KOR,13.8505,,Ministriy of Sceience and ICT(MSIT)
+2019,Korea (Rep. of),KOR,14.3669,,Ministriy of Sceience and ICT(MSIT)
+2020,Korea (Rep. of),KOR,14.3828,,Ministriy of Sceience and ICT(MSIT)
+2017,Kuwait,KWT,10.2041,,comminucations and information technology regulatory authority
+2018,Kuwait,KWT,70.7532,,comminucations and information technology regulatory authority
+2016,Lesotho,LSO,9.79573,,
+2003,Lithuania,LTU,37.5652,Users in the last 3 months.,Eurostat
+2004,Lithuania,LTU,35.8408,Users in the last 3 months.,Eurostat
+2005,Lithuania,LTU,29.8282,Users in the last 3 months.,Eurostat
+2006,Lithuania,LTU,26.0773,Users in the last 3 months.,Eurostat
+2007,Lithuania,LTU,23.1817,Users in the last 3 months.,Eurostat
+2008,Lithuania,LTU,19.4094,Users in the last 3 months.,Eurostat
+2009,Lithuania,LTU,19.4843,Users in the last 3 months.,Eurostat
+2010,Lithuania,LTU,24.3463,Includes individuals aged 12-74. Number of individuals who used the Internet in the last 3 months.,Department of statistics (Statistics Lithuania)
+2011,Lithuania,LTU,18.7618, Users in the last 3 months.,Eurostat
+2013,Lithuania,LTU,15.396,,Eurostat
+2002,Luxembourg,LUX,11.7841,Users in the last 3 months.,Eurostat
+2003,Luxembourg,LUX,19.3194,Users in the last 3 months.,Eurostat
+2004,Luxembourg,LUX,10.7114,Users in the last 3 months.,Eurostat
+2005,Luxembourg,LUX,13.6406,Users in the last 3 months.,Eurostat
+2006,Luxembourg,LUX,10.6541,Users in the last 3 months.,Eurostat
+2007,Luxembourg,LUX,10.521,Users in the last 3 months.,Eurostat
+2008,Luxembourg,LUX,10.1141,Users in the last 3 months.,Eurostat
+2009,Luxembourg,LUX,11.0791,Users in the last 3 months.,Eurostat
+2010,Luxembourg,LUX,12.0547,Users in the last 3 months.,Eurostat
+2011,Luxembourg,LUX,12.3735, Users in the last 3 months.,Eurostat
+2013,Luxembourg,LUX,15.5518,,Eurostat
+2004,Latvia,LVA,17.6165,Users in the last 3 months.,Eurostat
+2005,Latvia,LVA,15.1033,Users in the last 3 months.,Eurostat
+2006,Latvia,LVA,17.1531,Users in the last 3 months.,Eurostat
+2007,Latvia,LVA,17.7075,Users in the last 3 months.,Eurostat
+2008,Latvia,LVA,16.3331,Users in the last 3 months.,Eurostat
+2009,Latvia,LVA,17.8419,Users in the last 3 months.,Eurostat
+2010,Latvia,LVA,14.479,Users in the last 3 months.,Eurostat
+2011,Latvia,LVA,15.1254, Users in the last 3 months.,Eurostat
+2013,Latvia,LVA,11.6164,,Eurostat
+2006,"Macao, China",MAC,11.5726,,Statistics and Census Service
+2008,"Macao, China",MAC,18.9098,,Statistics and Census Service
+2009,"Macao, China",MAC,22.0126,Refer to Individuals using the Internet/computer during the last 3 months prior to the ICT survey.,Statisitics and Census Service
+2010,"Macao, China",MAC,19.4895,Reference period: in the last 3 months.,Statisitics and Census Service
+2011,"Macao, China",MAC,19.3296,,Statisitics and Census Service
+2012,"Macao, China",MAC,16.1986,,Statisitics and Census Service
+2013,"Macao, China",MAC,13.3351,,Statisitics and Census Service
+2014,"Macao, China",MAC,11.6052,,Statistics and Census Service
+2015,"Macao, China",MAC,8.85726,,Statistics and Census Service
+2016,"Macao, China",MAC,11.1022,,Statistics and Census Service
+2017,"Macao, China",MAC,8.50857,,Statistics and Census Service
+2018,"Macao, China",MAC,9.59424,,Statistics and Census Service
+2008,Mauritius,MUS,20.8207,,Central Statistics Office
+2010,Mauritius,MUS,24.3713,,Central Statistics Office
+2012,Mauritius,MUS,19.1405,,Statistics Mauritius
+2014,Mauritius,MUS,18.8787,,Statistics Mauritius
+2018,Mauritius,MUS,19.0096,,Statistics Mauritius
+2020,Mauritius,MUS,15.6297,,Statistics Mauritius
+2007,Mexico,MEX,9.37208,"The Survey asks only for the main two places of use, therefore comparisons with other countries are not recommended.",Instituto Nacional de Estadística y Geografía (INEGI)
+2008,Mexico,MEX,10.4716,"The Survey asks only for the main two places of use, therefore comparisons with other countries are not recommended.",Instituto Nacional de Estadística y Geografía (INEGI)
+2009,Mexico,MEX,8.95926,"The Survey asks only for the main two places of use, therefore comparisons with other countries are not recommended.",Instituto Nacional de Estadística y Geografía (INEGI)
+2010,Mexico,MEX,10.9214,,Instituto Nacional de Estadística y Geografía (INEGI)
+2011,Mexico,MEX,11.0051,,INEGI
+2012,Mexico,MEX,12.9384,,Instituto Nacional de Estadística y Geografía (INEGI)
+2013,Mexico,MEX,15.7546,,Instituto Nacional de Estadística y Geografía
+2014,Mexico,MEX,15.137,,Instituto Nacional de Estadística y Geografía (INEGI)
+2015,Mexico,MEX,24.307,,Instituto Nacional de Estadística y Geografía (INEGI)
+2016,Mexico,MEX,24.284,,Instituto Nacional de Estadística y Geografía (INEGI)
+2017,Mexico,MEX,23.7089,,Instituto Nacional de Estadística y Geografía (INEGI)
+2018,Mexico,MEX,22.9853,,Instituto Nacional de Estadística y Geografía (INEGI)
+2019,Mexico,MEX,22.1688,,Instituto Nacional de Estadística y Geografía (INEGI)
+2020,Mexico,MEX,14.7068,,Instituto Nacional de Estadística y Geografía (INEGI)
+2015,Malaysia,MYS,15.3972,,Department of Statistics Malaysia
+2017,Malaysia,MYS,16.0559,,Department of Statistics Malaysia
+2005,Malta,MLT,6.63622,Users in the last 3 months.,Eurostat
+2006,Malta,MLT,9.43602,Users in the last 3 months.,Eurostat
+2007,Malta,MLT,8.6267,Users in the last 3 months.,Eurostat
+2008,Malta,MLT,7.9918,Users in the last 3 months.,Eurostat
+2009,Malta,MLT,5.9831,Users in the last 3 months.,Eurostat
+2010,Malta,MLT,9.20923,Users in the last 3 months.,Eurostat
+2011,Malta,MLT,9.17346, Users in the last 3 months.,Eurostat
+2013,Malta,MLT,12.2716,,Eurostat
+2012,Morocco,MAR,5,,AGENCE NATIONALE DE REGLEMENTATION DES TELECOMMUJNICATIONS
+2014,Morocco,MAR,16.1,,AGENCE NATIONALE DE REGLEMENTATION DES TELECOMMUJNICATIONS
+2015,Morocco,MAR,16.3,,Agence Nationale de Réglementation des Télécommunications (ANRT)
+2016,Morocco,MAR,2.4,,Agence Nationale de Réglementation des Télécommunications (ANRT)
+2017,Morocco,MAR,15.8518,,Agence Nationale de Réglementation des Télécommunications (ANRT)
+2018,Morocco,MAR,24.1577,,Agence Nationale de Réglementation des Télécommunications (ANRT)
+2006,Nicaragua,NIC,24.0874,,Instituto Nacional de Información de Desarrollo
+2003,Norway,NOR,16.7432,Users in the last 3 months.,Eurostat
+2004,Norway,NOR,16.559,Users in the last 3 months.,Eurostat
+2005,Norway,NOR,15.0559,Users in the last 3 months.,Eurostat
+2006,Norway,NOR,14.4934,Users in the last 3 months.,Eurostat
+2007,Norway,NOR,15.1639,Users in the last 3 months.,Eurostat
+2008,Norway,NOR,15.867,Users in the last 3 months.,Eurostat
+2009,Norway,NOR,13.0206,Users in the last 3 months.,Eurostat
+2010,Norway,NOR,15.228,Users in the last 3 months.,Eurostat
+2011,Norway,NOR,15.4027, Users in the last 3 months.,Eurostat
+2013,Norway,NOR,16.2764,,Eurostat
+2006,New Zealand,NZL,15.5344,,Statistics New Zealand
+2009,New Zealand,NZL,17.8185,,Statistics New Zealand
+2007,Oman,OMN,10.4827,,Information Technology Authority (ITA)
+2013,Oman,OMN,27.5978,,Information Technology Authority (ITA) 
+2016,Oman,OMN,14.6872,,Information Technology Authority (ITA) 
+2012,Panama,PAN,23.7939,,INSTITUTO NACIONAL DE ESTADÍSTICA Y CENSO - CONTRALORÍA GENERAL
+2004,Poland,POL,24.0871,Users in the last 3 months.,Eurostat
+2005,Poland,POL,25.6722,Users in the last 3 months.,Eurostat
+2006,Poland,POL,22.2087,Users in the last 3 months.,Eurostat
+2007,Poland,POL,20.7588,Users in the last 3 months.,Eurostat
+2008,Poland,POL,16.4885,Users in the last 3 months.,Eurostat
+2009,Poland,POL,15.5146,Users in the last 3 months.,Eurostat
+2010,Poland,POL,14.9968,Users in the last 3 months.,Eurostat
+2011,Poland,POL,14.318, Users in the last 3 months.,Eurostat
+2013,Poland,POL,13.243,,Eurostat
+2016,Poland,POL,12.2744,,the Statistical Office in Szczecin 
+2017,Poland,POL,12.5222,,
+2018,Poland,POL,10.7165,,Statistics Poland
+2019,Poland,POL,10.0831,,Statistics Poland
+2002,Portugal,PRT,24.8736,Users in the last 3 months.,Eurostat
+2003,Portugal,PRT,25.7641,Users in the last 3 months.,Eurostat
+2004,Portugal,PRT,22.6305,Users in the last 3 months.,Eurostat
+2005,Portugal,PRT,22.271,Users in the last 3 months.,Eurostat
+2006,Portugal,PRT,20.9519,Users in the last 3 months.,Eurostat
+2007,Portugal,PRT,19.7957,Users in the last 3 months.,Eurostat
+2008,Portugal,PRT,19.3545,Users in the last 3 months.,Eurostat
+2009,Portugal,PRT,16.6704,Users in the last 3 months.,Eurostat
+2010,Portugal,PRT,15.8366,Users in the last 3 months.,Eurostat
+2011,Portugal,PRT,15.9457, Users in the last 3 months.,Eurostat
+2013,Portugal,PRT,13.2916,,Eurostat
+2007,Paraguay,PRY,10.542,Refers to the last 3 months. Population aged 10 years and more.,"Dirección General de Estadística, Encuestas y Censos"
+2008,Paraguay,PRY,10.0611,In the last 3 months.,"Dirección General de Estadística, Encuestas y Censos"
+2009,Paraguay,PRY,6.21988,period: last three months,"Norma Medina, Directora. E-mail: nme@dgeec.gov.py. Tel. 00595 21 675 144"
+2010,Paraguay,PRY,6.43312,"period: last three months. The sum of the breakdowns does not match the total because the survey has an option ""Other"".",
+2011,Paraguay,PRY,3.34736,,"Dirección General de Estadística, Encuestas y Censos (DGEEC)"
+2012,Paraguay,PRY,2.34959,last 3 months.,"Dirección General de Estadística, Encuestas y Censos (DGEEC)"
+2013,Paraguay,PRY,2.14474,,"Dirección General de Estadística, Encuestas y Censos (DGEEC)"
+2014,Paraguay,PRY,1.03112,,"Dirección General de Estadística, Encuestas y Censos (DGEEC)"
+2015,Paraguay,PRY,13.9398,,"Dirección General de Estadística, Encuestas y Censos (DGEEC)"
+2017,Paraguay,PRY,9.13482,,"Dirección General de Estadística, Encuestas y Censos (DGEEC)"
+2018,Paraguay,PRY,8.6442,,"Dirección General de Estadística, Encuestas y Censos (DGEEC)"
+2019,Paraguay,PRY,10.3803,,"Dirección General de Estadística, Encuestas y Censos (DGEEC)"
+2020,Paraguay,PRY,2.81328,,Instituto Nacional de Estadística (INE)
+2008,Peru,PER,6.28809,En el mes anterior,Instituto Nacional de Estadística e Informática
+2010,Peru,PER,7.30987,,INSTITUTO NACIONAL DE ESTADÍSTICA E INFORMÁTICA (INEI)
+2013,Peru,PER,6.49132,,Instituto Nacional de Estadística e Informática
+2014,Peru,PER,6.84742,,Instituto Nacional de Estadística e Informática - INEI
+2015,Peru,PER,6.6073,,INSTITUTO NACIONAL DE ESTADÍSTICA E INFORMÁTICA - INEI
+2016,Peru,PER,6.82681,,INSTITUTO NACIONAL DE ESTADÍSTICA E INFORMÁTICA
+2017,Peru,PER,6.65084,,INSTITUTO NACIONAL DE ESTADÍSTICA E INFORMÁTICA - INEI
+2018,Peru,PER,7.68438,,Instituto Nacional de Estadística e Informática - INEI
+2019,Peru,PER,5.47226,,Instituto Nacional de Estadística e Informática - INEI
+2008,Qatar,QAT,5.89032,,Supreme Council Of Information & Communication Technology (ictQATAR)
+2009,Qatar,QAT,17.2607,,Supreme Council Of Information & Communication Technology (ictQATAR)
+2010,Qatar,QAT,26.657,,Supreme Council Of Information & Communication Technology (ictQATAR)
+2011,Qatar,QAT,20.1717,,Supreme Council Of Information & Communication Technology (ictQATAR)
+2012,Qatar,QAT,17.1559,,Ministry Of Information & Communication Technology (ictQATAR)
+2013,Qatar,QAT,14.7885,"In-scope population refers to ""mainstream"" population living in households.",Ministry Of Information & Communication Technology (ictQATAR)
+2015,Qatar,QAT,12.4627,,Ministry Of Transport and Communications
+2016,Qatar,QAT,12.203,,
+2017,Qatar,QAT,11.8823,,
+2018,Qatar,QAT,11.5762,,Ministry Of Transport and Communications
+2019,Qatar,QAT,11.789,,Ministry of Transport and Communications
+2020,Qatar,QAT,11.7769,,Ministry of Transport and Communications
+2006,Romania,ROU,17.3123,Users in the last 3 months.,Eurostat
+2007,Romania,ROU,17.8444,Users in the last 3 months.,Eurostat
+2008,Romania,ROU,17.3878,Users in the last 3 months.,Eurostat
+2009,Romania,ROU,17.3097,Users in the last 3 months.,Eurostat
+2010,Romania,ROU,15.3315,Users in the last 3 months.,Eurostat
+2013,Romania,ROU,14.1223,,Eurostat
+2009,Russian Federation,RUS,10.2489,"Age 16-74, In the last 3 months","Federal State Statistics service, Higher School of Economics"
+2013,Russian Federation,RUS,7.16479,,Federal State Statistics Service (Rosstat)
+2014,Russian Federation,RUS,7.8568,,Federal State Statistics Service (Rosstat)
+2015,Russian Federation,RUS,8.5624,,Federal State Statistics Service (Rosstat)
+2016,Russian Federation,RUS,8.95494,,Federal State Statistics Service (Rosstat)
+2017,Russian Federation,RUS,9.55547,,Federal State Statistics Service (ROSSTAT)
+2018,Russian Federation,RUS,8.96127,,Federal State Statistics Service (Rosstat) 
+2019,Russian Federation,RUS,9.20169,,Federal State Statistics Service (Rosstat) 
+2020,Russian Federation,RUS,8.8405,,Federal State Statistics Service
+2002,Sweden,SWE,16.8686,Users in the last 3 months.,Eurostat
+2003,Sweden,SWE,16.5586,Users in the last 3 months.,Eurostat
+2004,Sweden,SWE,13.5774,Users in the last 3 months.,Eurostat
+2005,Sweden,SWE,13.9351,Users in the last 3 months.,Eurostat
+2006,Sweden,SWE,13.4526,Users in the last 3 months.,Eurostat
+2007,Sweden,SWE,13.273,Users in the last 3 months.,Eurostat
+2008,Sweden,SWE,13.7754,Users in the last 3 months.,Eurostat
+2009,Sweden,SWE,13.6881,Users in the last 3 months.,Eurostat
+2010,Sweden,SWE,13.7984,Users in the last 3 months.,Eurostat
+2011,Sweden,SWE,16.9344, Users in the last 3 months.,Eurostat
+2013,Sweden,SWE,23.569,,Eurostat
+2009,Senegal,SEN,22.6835,,Agence Nationale de la Statistique et de la Démographie
+2007,El Salvador,SLV,11.432,,Dirección General de Estadística y Censos. (DIGESTYC)
+2008,El Salvador,SLV,8.8608,,Dirección General de Estadística y Censos. (DIGESTYC)
+2009,El Salvador,SLV,9.38878,,Dirección General de Estadística y Censos. (DIGESTYC)
+2010,El Salvador,SLV,11.0269,,Dirección General de Estadística y Censos. (DIGESTYC)
+2011,El Salvador,SLV,9.03222,,Dirección General de Estadística y Censos. (DIGESTYC)
+2012,El Salvador,SLV,5.12741,,Dirección General de Estadística y Censos. (DIGESTYC)
+2013,El Salvador,SLV,5.0163,,Dirección General de Estadística y Censos. (DIGESTYC)
+2014,El Salvador,SLV,4.03282,,Dirección General de Estadística y Censos. (DIGESTYC)
+2017,El Salvador,SLV,2.78383,,Dirección General de Estadística y Censos. (DIGESTYC)
+2019,El Salvador,SLV,1.58783,,Dirección General de Estadística y Censos. (DIGESTYC)
+2020,El Salvador,SLV,0.465348,,Dirección General de Estadística y Censos. (DIGESTYC)
+2009,Singapore,SGP,24.1562,Residents aged 7 yrs and above,Infocomm Development Authority of Singapore
+2014,Singapore,SGP,23.5311,,Infocomm Development Authority of Singapore
+2017,Singapore,SGP,24.2592,,Infocomm Media Development Authority
+2007,Switzerland,CHE,7.73931,"utilisation d'internet au cours des 6 derniers mois (""cercle large des utilisateurs"")",Office fédéral de la statistique
+2008,Switzerland,CHE,7.52688,"utilisation d'internet au cours des 6 derniers mois (""cercle large des utilisateurs"")",Office fédéral de la statistique
+2009,Switzerland,CHE,7.0884,"utilisation d'internet au cours des 6 derniers mois (""cercle large des utilisateurs"")",Office fédéral de la statistique
+2010,Switzerland,CHE,7.51285,In the last 6 months,Office fédéral de la statistique
+2012,Switzerland,CHE,7.95667,,Office fédéral de la statistique
+2015,Switzerland,CHE,11.144,,Office fédéral de la statistique
+2016,Switzerland,CHE,10.3833,,Office fédéral de la statistique
+2004,Slovenia,SVN,19.831,Users in the last 3 months.,Eurostat
+2005,Slovenia,SVN,15.2044,Users in the last 3 months.,Eurostat
+2006,Slovenia,SVN,18.3263,Users in the last 3 months.,Eurostat
+2007,Slovenia,SVN,16.5881,Users in the last 3 months.,Eurostat
+2008,Slovenia,SVN,15.9253,Users in the last 3 months.,Eurostat
+2009,Slovenia,SVN,18.6027,Users in the last 3 months.,Eurostat
+2010,Slovenia,SVN,15.7008,Users in the last 3 months.,Eurostat
+2011,Slovenia,SVN,11.583, Users in the last 3 months.,Eurostat
+2013,Slovenia,SVN,14.5874,,Eurostat
+2003,Czech Republic,CZE,25.2342,Users in the last 3 months.,Eurostat
+2004,Czech Republic,CZE,21.4931,Users in the last 3 months.,Eurostat
+2005,Czech Republic,CZE,19.4292,Users in the last 3 months.,Eurostat
+2006,Czech Republic,CZE,18.0429,,Eurostat
+2007,Czech Republic,CZE,17.845,Users in the last 3 months.,Eurostat
+2008,Czech Republic,CZE,16.0383,Users in the last 3 months.,Eurostat
+2009,Czech Republic,CZE,15.0321,Users in the last 3 months.,Eurostat
+2010,Czech Republic,CZE,15.6361,Users in the last 3 months.,Eurostat
+2011,Czech Republic,CZE,14.6546, Users in the last 3 months.,Eurostat
+2013,Czech Republic,CZE,12.1949,,Eurostat
+2008,Thailand,THA,65.6154,population 6 years and over,National Statistical Office
+2009,Thailand,THA,46.7933,population 6 years and over,National Statistical Office
+2010,Thailand,THA,45.2742,Answer only up to two choice,National Statistical Office
+2011,Thailand,THA,49.4095,,National Statistical Office
+2012,Thailand,THA,47.2751,,National Statistical Office
+2013,Thailand,THA,46.7325,,National Statistical Office
+2014,Thailand,THA,39.5819,,National Statistical Office
+2015,Thailand,THA,34.8958,,
+2016,Thailand,THA,27.647,,National Statistical Office of Thailand
+2017,Thailand,THA,24.8036,,National Statistical Office of Thailand
+2018,Thailand,THA,22.9743,,National Statistical Office of Thailand
+2019,Thailand,THA,18.9345,,National Statistical Office of Thailand
+2020,Thailand,THA,16.8474,,National Statistical Office of Thailand
+2004,Turkey,TUR,8.12538,,Eurostat
+2005,Turkey,TUR,7.90549,,Eurostat
+2007,Turkey,TUR,6.28564,,Eurostat
+2008,Turkey,TUR,8.20948,Individuals (16-74 age group) using the Internet in the last 3 months(January-March 2008) by location ,TURKISH STATISTICAL INSTITUTION
+2009,Turkey,TUR,8.39701,Individuals (16-74 age group) using the Internet in the last 3 months(January-March 2009) by location,Turkish Statistical Institution
+2010,Turkey,TUR,6.15705,Individuals (16-74 age group) using the Internet in the last 3 months(January-March 2010) by location ,TURKISH STATISTICAL INSTITUTE (TURKSTAT)
+2011,Turkey,TUR,6.78995,Individuals (16-74 age group) using the Internet in the last 3 months (January-March 2011).,Turkish Statistical Institute
+2012,Turkey,TUR,6.85348,Last 3 months.,Turkish Statistical Institution (TurkStat)
+2013,Turkey,TUR,13.6253,,Turkish Statistical Institution (TurkStat)
+2008,United Arab Emirates,ARE,8.33333,,Telecommunications Regulatory Authority
+2012,United Arab Emirates,ARE,1.90849,,Telecommunications Regulatory Authority 
+2014,United Arab Emirates,ARE,3.20796,,Telecommunications Regulatory Authority 
+2016,United Arab Emirates,ARE,3.90001,,Telecommunications Regulatory Authority 
+2018,United Arab Emirates,ARE,21.7,,Telecommunication Regulatory Authority
+2019,United Arab Emirates,ARE,27.3482,,Telecommunication Regulatory Authority
+2020,United Arab Emirates,ARE,8.8,,Telecommunications & Digital Gevernment Regulatory Authority
+2007,Ukraine,UKR,11.3057,,State Statistics Committee of Ukraine
+2008,Ukraine,UKR,9.20062,,State Statistics Committee of Ukraine
+2009,Ukraine,UKR,8.60751,,State Statistics Committee of Ukraine
+2010,Ukraine,UKR,6.95435,,Государственная служба статистики Украины
+2012,Ukraine,UKR,6.76188,,State Statistics Service of Ukraine 
+2013,Ukraine,UKR,5.55152,,State Statistics Service of Ukraine
+2015,Ukraine,UKR,6.40098,,State Statistics Service of Ukraine
+2017,Ukraine,UKR,6.30223,,State Statistics Service of Ukraine
+2018,Ukraine,UKR,5.9886,,State Statistics Service of Ukraine
+2020,Ukraine,UKR,10.0626,,State Statistics Service of Ukraine
+2009,Uruguay,URY,24.6921,,Instituto Nacional de Estadistica. Uruguay
+2011,Uruguay,URY,23.4597,,Instituto Nacional de Estadistica. Uruguay
+2015,United States,USA,20.6951,,U.S. Census Bureau
+2018,Uzbekistan,UZB,7.64259,,The State Committee of the Republic of Uzbekistan on Statistics
+2020,Uzbekistan,UZB,4.36006,,The State Committee of the Republic of Uzbekistan on Statistics
+2012,Venezuela,VEN,3.88517,,Instituto Nacional de Estadística
+2007,Serbia,SRB,11.877,Users in the last 3 months.,Eurostat
+2009,Serbia,SRB,12.7839,Users in the last 3 months.,Eurostat
+2016,Serbia,SRB,14.5921,,Statistical office of the Republic of Serbia
+2014,Zimbabwe,ZWE,8.61382,,
+2020,Zimbabwe,ZWE,10.2164,,Zimbabwe National Statistics Agency (ZIMSTAT)
+2009,Moldova,MDA,9,,THE MINISTRY OF INFORMATION TECHNOLOGY AND COMMUNICATIONS
+2016,Georgia,GEO,8.16808,,Geostat
+2017,Georgia,GEO,8.6833,,Geostat
+2018,Georgia,GEO,7.68694,,National Statistics Office of Georgia - GEOSTAT
+2019,Georgia,GEO,9.17122,,National Statistics Office of Georgia - Geostat
+2020,Georgia,GEO,1.95124,,National Statistics Office of Georgia - Geostat
+2015,Kazakhstan,KAZ,8.29612,,Ministry of National Economy of the Republic of Kazakhstan Committee on Statistics
+2016,Kazakhstan,KAZ,8.52364,,Ministry of National Economy of the Republic of Kazakhstan Committee on Statistics
+2017,Kazakhstan,KAZ,8.42913,,Ministry of National Economy of the Republic of Kazakhstan Committee on Statistics
+2018,Kazakhstan,KAZ,9.76119,,Ministry of National Economy of the Republic of Kazakhstan Committee on Statistics
+2019,Kazakhstan,KAZ,9.04414,,Ministry of National Economy of the Republic of Kazakhstan Committee on Statistics
+2020,Kazakhstan,KAZ,8.7298,,Agency for Strategic planning and reforms of the Republic of Kazakhstan Bureau of National statistics
+2004,Slovakia,SVK,19.8965,Users in the last 3 months.,Eurostat
+2005,Slovakia,SVK,19.9282,Users in the last 3 months.,Eurostat
+2006,Slovakia,SVK,20.2611,Users in the last 3 months.,Eurostat
+2007,Slovakia,SVK,19.3882,Users in the last 3 months.,Eurostat
+2008,Slovakia,SVK,16.4364,Users in the last 3 months.,Eurostat
+2009,Slovakia,SVK,15.3753,Users in the last 3 months.,Eurostat
+2010,Slovakia,SVK,15.7237,Users in the last 3 months.,Eurostat
+2011,Slovakia,SVK,15.6905, Users in the last 3 months.,Eurostat
+2013,Slovakia,SVK,15.6136,,Eurostat
+2004,North Macedonia,MKD,11.9976,Users in the last 3 months.,Eurostat
+2006,North Macedonia,MKD,17.0054,Users in the last 3 months.,Eurostat
+2008,North Macedonia,MKD,16.1853,Users in the last 3 months.,Eurostat
+2009,North Macedonia,MKD,16.2661,Users in the last 3 months.,Eurostat
+2010,North Macedonia,MKD,16.9102,Users in the last 3 months.,Eurostat
+2013,North Macedonia,MKD,16.0304,,Eurostat
+2004,Palestine,WBG,29.8406,,Palestinian Central Bureau of Statistics\ Science and Technology Statistics Department
+2006,Palestine,WBG,10.1277,,Palestinian Central Bureau of Statistics
+2011,Palestine,WBG,24.9647,,Palestinian Central Bureau of Statiatics
+2014,Palestine,WBG,17.9118,,Palestinian Central Bureau of Statistics
+2019,Palestine,WBG,9.82177,,Palestinian Central Bureau of Statistics
+2015,Montenegro,MNE,13.6187,,Statistical Office of Montenegro

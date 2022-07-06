@@ -1,0 +1,63 @@
+year,country,iso,value,note,source
+2019,Armenia,ARM,1.3075,,Statistical Committee of RA
+2020,Armenia,ARM,1.64639,,Statistical Committee of RA
+2018,Azerbaijan,AZE,0.599997,,State Statistical Committee
+2019,Azerbaijan,AZE,3.7,,State Statistical Committee
+2020,Azerbaijan,AZE,3.7,,State Statistical Committee
+2018,Brazil,BRA,17.2236,,NIC.br
+2019,Brazil,BRA,16.4811,,NIC.br
+2020,Brazil,BRA,8.68103,,NIC.br
+2018,Bahrain,BHR,46.1258,,Telecommunications Regulatory Authority (TRA)
+2019,Bahrain,BHR,25.7485,,Telecommunications Regulatory Authority (TRA)
+2020,Bahrain,BHR,20.33,,Telecommunications Regulatory Authority (TRA)
+2018,Belarus,BLR,22.9597,,Национальный статистический комитет Республики Беларусь
+2019,Belarus,BLR,26.9936,,Национальный статистический комитет Республики Беларусь
+2020,Belarus,BLR,21.0637,,Национальный статистический комитет Республики Беларусь
+2018,Bolivia (Plurinational State of),BOL,4.60012,,Statistic National Institute
+2019,Bolivia (Plurinational State of),BOL,3.21174,,Statistic National Institute
+2018,Colombia,COL,11.0076,,Departamento Administrativo Nacional de Estadística - DANE
+2019,Cabo Verde,CPV,1.1233,,INSTITUTO NACIONAL DE ESTATISTICA
+2019,Côte d'Ivoire,CIV,10.4961,,ARTCI
+2018,Egypt,EGY,1.15847,,Ministry of Communications and Information Technology
+2019,Egypt,EGY,1.50907,,Ministry of Communications and Information Technology
+2020,Egypt,EGY,2.093,,Ministry of Communications and Information Technology
+2019,Indonesia,IDN,21.7288,,BADAN PUSAT STATISTIK (STATISTICS INDONESIA)
+2020,Indonesia,IDN,29.4843,,BPS-Statistics Indonesia
+2018,Japan,JPN,10.2205,,Ministry of Internal Affairs and Communications
+2019,Japan,JPN,12.5405,,Ministry of Internal Affairs and Communications
+2020,Japan,JPN,9.59192,,Ministry of Internal Affairs and Communications
+2017,Jamaica,JAM,4.3528,,Statistical Institute of Jamaica
+2018,Kuwait,KWT,0,,comminucations and information technology regulatory authority
+2020,Kuwait,KWT,73.7675,,
+2016,Lesotho,LSO,17.7542,,
+2018,"Macao, China",MAC,2.21843,,Statistics and Census Service
+2018,Mauritius,MUS,2.1795,,Statistics Mauritius
+2020,Mauritius,MUS,2.51755,,Statistics Mauritius
+2018,Mexico,MEX,28.7279,,Instituto Nacional de Estadística y Geografía (INEGI)
+2019,Mexico,MEX,26.3119,,Instituto Nacional de Estadística y Geografía (INEGI)
+2020,Mexico,MEX,13.5851,,Instituto Nacional de Estadística y Geografía (INEGI)
+2018,Morocco,MAR,38.9487,,Agence Nationale de Réglementation des Télécommunications (ANRT)
+2018,Poland,POL,51.2275,,Statistics Poland
+2019,Poland,POL,59.7808,,Statistics Poland
+2018,Paraguay,PRY,2.53236,,"Dirección General de Estadística, Encuestas y Censos (DGEEC)"
+2019,Paraguay,PRY,2.80295,,"Dirección General de Estadística, Encuestas y Censos (DGEEC)"
+2020,Paraguay,PRY,0.912114,,Instituto Nacional de Estadística (INE)
+2016,Qatar,QAT,24.4371,,
+2017,Qatar,QAT,27.915,,
+2018,Qatar,QAT,31.2347,,Ministry Of Transport and Communications
+2020,Qatar,QAT,0,,Ministry of Transport and Communications
+2018,Russian Federation,RUS,1.60485,,Federal State Statistics Service (Rosstat) 
+2019,Russian Federation,RUS,32.8948,,Federal State Statistics Service (Rosstat) 
+2020,Russian Federation,RUS,16.8928,,Federal State Statistics Service
+2019,El Salvador,SLV,0.0626328,,Dirección General de Estadística y Censos. (DIGESTYC)
+2020,El Salvador,SLV,0.75313,,Dirección General de Estadística y Censos. (DIGESTYC)
+2018,Thailand,THA,7.3172,,National Statistical Office of Thailand
+2018,United Arab Emirates,ARE,26,,Telecommunication Regulatory Authority
+2019,United Arab Emirates,ARE,28.3191,,Telecommunication Regulatory Authority
+2020,United Arab Emirates,ARE,18.4,,Telecommunications & Digital Gevernment Regulatory Authority
+2018,Ukraine,UKR,0.179476,,State Statistics Service of Ukraine
+2020,Ukraine,UKR,79.7251,,State Statistics Service of Ukraine
+2018,Uzbekistan,UZB,5.82293,,The State Committee of the Republic of Uzbekistan on Statistics
+2020,Uzbekistan,UZB,1.96906,,The State Committee of the Republic of Uzbekistan on Statistics
+2020,Zimbabwe,ZWE,10.3048,,Zimbabwe National Statistics Agency (ZIMSTAT)
+2019,Palestine,WBG,9.87329,,Palestinian Central Bureau of Statistics

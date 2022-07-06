@@ -1,0 +1,212 @@
+year,country,iso,value,note,source
+2013,South Africa,ZAF,22.3294,,Statistics South Africa
+2014,South Africa,ZAF,18.5515,,
+2015,South Africa,ZAF,11.0135,,
+2016,South Africa,ZAF,42.1827,,
+2019,Albania,ALB,23.2922,,INSTAT (Institute of Statistics)
+2020,Albania,ALB,24.7653,,INSTAT (Institute of Statistics)
+2018,Algeria,DZA,45.2124,,"Ministry of Post, Telecommunications, Technologies and Digital"
+2017,Saudi Arabia,SAU,84.188,,Communication and Information Technology Commission (CITC)
+2018,Saudi Arabia,SAU,51.8717,,Communication and Information Technology Commission
+2019,Saudi Arabia,SAU,42.8556,,Communications andI nformation Technology Commision
+2015,Australia,AUS,8.81915,,Australian Bureau of Statistics
+2016,Austria,AUT,78.7018,,Statistics Austria
+2017,Austria,AUT,80.8059,,Statistics Austria
+2017,Azerbaijan,AZE,10.7617,,State Statistical Committee
+2018,Azerbaijan,AZE,10.7616,,State Statistical Committee
+2019,Azerbaijan,AZE,12.3995,,State Statistical Committee
+2020,Azerbaijan,AZE,37.3999,,State Statistical Committee
+2013,Brazil,BRA,28.0389,,NIC.br
+2014,Brazil,BRA,28.6257,,NIC.br
+2016,Brazil,BRA,64.1642,,NIC.br
+2017,Brazil,BRA,63.5108,,NIC.br
+2018,Brazil,BRA,65.4838,,NIC.br
+2019,Brazil,BRA,69.1585,,NIC.br
+2020,Brazil,BRA,70.0194,,NIC.br
+2016,Belgium,BEL,41.8372,,Algemene Directie Statistiek - Statistics Belgium Direction Générale Statistique - Statistics Belgium
+2017,Belgium,BEL,35.2724,,Statbel (Algemene Directie Statistiek - Statistics Belgium) Statbel (Direction générale Statistique - Statistics Belgium)
+2019,Belgium,BEL,48.2107,,Statistics Belgium (Statbel)
+2020,Belgium,BEL,46.1185,,Statistics Belgium (Statbel)
+2015,Bermuda,BMU,2.99907,,Department of Statistics
+2016,Bermuda,BMU,37.4906,,Bermuda Government - Department of Statistics
+2013,Bahrain,BHR,6.47841,,Telecommunications Regulatory Authority (TRA)
+2014,Bahrain,BHR,6.47841,,Telecommunications Regulatory Authority (TRA)
+2017,Bahrain,BHR,28.0113,,Telecommunications Regulatory Authority (TRA)
+2018,Bahrain,BHR,90.4698,,Telecommunications Regulatory Authority (TRA)
+2019,Bahrain,BHR,60.0559,,Telecommunications Regulatory Authority (TRA)
+2014,Botswana,BWA,9.6949,,Statistics Botswana
+2016,Brunei Darussalam,BRN,32.0002,,Authority for Info-communications Technology Industry of Brunei Darussalam
+2018,Brunei Darussalam,BRN,40.937,,Authority for Info-communciations Technology Industry of Brunei Darussalam (AITI)
+2021,Bhutan,BTN,19.412,,MINISTRY OF INFORMATION AND COMMUNICATIONS
+2016,Bulgaria,BGR,42.4687,,National Statistical Institute
+2017,Bulgaria,BGR,48.176,,National Statistical Institute
+2019,Bulgaria,BGR,50.0714,,National Statistical Institute
+2013,Colombia,COL,17.0138,,Departamento Administrativo Nacional de Estadística - DANE
+2014,Colombia,COL,17.3206,,Departamento Administrativo Nacional de Estadística - DANE
+2015,Colombia,COL,18.8787,,Departamento Administrativo Nacional de Estadística - DANE
+2016,Colombia,COL,33.6964,,Departamento Administrativo Nacional de Estadística - DANE
+2017,Colombia,COL,30.1949,,Departamento Administrativo Nacional de Estadística - DANE
+2018,Colombia,COL,27.5989,,Departamento Administrativo Nacional de Estadística - DANE
+2018,Cabo Verde,CPV,33.301,,INSTITUTO NACIONAL DE ESTATISTICAS
+2019,Cabo Verde,CPV,18.6073,,INSTITUTO NACIONAL DE ESTATISTICA
+2019,Côte d'Ivoire,CIV,15.4308,,ARTCI
+2016,Cyprus,CYP,59.8866,,STATISTICAL SERVICE OF CYPRUS
+2019,Cyprus,CYP,79.4375,,STATISTICAL SERVICE OF CYPRUS
+2017,Denmark,DNK,50.325,,Statistics Denmark 
+2016,Spain,ESP,67.3681,,Instituto Nacional de Estadística (INE)
+2017,Spain,ESP,67.1233,,Instituto Nacional de Estadística (INE)
+2019,Spain,ESP,74.1176,,Instituto Nacional de Estadística (INE)
+2014,Egypt,EGY,1.43741,,Ministry of Communications and Information Technology
+2015,Egypt,EGY,52.5312,,Central Agency For Public Mobilization And Statistics (CAPMAS)
+2016,Egypt,EGY,93.992,,Central Agency For Public Mobilization And Statistics (CAPMAS)
+2017,Egypt,EGY,91.9825,,Central Agency For Public Mobilization And Statistics (CAPMAS)
+2018,Egypt,EGY,96.0267,,Ministry of Communications and Information Technology
+2019,Egypt,EGY,93.0105,,Ministry of Communications and Information Technology
+2020,Egypt,EGY,93.0105,,Ministry of Communications and Information Technology
+2017,Ecuador,ECU,17.7225,,Instituto Nacional de Estadística y Censos (INEC)
+2016,Estonia,EST,70.8443,,Statistics Estonia
+2017,Estonia,EST,66.6667,,Statistics Estonia
+2019,France,FRA,16.9439,,Insee
+2014,"Hong Kong, China",HKG,0.216185,,Census and Statistics Department
+2016,"Hong Kong, China",HKG,0.602996,,Census and Statistics Department
+2017,Hungary,HUN,69.586,,Hungarian Central Statistical Office
+2019,Hungary,HUN,67.7282,,Hungarian Central Statistical Office 
+2016,Croatia,HRV,52.6361,,Croatian Bureau of Statistics
+2017,Croatia,HRV,100,,Croatian Bureau of Statistics
+2018,Croatia,HRV,57.4095,,Croatian Bureau of Statistics
+2019,Croatia,HRV,66.4802,,Croatian Bureau of Statistics
+2020,Croatia,HRV,71.4367,,Croatian Bureau of Statistics
+2017,Italy,ITA,25.0374,,Istat – National Institute of Statistics
+2020,Italy,ITA,25.3409,,National Institute of Statistics
+2013,Iran (Islamic Republic of),IRN,44.4777,,Statistical Centre of Iran
+2015,Iran (Islamic Republic of),IRN,28.5643,,Statistical Centre of Iran
+2017,Iran (Islamic Republic of),IRN,83.2042,,Statistical Centre of Iran
+2015,Jamaica,JAM,37.8618,,Statistical Institute of Jamaica (STATIN)
+2016,Jamaica,JAM,44.767,,THE STATISTICAL INSTITUTE OF JAMAICA (STATIN)
+2017,Jamaica,JAM,42.0394,,Statistical Institute of Jamaica
+2015,Kenya,KEN,35.3395,,KENYA NATIONAL BUREAU OF STATISTICS
+2013,Korea (Rep. of),KOR,1.70025,,"Ministry of Science, ICT & Future Planning(MSIP)"
+2014,Korea (Rep. of),KOR,1.34663,,"Ministry of Science, ICT & Future Planning(MSIP)"
+2015,Korea (Rep. of),KOR,1.0791,,"Ministry of Science, ICT & Future Planning(MSIP)"
+2016,Korea (Rep. of),KOR,91.8979,,Ministry of Science and ICT(MSIT)
+2017,Korea (Rep. of),KOR,80.4498,,Ministriy of Sceience and ICT(MSIT)
+2018,Korea (Rep. of),KOR,77.0348,,Ministriy of Sceience and ICT(MSIT)
+2019,Korea (Rep. of),KOR,77.9704,,Ministriy of Sceience and ICT(MSIT)
+2020,Korea (Rep. of),KOR,89.0921,,Ministriy of Sceience and ICT(MSIT)
+2016,Lesotho,LSO,13.4488,,
+2016,Lithuania,LTU,59.7972,,Statistics Lithuania
+2017,Lithuania,LTU,62.2154,,Statistics Lithuania
+2019,Lithuania,LTU,66.3094,,Statistics Lithuania
+2016,Luxembourg,LUX,39.1442,,STATEC  (Institut national de la statistique et des études économiques)
+2017,Luxembourg,LUX,69.4306,,Statec Luxembourg
+2016,Latvia,LVA,50.3634,,Central Statistical Bureau of latvia
+2017,Latvia,LVA,48.4553,,Central Statistical Bureau of Latvia
+2019,Latvia,LVA,61.3491,,Central Statistical Bureau of Latvia
+2014,"Macao, China",MAC,5.16878,,Statistics and Census Service
+2015,"Macao, China",MAC,5.39699,,Statistics and Census Service
+2016,"Macao, China",MAC,39.8148,,Statistics and Census Service
+2017,"Macao, China",MAC,28.6344,,Statistics and Census Service
+2018,"Macao, China",MAC,21.5789,,Statistics and Census Service
+2020,Mauritius,MUS,72.1176,,Statistics Mauritius
+2013,Mexico,MEX,14.0202,,Instituto Nacional de Estadística y Geografía
+2014,Mexico,MEX,16.8987,,Instituto Nacional de Estadística y Geografía (INEGI)
+2015,Mexico,MEX,15.0064,,Instituto Nacional de Estadística y Geografía (INEGI)
+2016,Mexico,MEX,19.2857,,Instituto Nacional de Estadística y Geografía (INEGI)
+2017,Mexico,MEX,21.4656,,Instituto Nacional de Estadística y Geografía (INEGI)
+2018,Mexico,MEX,21.2779,,Instituto Nacional de Estadística y Geografía (INEGI)
+2019,Mexico,MEX,20.9322,,Instituto Nacional de Estadística y Geografía (INEGI)
+2020,Mexico,MEX,19.6893,,Instituto Nacional de Estadística y Geografía (INEGI)
+2019,Malaysia,MYS,77.3122,,"Department of Statistics, Malaysia"
+2020,Malaysia,MYS,70.6705,,"Department of Statistics, Malaysia"
+2016,Malta,MLT,50.6856,,National Statistics Office
+2017,Malta,MLT,52.0584,,National Statistics Office
+2019,Malta,MLT,45.338,,National Statistics Office
+2013,Morocco,MAR,33.3296,,AGENCE NATIONALE DE REGLEMENTATION DES TELECOMMUJNICATIONS
+2014,Morocco,MAR,23.0402,,AGENCE NATIONALE DE REGLEMENTATION DES TELECOMMUJNICATIONS
+2015,Morocco,MAR,9.51602,,Agence Nationale de Réglementation des Télécommunications (ANRT)
+2016,Morocco,MAR,67.7024,,Agence Nationale de Réglementation des Télécommunications (ANRT)
+2017,Morocco,MAR,70.0024,,Agence Nationale de Réglementation des Télécommunications (ANRT)
+2018,Morocco,MAR,51.6,,Agence Nationale de Réglementation des Télécommunications (ANRT)
+2018,Niger,NER,47.2504,,
+2017,Norway,NOR,52.4053,,Statistics Norway
+2013,Oman,OMN,3.00111,,Information Technology Authority (ITA) 
+2016,Oman,OMN,0.709335,,Information Technology Authority (ITA) 
+2015,Panama,PAN,26.9674,,CONTRALORIA GENERAL - INSTITUTO NACIONAL DE ESTADÌSTICA Y CENSO
+2016,Poland,POL,70.1399,,the Statistical Office in Szczecin 
+2017,Poland,POL,67.4847,,
+2018,Poland,POL,65.3158,,Statistics Poland
+2019,Poland,POL,67.2918,,Statistics Poland
+2017,Portugal,PRT,46.2665,,Statistics Portugal
+2019,Portugal,PRT,47.8345,,Statistics Portugal
+2015,Qatar,QAT,1.80309,,Ministry Of Transport and Communications
+2016,Qatar,QAT,29.1867,,
+2017,Qatar,QAT,18.3744,,
+2018,Qatar,QAT,9.75229,,Ministry Of Transport and Communications
+2019,Qatar,QAT,3.04655,,Ministry of Transport and Communications
+2020,Qatar,QAT,0,,Ministry of Transport and Communications
+2019,Romania,ROU,39.5232,,National Institute of Statistics
+2014,Russian Federation,RUS,20.5245,,Federal State Statistics Service (Rosstat)
+2015,Russian Federation,RUS,18.5162,,Federal State Statistics Service (Rosstat)
+2016,Russian Federation,RUS,69.649,,Federal State Statistics Service (Rosstat)
+2017,Russian Federation,RUS,70.261,,Federal State Statistics Service (ROSSTAT)
+2018,Russian Federation,RUS,69.7823,,Federal State Statistics Service (Rosstat) 
+2019,Russian Federation,RUS,70.707,,Federal State Statistics Service (Rosstat) 
+2020,Russian Federation,RUS,70.8905,,Federal State Statistics Service
+2013,Singapore,SGP,6.5049,,Infocomm Development Authority of Singapore
+2014,Singapore,SGP,5.76319,,Infocomm Development Authority of Singapore
+2015,Singapore,SGP,7.62744,,
+2017,Singapore,SGP,63.7551,,Infocomm Media Development Authority
+2014,Switzerland,CHE,14.421,,Office fédéral de la statistique
+2017,Switzerland,CHE,74.3217,,Office fédéral de la statistique
+2019,Switzerland,CHE,72.4092,,Office fédéral de la statistique
+2016,Slovenia,SVN,65.4362,,Statistical Office of the Republic of Slovenia 
+2017,Slovenia,SVN,64.7607,,Statistical Office of the Republic of Slovenia 
+2018,Slovenia,SVN,100,,Statistical Office of the Republic of Slovenia 
+2019,Slovenia,SVN,51.8149,,Statistical Office of the Republic of Slovenia 
+2020,Slovenia,SVN,59.5739,,Statistical Office of the Republic of Slovenia 
+2016,Czech Republic,CZE,75.9614,,Czech Statistical Office
+2017,Czech Republic,CZE,79.9257,,Czech Statistical Office
+2019,Czech Republic,CZE,80.6168,,Czech Statistical Office
+2015,Thailand,THA,29.7945,,
+2016,Thailand,THA,61.8732,,National Statistical Office of Thailand
+2017,Thailand,THA,59.3268,,National Statistical Office of Thailand
+2018,Thailand,THA,60.8527,,National Statistical Office of Thailand
+2019,Thailand,THA,58.635,,National Statistical Office of Thailand
+2020,Thailand,THA,54.3737,,National Statistical Office of Thailand
+2013,Turkey,TUR,17.5544,,Turkish Statistical Institution (TurkStat)
+2016,Turkey,TUR,58.2398,,Turkish Statistical Institute
+2017,Turkey,TUR,58.4375,,Turkish Statistical Institute
+2018,United Arab Emirates,ARE,4.8,,Telecommunication Regulatory Authority
+2019,United Arab Emirates,ARE,4.752,,Telecommunication Regulatory Authority
+2020,United Arab Emirates,ARE,33.3,,Telecommunications & Digital Gevernment Regulatory Authority
+2020,Ukraine,UKR,81.1744,,State Statistics Service of Ukraine
+2018,Uzbekistan,UZB,74.4789,,The State Committee of the Republic of Uzbekistan on Statistics
+2020,Uzbekistan,UZB,63.1256,,The State Committee of the Republic of Uzbekistan on Statistics
+2016,Serbia,SRB,59.0591,,Statistical office of the Republic of Serbia
+2017,Serbia,SRB,68.4683,,Statistical office of the Republic of Serbia
+2018,Serbia,SRB,52.2675,,Statistical office of the Republic of Serbia
+2020,Serbia,SRB,76.6001,,Statistical office of the Republic of Serbia
+2014,Zimbabwe,ZWE,16.7043,,
+2020,Zimbabwe,ZWE,22.4578,,Zimbabwe National Statistics Agency (ZIMSTAT)
+2016,Bosnia and Herzegovina,BIH,45.5384,,Agency for statistics of Bosnia and Herzegovina
+2017,Bosnia and Herzegovina,BIH,50.1002,,Agency for statistics of Bosnia and Herzegovina
+2019,Bosnia and Herzegovina,BIH,50.0863,,Agency for statistics of Bosnia and Herzegovina
+2020,Bosnia and Herzegovina,BIH,53.4252,,Agency for statistics of Bosnia and Herzegovina
+2016,Georgia,GEO,0.772667,,Geostat
+2017,Georgia,GEO,1.16638,,Geostat
+2018,Georgia,GEO,0.886251,,National Statistics Office of Georgia - GEOSTAT
+2019,Georgia,GEO,0.836129,,National Statistics Office of Georgia - Geostat
+2020,Georgia,GEO,1.16885,,National Statistics Office of Georgia - Geostat
+2015,Kazakhstan,KAZ,0.784502,,Ministry of National Economy of the Republic of Kazakhstan Committee on Statistics
+2016,Kazakhstan,KAZ,80.8268,,Ministry of National Economy of the Republic of Kazakhstan Committee on Statistics
+2017,Kazakhstan,KAZ,73.3437,,Ministry of National Economy of the Republic of Kazakhstan Committee on Statistics
+2018,Kazakhstan,KAZ,71.7027,,Ministry of National Economy of the Republic of Kazakhstan Committee on Statistics
+2019,Kazakhstan,KAZ,72.2459,,Ministry of National Economy of the Republic of Kazakhstan Committee on Statistics
+2020,Kazakhstan,KAZ,79.4252,,Agency for Strategic planning and reforms of the Republic of Kazakhstan Bureau of National statistics
+2019,Slovakia,SVK,54.5426,,Statistical Office Of the Slovak Republic
+2017,North Macedonia,MKD,40.0499,,State Statistical Office
+2014,Palestine,WBG,13.0845,,Palestinian Central Bureau of Statistics
+2019,Palestine,WBG,62.5794,,Palestinian Central Bureau of Statistics
+2015,Montenegro,MNE,14.1271,,Statistical Office of Montenegro
+2016,Montenegro,MNE,53.1697,,Statistical Office of Montenegro
+2017,Montenegro,MNE,52.1944,,Statistical Office of Montenegro

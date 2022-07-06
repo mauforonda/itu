@@ -1,0 +1,66 @@
+year,country,iso,value,note,source
+2020,South Africa,ZAF,0.96,,Independent Communications Authority of South Africa
+2018,Algeria,DZA,0,,Ministère de la Poste et des Télécommunications
+2019,Algeria,DZA,0,,Ministère de la Poste et des Télécommunications
+2020,Algeria,DZA,0,,Ministère de la Poste et des Télécommunications
+2020,Australia,AUS,75,"Financial year data.    Source: Telstra (2021), Telstra Annual Report 2021, p.9,  We expanded our 5G footprint to cover 75   per cent of Australians where they live   and our 4G footprint to 99.5 per cent of   all Australians""    https://www.telstra.com.au/content/dam/tcom/about-us/investors/pdf-g/0821-TEL-AR-2021-FINAL-Interactive.pdf""  ","Department of Infrastructure, Transport, Regional Development and Communications"
+2020,Austria,AUT,55,,Austrian Regulatory Authority for Broadcasting and Telecommunications
+2020,Azerbaijan,AZE,0,,"Ministry of Transport, Communications and High Technologies"
+2020,Burundi,BDI,0,,AGENCE DE REGULATION ET DE CONTROLE DES TELECOMMUNICATIONS(ARCT)
+2020,Bahrain,BHR,100,,TRA
+2018,Côte d'Ivoire,CIV,0,,ARTCI
+2019,Côte d'Ivoire,CIV,0,,ARTCI
+2020,Côte d'Ivoire,CIV,0,La 5G n'est pas encore déployée en Côte d'Ivoire,ARTCI
+2018,Costa Rica,CRI,0,,Superintendencia de Telecomunicaciones
+2019,Costa Rica,CRI,0,,Superintendencia de Telecomunicaciones
+2020,Costa Rica,CRI,0,,Superintendencia de Telecomunicaciones
+2020,Djibouti,DJI,0,,Ministère de la Communication chargé des Postes et des Télécommunications
+2020,Denmark,DNK,98,,Danish Energy Agency
+2020,Spain,ESP,78.8,,CNMC
+2018,Fiji,FJI,0,,Ministry of Communications
+2019,Fiji,FJI,0,,Ministry of Communications
+2020,Fiji,FJI,0,,Ministry of Communications
+2020,Finland,FIN,67,5G network with at least 100 Mbit/s DL-speed. Includes also non-standalone 5G networks.,"Finnish Transport and Communications Agency, Traficom"
+2020,Ghana,GHA,0,Ghana yet to launch 5G,National Communications Authority (NCA)
+2020,Gibraltar,GIB,100,,Gibraltar Regulatory Authority
+2020,"Hong Kong, China",HKG,90,over 90%,Office of the Communications Authority
+2020,Honduras,HND,0,No se ha implementado todavía la tecnología 5G,Comisión Nacional de Telecomunicaciones (CONATEL)
+2018,Iran (Islamic Republic of),IRN,0,,Information Technology Organization of Iran(ITO)
+2019,Iran (Islamic Republic of),IRN,0,,Information Technology Organization of Iran(ITO)
+2020,Iran (Islamic Republic of),IRN,0,,Information Technology Organization of Iran(ITO)
+2020,Kuwait,KWT,96.87,,Communication and information technology regulatory authority Kuwait
+2020,Liechtenstein,LIE,0,,Office for Communications
+2020,Lithuania,LTU,25.7,25.7% of population is covered by 5G pilot network,Communications Regulatory Authority of the Republic of Lithuania (RRT)
+2020,Monaco,MCO,100,,Gouvernement de Monaco
+2018,Mexico,MEX,0,,Instituto Federal de Telecomunicaciones
+2019,Mexico,MEX,0,,Instituto Federal de Telecomunicaciones
+2020,Mexico,MEX,0,,Instituto Federal de Telecomunicaciones
+2020,Maldives,MDV,37,,Communications Authority of Maldives
+2018,Mali,MLI,0,Service 5G non encore disponible,Autorité Malienne de Régulation des Télécommunications/TIC et des Postes (AMRTP)
+2019,Mali,MLI,0,Service 5G non encore disponible,Autorité Malienne de Régulation des Télécommunications/TIC et des Postes (AMRTP)
+2020,Mali,MLI,0,Service 5G non encore disponible,Autorité Malienne de Régulation des Télécommunications/TIC et des Postes (AMRTP)
+2020,Malawi,MWI,0,,Malawi Communication regulatory authority
+2020,Namibia,NAM,0,,CRAN
+2020,Panama,PAN,0,,Autoridad Nacional de los Servicios Publicos
+2018,Poland,POL,0,,Office of Electronic Communications
+2019,Poland,POL,0,,Office of Electronic Communications
+2020,Poland,POL,0,,Office of Electronic Communications
+2020,Qatar,QAT,93,population coverage is between 93%-98%,Ministry of Transport and Communications
+2020,Sweden,SWE,17.74,,Swedish Post and Telecom Authority (PTS)
+2019,Switzerland,CHE,91.56,Telecommunications statistics 2019,OFCOM
+2020,Switzerland,CHE,96.55,Telecommunications statistics 2020,OFCOM
+2018,Chad,TCD,0,,Autorité de Régulation des Communications Électroniques et des Postes
+2019,Chad,TCD,0,,Autorité de Régulation des Communications Électroniques et des Postes
+2020,Chad,TCD,0,,Autorité de Régulation des Communications Électroniques et des Postes
+2020,Czech Republic,CZE,0,,Czech Telecommunication Office
+2020,Trinidad and Tobago,TTO,0,,Telecommunications Authority of Trinidad and Tobago
+2020,United Arab Emirates,ARE,80,,Telecommunications and Digital Government Regulatory Authority
+2018,Uzbekistan,UZB,0,,Ministry of Development of the Information Technologies and Communications of the Republic of Uzbekistan
+2019,Uzbekistan,UZB,0,,Ministry of Development of the Information Technologies and Communications of the Republic of Uzbekistan
+2020,Uzbekistan,UZB,5,,Ministry of Development of the Information Technologies and Communications of the Republic of Uzbekistan
+2018,Faroe Islands,FRO,0,,Fjarskiftiseftirlitið - National Regulator Authority - Telecoms
+2019,Faroe Islands,FRO,0,,Fjarskiftiseftirlitið - National Regulator Authority - Telecoms
+2020,Faroe Islands,FRO,0,,Fjarskiftiseftirlitið - National Regulator Authority - Telecoms
+2020,"Taiwan, Province of China",TWN,45,,National Communications Commission
+2020,Palestine,WBG,0,,Ministry of Telecom and IT
+2020,Montenegro,MNE,0,,Agency for Electronic Communications and Postal Services
